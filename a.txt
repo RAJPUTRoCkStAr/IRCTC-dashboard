@@ -1,0 +1,15405 @@
+02526
+Anand Vihar Terminal - Kamakhya Special Fare SF Special
+SF
+NFR
+Feb 18
+Dec 29
+ANVT
+17:20
+KYQ
+03:40
+34h 20m
+25
+S	 	 	 	 	 	 
+SL 3A 2A 1A 3E
+1913 km
+56 km/hr
+02525
+02525
+Kamakhya - Anand Vihar Terminal Special Fare SF Special
+SF
+NFR
+Feb 16
+Dec 27
+KYQ
+22:45
+ANVT
+08:50
+34h 5m
+25
+ 	 	 	 	 	F	 
+2S SL 3A 2A 1A 3E
+1913 km
+56 km/hr
+02526
+04372
+Yog Nagari Rishikesh - Lucknow Kanwar Yatra Special (UnReserved)
+Exp
+NR
+Aug 06
+Aug 19
+YNRK
+20:35
+LKO
+11:15
+14h 40m
+12
+S	M	T	W	T	F	S
+515 km
+35 km/hr
+04371
+04371
+Lucknow - Yog Nagari Rishikesh Kanwar Yatra Special (UnReserved)
+Exp
+NR
+Aug 06
+Aug 19
+LKO
+11:45
+YNRK
+23:00
+11h 15m
+12
+S	M	T	W	T	F	S
+515 km
+46 km/hr
+04372
+04323
+Delhi - Haridwar Kanwar Yatra Special (UnReserved)
+Pass
+NR
+Jul 22
+Aug 02
+DLI
+22:00
+HW
+04:25
+6h 25m
+6
+S	M	T	W	T	F	S
+258 km
+40 km/hr
+04324
+04324
+Haridwar - Delhi Kanwar Yatra Special (UnReserved)
+Pass
+NR
+Jul 22
+Aug 02
+HW
+15:45
+DLI
+20:50
+5h 5m
+6
+S	M	T	W	T	F	S
+258 km
+51 km/hr
+04323
+02832
+Bhubaneswar - Dhanbad Special Fare Special
+Exp
+ECoR
+Jul 30
+BBS
+20:25
+DHN
+11:00
+14h 35m
+11
+S	M	T	W	T	F	S
+SL 3A 2A
+776 km
+53 km/hr
+02831
+02831
+Dhanbad - Bhubaneswar Special Fare Special
+Exp
+ECoR
+Jul 31
+DHN
+16:00
+BBS
+07:45
+15h 45m
+11
+S	M	T	W	T	F	S
+SL 3A 2A
+776 km
+49 km/hr
+02832
+05733
+Amritsar - Katihar Special Fare Special
+Exp
+NFR
+Jul 27
+Aug 17
+ASR
+04:25
+KIR
+15:00
+34h 35m
+28
+ 	 	 	 	 	 	S
+2S SL 3A
+1740 km
+50 km/hr
+05734
+05098
+Daurai - Tanakpur Special Fare Summer Special
+Exp
+NER
+Jul 23
+Sep 28
+DOZ
+16:05
+TPU
+09:35
+17h 30m
+20
+ 	 	T	 	T	 	S
+SL 3A 2A
+779 km
+45 km/hr
+05097
+05097
+Tanakpur - Daurai Special Fare Summer Special
+Exp
+NER
+Jul 22
+Sep 27
+TPU
+18:25
+DOZ
+13:40
+19h 15m
+20
+ 	M	 	W	 	F	 
+2S SL 3A 2A
+779 km
+40 km/hr
+05098
+09419
+Ahmedabad - Tiruchchirappalli Special Fare Special
+Exp
+WR
+Aug 15
+ADI
+09:30
+TPJ
+03:45
+42h 15m
+30
+ 	 	 	 	T	 	 
+SL 3A 2A
+2105 km
+50 km/hr
+09420
+09420
+Tiruchchirappalli - Ahmedabad Special Fare Special
+Exp
+WR
+Aug 18
+TPJ
+05:40
+ADI
+21:15
+39h 35m
+29
+S	 	 	 	 	 	 
+SL 3A 2A
+2105 km
+53 km/hr
+09419
+05316
+Kasganj - Mathura Mela Special (UnReserved)
+Pass
+NER
+Jul 24
+KSJ
+00:20
+MTJ
+02:50
+2h 30m
+5
+S	M	T	W	T	F	S
+105 km
+42 km/hr
+05315
+05315
+Mathura - Kasganj Mela Special (UnReserved)
+Pass
+NER
+Jul 24
+MTJ
+03:35
+KSJ
+06:25
+2h 50m
+5
+S	M	T	W	T	F	S
+105 km
+37 km/hr
+05316
+08846
+SMVT Bengaluru - Santragachi Jan Sadharan SF Special (UnReserved)
+SF
+SER
+Apr 28
+Jul 28
+SMVB
+03:15
+SRC
+10:45
+31h 30m
+18
+S	 	 	 	 	 	 
+1920 km
+61 km/hr
+08845
+08845
+Santragachi - SMVT Bengaluru Jan Sadharan SF Special (UnReserved)
+SF
+SER
+Apr 26
+Jul 26
+SRC
+19:00
+SMVB
+02:00
+31h 0m
+18
+ 	 	 	 	 	F	 
+1920 km
+62 km/hr
+08846
+01422
+Danapur - Pune Special Fare AC Special
+ACExp
+CR
+Jul 23
+Jul 27
+DNR
+06:30
+PUNE
+17:35
+35h 5m
+14
+ 	 	T	 	 	 	S
+3E
+1748 km
+50 km/hr
+01421
+01421
+Pune - Danapur Special Fare AC Special
+ACExp
+CR
+Jul 21
+Jul 25
+PUNE
+19:55
+DNR
+04:30
+32h 35m
+14
+S	 	 	 	T	 	 
+3E
+1748 km
+54 km/hr
+01422
+05734
+Katihar - Amritsar Special Fare Special
+Exp
+NFR
+Jul 25
+Aug 15
+KIR
+11:40
+ASR
+00:10
+36h 30m
+29
+ 	 	 	 	T	 	 
+2S SL 3A
+1740 km
+48 km/hr
+05733
+09044
+Gorakhpur - Dahanu Road Special Fare Special
+Exp
+WR
+Jul 24
+Aug 28
+GKP
+13:00
+DRD
+22:30
+33h 30m
+21
+ 	M	 	W	 	 	 
+SL 3A
+1665 km
+50 km/hr
+09043
+09042
+Chhapra - Udhna Special (UnReserved)
+Exp
+WR
+Jul 22
+Aug 26
+CPR
+23:00
+UDN
+06:45
+31h 45m
+16
+ 	M	 	 	 	 	 
+1684 km
+53 km/hr
+09041
+09041
+Udhna - Chhapra Special (UnReserved)
+Exp
+WR
+Jul 21
+Aug 25
+UDN
+11:15
+CPR
+19:00
+31h 45m
+16
+S	 	 	 	 	 	 
+1684 km
+53 km/hr
+09042
+01043
+Mumbai LTT - Samastipur Special Fare SF Special
+SF
+CR
+Jul 20
+Jul 24
+LTT
+12:15
+SPJ
+21:15
+33h 0m
+20
+ 	 	 	W	 	 	S
+SL
+1812 km
+55 km/hr
+01044
+01044
+Samastipur - Mumbai LTT Special Fare SF Special
+SF
+CR
+Jul 21
+Jul 25
+SPJ
+23:20
+LTT
+07:40
+32h 20m
+20
+S	 	 	 	T	 	 
+SL
+1812 km
+56 km/hr
+01043
+01978
+Alwar - Mathura Jn Mela Special (UnReserved)
+Pass
+NCR
+Jul 20
+Jul 22
+AWR
+11:50
+MTJ
+17:30
+5h 40m
+0
+S	M	T	W	T	F	S
+123 km
+22 km/hr
+01977
+01977
+Mathura Jn. - Alwar Mela Special (UnReserved)
+Pass
+NCR
+Jul 20
+Jul 22
+MTJ
+05:45
+AWR
+11:00
+5h 15m
+0
+S	M	T	W	T	F	S
+123 km
+23 km/hr
+01978
+07108
+Mangaluru Jn. - Madgaon MEMU Special
+MEMU
+KR
+Jul 20
+Jul 22
+MAJN
+12:40
+MAO
+19:00
+6h 20m
+21
+S	M	 	 	 	 	S
+313 km
+49 km/hr
+07107
+07107
+Madgaon - Mangaluru Jn. MEMU Special
+MEMU
+KR
+Jul 20
+Jul 22
+MAO
+06:00
+MAJN
+12:15
+6h 15m
+21
+S	M	 	 	 	 	S
+313 km
+50 km/hr
+07108
+06092
+Barauni - Kochuveli Special Fare Special
+Exp
+SR
+Jul 23
+Jul 23
+BJU
+23:30
+KCVL
+13:30
+62h 0m
+47
+ 	 	T	 	 	 	 
+SL
+2951 km
+48 km/hr
+06091
+06548
+Mangaluru Jn. - Yesvantpur Special Fare One Trip Special
+Exp
+SWR
+Jul 20
+Jul 20
+MAJN
+13:40
+YPR
+23:15
+9h 35m
+8
+ 	 	 	 	 	 	S
+SL 3A 2A
+357 km
+37 km/hr
+06547
+06550
+Mangaluru Jn. - Yesvantpur Special Fare Special
+Exp
+SWR
+Jul 21
+Jul 22
+MAJN
+13:40
+YPR
+23:15
+9h 35m
+8
+S	M	 	 	 	 	 
+3A 2A
+357 km
+37 km/hr
+06549
+06549
+Yesvantpur - Mangaluru Jn. Special Fare Special
+Exp
+SWR
+Jul 21
+Jul 23
+YPR
+00:30
+MAJN
+11:40
+11h 10m
+8
+S	M	 	 	 	 	 
+SL 3A 2A
+357 km
+32 km/hr
+06550
+09043
+Bandra Terminus - Gorakhpur Special Fare Special
+Exp
+WR
+Jul 23
+Aug 27
+BDTS
+00:05
+GKP
+09:30
+33h 25m
+24
+S	 	T	 	 	 	 
+SL 3A
+1774 km
+53 km/hr
+09044
+01165
+Mumbai LTT - Kudal Special Fare Ganpati AC Special
+ACExp
+CR
+Sep 03
+Sep 17
+LTT
+00:45
+KUDL
+12:30
+11h 45m
+14
+ 	 	T	 	 	 	 
+3A 2A 1A
+467 km
+40 km/hr
+01166
+01166
+Kudal - Mumbai LTT Special Fare Ganpati AC Special
+ACExp
+CR
+Sep 03
+Sep 17
+KUDL
+16:30
+LTT
+04:50
+12h 20m
+18
+ 	 	T	 	 	 	 
+3A 2A 1A
+467 km
+38 km/hr
+01165
+01186
+Kudal - Mumbai LTT Special Fare Ganapati Special
+Exp
+CR
+Sep 02
+Sep 18
+KUDL
+16:30
+LTT
+04:50
+12h 20m
+18
+ 	M	 	W	 	 	S
+SL 3A
+467 km
+38 km/hr
+01185
+01185
+Mumbai LTT - Kudal Special Fare Ganapati Special
+Exp
+CR
+Sep 02
+Sep 18
+LTT
+00:45
+KUDL
+12:30
+11h 45m
+14
+ 	M	 	W	 	 	S
+SL 3A
+467 km
+40 km/hr
+01186
+01156
+Chiplun - Diva Ganpati Special MEMU
+MEMU
+CR
+Sep 01
+Sep 18
+CHI
+15:30
+DIVA
+22:50
+7h 20m
+0
+S	M	T	W	T	F	S
+228 km
+31 km/hr
+01155
+01155
+Diva - Chiplun Ganpati Special MEMU
+MEMU
+CR
+Sep 01
+Sep 18
+DIVA
+07:15
+CHI
+14:00
+6h 45m
+0
+S	M	T	W	T	F	S
+228 km
+34 km/hr
+01156
+01168
+Kudal - Mumbai LTT Special Fare Ganpati Special
+Exp
+CR
+Sep 01
+Sep 18
+KUDL
+10:30
+LTT
+21:55
+11h 25m
+14
+S	M	T	W	T	F	S
+SL 3A
+467 km
+41 km/hr
+01167
+01167
+Mumbai LTT - Kudal Special Fare Ganpati Special
+Exp
+CR
+Sep 01
+Sep 28
+LTT
+21:00
+KUDL
+09:30
+12h 30m
+14
+S	M	T	W	T	F	S
+SL 3A
+467 km
+37 km/hr
+01168
+01152
+Sawantwadi Road - Mumbai CSMT Special Fare Ganapati Special
+Exp
+CR
+Sep 01
+Sep 18
+SWV
+15:10
+CSMT
+04:35
+13h 25m
+20
+S	M	T	W	T	F	S
+SL 3A
+505 km
+38 km/hr
+01151
+01151
+Mumbai CSMT - Sawantwadi Road Special Fare Ganapati Special
+Exp
+CR
+Sep 01
+Sep 18
+CSMT
+00:20
+SWV
+14:20
+14h 0m
+20
+S	M	T	W	T	F	S
+SL 3A
+505 km
+36 km/hr
+01152
+01154
+Ratnagiri - Mumbai CSMT Special Fare Ganpati Special
+Exp
+CR
+Sep 01
+Sep 18
+RN
+04:00
+CSMT
+13:30
+9h 30m
+12
+S	M	T	W	T	F	S
+SL 3A
+344 km
+36 km/hr
+01153
+01153
+Mumbai CSMT - Ratnagiri Special Fare Ganpati Special
+Exp
+CR
+Sep 01
+Sep 18
+CSMT
+11:30
+RN
+20:10
+8h 40m
+12
+S	M	T	W	T	F	S
+SL 3A
+344 km
+40 km/hr
+01154
+05180
+Azamgarh - Puri Special Fare One Way Special
+Exp
+NER
+Jul 22
+Jul 22
+AMH
+12:00
+PURI
+15:00
+27h 0m
+14
+ 	M	 	 	 	 	 
+SL
+1183 km
+44 km/hr
+06185
+Coimbatore - Danapur Special Fare One Way Special
+Exp
+NCR
+Jul 21
+Jul 21
+CBE
+23:30
+DNR
+01:30
+50h 0m
+31
+S	 	 	 	 	 	 
+SL
+2532 km
+51 km/hr
+03253
+Patna - Secunderabad Special Fare Special
+Exp
+ECR
+Sep 30
+PNBE
+15:00
+SC
+03:30
+36h 30m
+21
+ 	M	 	W	 	 	 
+SL 3A 2A
+1875 km
+51 km/hr
+07256
+03226
+Secunderabad - Danapur Special Fare SF Special
+SF
+ECR
+Sep 29
+SC
+10:00
+DNR
+19:00
+33h 0m
+16
+S	 	 	 	 	 	 
+SL 3A 2A
+1822 km
+55 km/hr
+03225
+03225
+Danapur - Secunderabad Special Fare SF Special
+SF
+ECR
+Sep 26
+DNR
+20:50
+SC
+04:40
+31h 50m
+16
+ 	 	 	 	T	 	 
+SL 3A 2A
+1822 km
+57 km/hr
+03226
+07256
+Secunderabad - Patna Special Fare Special
+Exp
+ECR
+Sep 27
+SC
+21:00
+PNBE
+09:30
+36h 30m
+21
+ 	 	 	 	 	F	 
+SL 3A 2A
+1872 km
+51 km/hr
+03253
+07255
+Hyderabad - Patna Special Fare Special
+Exp
+ECR
+Oct 02
+HYB
+22:50
+PNBE
+11:30
+36h 40m
+22
+ 	 	 	W	 	 	 
+SL 3A 2A
+1882 km
+51 km/hr
+03253
+01172
+Sawantwadi Road - Mumbai LTT Special Fare Ganpati Special
+Exp
+CR
+Sep 01
+Sep 18
+SWV
+22:20
+LTT
+10:40
+12h 20m
+19
+S	M	T	W	T	F	S
+SL 3A
+488 km
+40 km/hr
+01171
+01425
+Pandharpur - New Amravati Special (UnReserved)
+Exp
+CR
+Jul 19
+Jul 19
+PVR
+21:00
+NAVI
+13:00
+16h 0m
+8
+ 	 	 	 	 	F	 
+808 km
+50 km/hr
+01119
+08610
+Bhagalpur - Ranchi Special Fare Shravani Mela Special
+Exp
+SER
+Jul 22
+Aug 14
+BGP
+12:20
+RNC
+03:00
+14h 40m
+13
+ 	M	 	W	 	 	 
+SL 3A 2A
+644 km
+44 km/hr
+08645
+08645
+Ranchi - Bhagalpur Special Fare Shravani Mela Special
+Exp
+SER
+Jul 21
+Aug 13
+RNC
+21:35
+BGP
+10:50
+13h 15m
+11
+S	 	T	 	 	 	 
+SL 3A 2A
+560 km
+42 km/hr
+08610
+04218
+Lucknow - Varanasi Express Special (via Ayodhya Dham) (UnReserved)
+Exp
+NR
+Sep 22
+LKO
+16:30
+BSB
+21:50
+5h 20m
+8
+S	M	T	W	T	F	S
+324 km
+61 km/hr
+04217
+04217
+Varanasi - Lucknow Express Special (via Ayodhya Dham) (UnReserved)
+Exp
+NR
+Sep 22
+BSB
+06:25
+LKO
+11:45
+5h 20m
+8
+S	M	T	W	T	F	S
+324 km
+61 km/hr
+04218
+09314
+Bhopal - Ujjain Special (UnReserved)
+Exp
+WR
+Jul 12
+Sep 01
+BPL
+02:10
+UJN
+07:20
+5h 10m
+8
+S	M	T	W	T	F	S
+183 km
+36 km/hr
+09313
+07178
+Wadi - Hyderabad Urs-E-Shareef Special (UnReserved)
+Exp
+SCR
+Jul 22
+Jul 22
+WADI
+11:05
+HYB
+16:00
+4h 55m
+19
+ 	 	 	 	T	 	 
+186 km
+38 km/hr
+07177
+05574
+Deoghar - Saraigarh Shravani Mela Express Special (UnReserved)
+Exp
+ECR
+Jul 22
+Aug 21
+DGHR
+11:45
+SRGR
+22:15
+10h 30m
+18
+S	M	T	W	T	F	S
+289 km
+27 km/hr
+05573
+05573
+Saraigarh - Deoghar Shravani Mela Express Special (UnReserved)
+Exp
+ECR
+Jul 21
+Aug 20
+SRGR
+03:05
+DGHR
+11:30
+8h 25m
+18
+S	M	T	W	T	F	S
+289 km
+34 km/hr
+05574
+03266
+Patna - Madhupur Shravani Mela MEMU Express Special (UnReserved)
+Exp
+ECR
+Jul 21
+Aug 20
+PNBE
+23:10
+MDP
+04:50
+5h 40m
+19
+S	M	T	W	T	F	S
+250 km
+44 km/hr
+03265
+03265
+Madhupur - Patna Shravani Mela MEMU Express Special (UnReserved)
+Exp
+ECR
+Jul 22
+Aug 21
+MDP
+05:00
+PNBE
+12:00
+7h 0m
+19
+S	M	T	W	T	F	S
+250 km
+36 km/hr
+03266
+01171
+Mumbai LTT - Sawantwadi Road Special Fare Ganpati Special
+Exp
+CR
+Sep 01
+Sep 18
+LTT
+08:20
+SWV
+21:00
+12h 40m
+19
+S	M	T	W	T	F	S
+SL 3A
+488 km
+39 km/hr
+01172
+07177
+Hyderabad - Wadi Urs-E-Shareef Special (UnReserved)
+Exp
+SCR
+Jul 22
+Jul 22
+HYB
+05:00
+WADI
+10:15
+5h 15m
+19
+ 	M	 	 	 	 	 
+186 km
+35 km/hr
+07178
+07176
+Wadi - Hyderabad Deccan Nampally Urs-E-Shareef Special (UnReserved)
+Exp
+SCR
+Jul 20
+Jul 20
+WADI
+16:20
+HYB
+21:20
+5h 0m
+19
+ 	 	 	 	 	 	S
+186 km
+37 km/hr
+07175
+07175
+Hyderabad - Wadi Urs-E-Shareef Special (UnReserved)
+Exp
+SCR
+Jul 20
+Jul 20
+HYB
+10:05
+WADI
+15:30
+5h 25m
+19
+ 	 	 	 	 	 	S
+186 km
+34 km/hr
+07176
+09640
+Rewari - Madar Special (UnReserved)
+Exp
+NWR
+Jul 20
+Aug 31
+RE
+15:30
+MDJN
+22:35
+7h 5m
+16
+S	M	T	W	T	F	S
+289 km
+41 km/hr
+09639
+09639
+Madar - Rewari Special (UnReserved)
+Exp
+NWR
+Jul 20
+Aug 31
+MDJN
+04:30
+RE
+10:40
+6h 10m
+16
+S	M	T	W	T	F	S
+289 km
+47 km/hr
+09640
+05904
+Gorakhpur - Dibrugarh Relief Special
+Exp
+NER
+Jul 18
+Jul 18
+GKP
+23:00
+DBRG
+13:20
+38h 20m
+26
+ 	 	 	 	T	 	 
+SL 3A 2A
+1725 km
+45 km/hr
+05027
+Deoghar - Gorakhpur Special Fare Shravani Mela Special
+Exp
+NER
+Jul 21
+Aug 21
+DGHR
+14:00
+GKP
+03:00
+13h 0m
+21
+S	M	T	W	T	F	S
+SL
+548 km
+42 km/hr
+05028
+03258
+Anand Vihar Terminal - Danapur Special Fare SF Special
+SF
+ECR
+Apr 15
+Sep 30
+ANVT
+05:00
+DNR
+20:45
+15h 45m
+5
+ 	M	 	 	 	 	 
+SL 3A 2A
+977 km
+62 km/hr
+03257
+03257
+Danapur - Anand Vihar Terminal Special Fare SF Special
+SF
+ECR
+Apr 14
+Sep 29
+DNR
+07:30
+ANVT
+00:30
+17h 0m
+5
+S	 	 	 	 	 	 
+SL 3A 2A
+977 km
+57 km/hr
+03258
+02392
+Anand Vihar Terminal - Patna Special Fare SF Special
+SF
+ECR
+Apr 14
+Sep 29
+ANVT
+23:30
+PNBE
+17:20
+17h 50m
+6
+S	 	 	 	 	 	 
+SL 3A 2A
+986 km
+55 km/hr
+02391
+02391
+Patna - Anand Vihar Terminal Special Fare SF Special
+SF
+ECR
+Apr 13
+Sep 28
+PNBE
+22:20
+ANVT
+15:00
+16h 40m
+6
+ 	 	 	 	 	 	S
+SL 3A 2A
+986 km
+59 km/hr
+02392
+03256
+Anand Vihar Terminal - Patna Special Fare SF Special
+SF
+ECR
+Apr 15
+Sep 30
+ANVT
+23:20
+PNBE
+17:20
+18h 0m
+6
+ 	M	 	 	 	F	 
+SL 3A 2A 3E
+986 km
+55 km/hr
+03255
+03255
+Patna - Anand Vihar Terminal Special Fare SF Special
+SF
+ECR
+Apr 14
+Sep 29
+PNBE
+22:20
+ANVT
+15:00
+16h 40m
+6
+S	 	 	 	T	 	 
+SL 3A 2A 3E
+986 km
+59 km/hr
+03256
+06183
+MGR Chennai Central - Tirunelveli One Way Special Fare Special
+Exp
+SR
+Jul 19
+Jul 19
+MAS
+23:20
+TEN
+11:20
+12h 0m
+14
+ 	 	 	 	 	F	 
+SL
+661 km
+55 km/hr
+09703
+Dahar Ka Balaji (Jaipur) - Hisar One Way Express Special (UnReserved)
+Exp
+NWR
+Jul 21
+Jul 21
+DKBJ
+18:10
+HSR
+02:05
+7h 55m
+21
+S	 	 	 	 	 	 
+348 km
+44 km/hr
+06091
+Kochuveli - Barauni Special Fare Special
+Exp
+SR
+Jul 20
+Jul 20
+KCVL
+08:00
+BJU
+14:30
+54h 30m
+47
+ 	 	 	 	 	 	S
+SL
+2948 km
+54 km/hr
+06092
+04810
+Pokran - Jodhpur Special (UnReserved)
+Exp
+NWR
+Jul 20
+Aug 05
+POK
+14:30
+JU
+18:40
+4h 10m
+7
+S	M	T	W	T	F	S
+194 km
+46 km/hr
+04809
+04809
+Jodhpur - Pokran Special (UnReserved)
+Exp
+NWR
+Jul 20
+Aug 05
+JU
+09:40
+POK
+13:50
+28h 10m
+8
+S	M	T	W	T	F	S
+194 km
+7 km/hr
+04810
+09416
+Gandhidham - Bandra Terminus Special Fare SF Special
+SF
+WR
+Jan 11
+Jul 25
+GIMB
+00:30
+BDTS
+14:20
+13h 50m
+9
+ 	 	 	 	T	 	 
+SL 3A 2A
+782 km
+57 km/hr
+09415
+08235
+Bhopal - Ujjain Passenger Special (UnReserved)
+Pass
+WR
+Jul 17
+Jul 31
+BPL
+17:50
+UJN
+21:20
+3h 30m
+8
+S	M	T	W	 	F	S
+183 km
+52 km/hr
+08236
+08236
+Ujjain - Bhopal Passenger Special (UnReserved)
+Pass
+WR
+Jul 18
+Aug 01
+UJN
+05:00
+BPL
+09:45
+4h 45m
+8
+S	M	T	W	T	 	S
+183 km
+39 km/hr
+08235
+07062
+Bhavnagar Terminus - Secunderabad Special Fare Special
+Exp
+SCR
+Jul 21
+Aug 11
+BVC
+10:15
+SC
+15:45
+29h 30m
+22
+S	 	 	 	 	 	 
+SL 3A 2A 1A
+1513 km
+51 km/hr
+07061
+05920
+Bhagat Ki Kothi - New Tinsukia Special Fare Special
+Exp
+NFR
+Jul 26
+Aug 16
+BGKT
+05:30
+NTSK
+04:00
+70h 30m
+70
+ 	 	 	 	 	F	 
+2S SL 3A
+3289 km
+47 km/hr
+05919
+03114
+Banaras - Sealdah Special Fare Shravani Mela Special
+Exp
+ER
+Jul 28
+Aug 18
+BSBS
+17:00
+SDAH
+10:20
+17h 20m
+15
+S	 	 	 	 	 	 
+SL 3A 2A
+772 km
+45 km/hr
+03113
+05552
+Deoghar - Raxaul Special Fare Shravani Mela Special
+Exp
+ECR
+Jul 21
+Aug 20
+DGHR
+17:45
+RXL
+06:00
+12h 15m
+15
+S	 	T	 	T	 	 
+SL
+495 km
+40 km/hr
+05551
+05551
+Raxaul - Deoghar Special Fare Shravani Mela Special
+Exp
+ECR
+Jul 21
+Aug 20
+RXL
+05:15
+DGHR
+16:45
+11h 30m
+15
+S	 	T	 	T	 	 
+SL
+495 km
+43 km/hr
+05552
+05598
+Asansol - Jaynagar Special Fare Shravani Mela Special
+Exp
+ECR
+Jul 24
+Aug 21
+ASN
+13:00
+JYG
+04:20
+15h 20m
+21
+ 	M	 	W	 	 	S
+SL
+471 km
+31 km/hr
+05597
+05597
+Jaynagar - Asansol Special Fare Shravani Mela Special
+Exp
+ECR
+Jul 23
+Aug 20
+JYG
+22:00
+ASN
+11:30
+13h 30m
+21
+S	 	T	 	 	F	 
+SL
+471 km
+35 km/hr
+05598
+03508
+Jasidih - Deoghar Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+JSME
+21:50
+DGHR
+22:00
+0h 10m
+0
+S	M	T	W	T	F	S
+6 km
+38 km/hr
+03507
+03507
+Deoghar - Jasidih Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+DGHR
+10:00
+JSME
+10:10
+0h 10m
+0
+S	M	T	W	T	F	S
+6 km
+38 km/hr
+03508
+03150
+Jasidih - Dumka Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+JSME
+14:15
+GODA
+15:50
+1h 35m
+5
+S	M	T	W	T	F	S
+86 km
+54 km/hr
+03149
+03149
+Godda - Jasidih Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+GODA
+16:20
+JSME
+17:55
+1h 35m
+5
+S	M	T	W	T	F	S
+86 km
+54 km/hr
+03150
+03148
+Jasidih - Dumka Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+JSME
+18:05
+DUMK
+19:50
+1h 45m
+4
+S	M	T	W	T	F	S
+71 km
+41 km/hr
+03147
+03147
+Dumka - Jasidih Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+DUMK
+20:00
+JSME
+21:10
+1h 10m
+4
+S	M	T	W	T	F	S
+71 km
+61 km/hr
+03148
+03145
+Dumka - Jasidih Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+DUMK
+12:55
+JSME
+14:05
+1h 10m
+4
+S	M	T	W	T	F	S
+71 km
+61 km/hr
+03146
+03146
+Jasidih - Dumka Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+JSME
+11:00
+DUMK
+12:15
+1h 15m
+4
+S	M	T	W	T	F	S
+71 km
+57 km/hr
+03145
+03506
+Baidyanathdham Deoghar - Jasidih Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+BDME
+22:00
+JSME
+22:20
+0h 20m
+0
+S	M	T	W	T	F	S
+6 km
+19 km/hr
+03505
+03505
+Jasidih - Baidyanathdham Deoghar Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+JSME
+21:25
+BDME
+21:45
+0h 20m
+0
+S	M	T	W	T	F	S
+6 km
+19 km/hr
+03506
+03503
+Jasidih - Baidyanathdham Deoghar Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+JSME
+13:35
+BDME
+13:55
+0h 20m
+0
+S	M	T	W	T	F	S
+6 km
+19 km/hr
+03504
+03504
+Baidyanathdham Deoghar - Jasidih Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+BDME
+14:05
+JSME
+14:25
+0h 20m
+0
+S	M	T	W	T	F	S
+6 km
+19 km/hr
+03503
+03502
+Baidyanathdham Deoghar - Jasidih Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+BDME
+16:15
+JSME
+16:30
+0h 15m
+0
+S	M	T	W	T	F	S
+6 km
+25 km/hr
+03501
+03501
+Jasidih - Baidyanathdham Deoghar Shravani Mela MEMU Special
+MEMU
+ER
+Jul 22
+Aug 19
+JSME
+11:25
+BDME
+11:45
+0h 20m
+0
+S	M	T	W	T	F	S
+6 km
+19 km/hr
+03502
+01140
+Madgaon - Nagpur Special Fare Special
+Exp
+CR
+Sep 29
+MAO
+19:00
+NGP
+21:30
+26h 30m
+23
+S	 	 	 	T	 	 
+SL 3A 2A
+1330 km
+50 km/hr
+01139
+09435
+Gandhigram - Okha Special Fare Special
+Exp
+WR
+Aug 24
+GG
+20:20
+OKHA
+09:50
+13h 30m
+14
+ 	 	 	 	 	 	S
+SL 3A
+601 km
+44 km/hr
+09436
+09145
+Mumbai Central - Barauni Special Fare Special
+Exp
+WR
+Jul 22
+Aug 26
+MMCT
+10:30
+BJU
+04:00
+41h 30m
+24
+ 	M	 	 	 	 	 
+SL
+2185 km
+53 km/hr
+09146
+09050
+Bhusaval - Dadar Western Special Fare Special
+Exp
+WR
+Jul 05
+Sep 27
+BSL
+17:40
+DDR
+05:15
+11h 35m
+18
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+581 km
+50 km/hr
+09049
+04829
+Jodhpur - Puri One Way Special Fare Special
+Exp
+NWR
+Jul 18
+Jul 18
+JU
+20:40
+PURI
+10:30
+37h 50m
+25
+ 	 	 	 	T	 	 
+2S SL 3A 2A
+2019 km
+53 km/hr
+08370
+Puri - Brahmapur Rath Yatra One Way MEMU Special
+MEMU
+ECoR
+Jul 19
+Jul 19
+PURI
+23:00
+BAM
+05:00
+6h 0m
+32
+ 	 	 	 	 	F	 
+188 km
+31 km/hr
+01097
+Mumbai CSMT - Patna Special Fare SF One Way Special
+SF
+CR
+Jul 17
+Jul 17
+CSMT
+11:30
+PNBE
+17:30
+30h 0m
+17
+ 	 	 	W	 	 	 
+SL
+1706 km
+57 km/hr
+03512
+Patna - Asansol Special Fare Shravani Mela Special
+Exp
+ER
+Jul 23
+Aug 20
+PNBE
+01:15
+ASN
+08:30
+7h 15m
+17
+ 	 	T	 	T	 	 
+2S
+331 km
+46 km/hr
+03511
+03511
+Asansol - Patna Special Fare Shravani Mela Special
+Exp
+ER
+Jul 22
+Aug 19
+ASN
+16:50
+PNBE
+23:55
+7h 5m
+17
+ 	M	 	W	 	 	 
+2S
+331 km
+47 km/hr
+03512
+09530
+Bhavnagar Terminus - Dhola Special (UnReserved)
+Exp
+WR
+Jul 13
+Sep 30
+BVC
+13:10
+DLJ
+14:15
+1h 5m
+2
+S	M	T	W	T	F	S
+49 km
+46 km/hr
+09529
+09049
+Dadar Western - Bhusaval Special Fare Special
+Exp
+WR
+Jul 05
+Sep 27
+DDR
+00:15
+BSL
+13:40
+13h 25m
+18
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+581 km
+43 km/hr
+09050
+03113
+Sealdah - Banaras Special Fare Shravani Mela Special
+Exp
+ER
+Jul 27
+Aug 17
+SDAH
+23:55
+BSBS
+16:00
+16h 5m
+15
+ 	 	 	 	 	 	S
+SL 3A 2A
+772 km
+48 km/hr
+03114
+07061
+Secunderabad - Bhavnagar Terminus Special Fare Special
+Exp
+SCR
+Jul 19
+Aug 09
+SC
+20:00
+BVC
+05:55
+33h 55m
+22
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+1513 km
+45 km/hr
+07062
+03436
+Anand Vihar Terminal - Malda Town Special Fare Special
+Exp
+ER
+Apr 16
+Jul 30
+ANVT
+15:45
+MLDT
+23:30
+31h 45m
+18
+ 	 	T	 	 	 	 
+SL 3A 2A
+1387 km
+44 km/hr
+03435
+01972
+Agra Cantt. - Mathura Jn Mela Special (UnReserved)
+Pass
+NCR
+Jul 17
+Jul 23
+AGC
+04:40
+MTJ
+06:55
+2h 15m
+7
+S	 	T	W	 	 	S
+54 km
+24 km/hr
+01971
+01971
+Mathura - Agra Cantt. Mela Special (UnReserved)
+Pass
+NCR
+Jul 16
+Jul 22
+MTJ
+18:30
+AGC
+19:50
+1h 20m
+7
+ 	M	T	 	 	F	S
+54 km
+40 km/hr
+01972
+05313
+Kasganj - Mathura Mela Special (UnReserved)
+Exp
+NER
+Jul 16
+Jul 23
+KSJ
+16:50
+MTJ
+19:35
+2h 45m
+4
+S	M	T	W	T	F	S
+105 km
+38 km/hr
+05314
+05314
+Mathura - Kasganj Mela Special (UnReserved)
+Exp
+NER
+Jul 16
+Jul 23
+MTJ
+14:20
+KSJ
+16:30
+2h 10m
+4
+S	M	T	W	T	F	S
+105 km
+48 km/hr
+05313
+05919
+New Tinsukia - Bhagat Ki Kothi Special Fare Special
+Exp
+NFR
+Jul 22
+Aug 12
+NTSK
+12:45
+BGKT
+07:15
+66h 30m
+70
+ 	M	 	 	 	 	 
+2S SL 3A
+3289 km
+49 km/hr
+05920
+05672
+Anand Vihar Terminal - Guwahati Special Fare Special
+Exp
+NR
+Jul 26
+Aug 16
+ANVT
+23:45
+GHY
+14:15
+38h 30m
+38
+ 	 	 	 	 	F	 
+SL 3A
+2029 km
+53 km/hr
+05671
+06534
+Kalaburagi - SMVT Bengaluru Special Fare Special
+Exp
+SWR
+Jul 20
+Jul 20
+KLBG
+09:30
+SMVB
+20:30
+11h 0m
+9
+ 	 	 	 	 	 	S
+SL 3A 2A
+548 km
+50 km/hr
+06533
+06533
+SMVT Bengaluru - Kalaburagi Special Fare Special
+Exp
+SWR
+Jul 19
+Jul 19
+SMVB
+20:00
+KLBG
+07:45
+11h 45m
+9
+ 	 	 	 	 	F	 
+SL 3A 2A
+548 km
+47 km/hr
+06534
+06590
+Kalaburagi - SMVT Bengaluru Special Fare Special
+Exp
+SWR
+Jul 16
+Jul 16
+KLBG
+09:30
+SMVB
+20:30
+11h 0m
+9
+ 	 	T	 	 	 	 
+SL 3A 2A
+548 km
+50 km/hr
+06589
+06598
+Kalaburagi - Yesvantpur Special Fare Special
+Exp
+SWR
+Jul 17
+Jul 17
+KLBG
+13:30
+YPR
+23:55
+10h 25m
+9
+ 	 	 	W	 	 	 
+SL 3A 2A
+543 km
+52 km/hr
+06597
+06088
+Shalimar - Tirunelveli Special Fare Superfast Special
+SF
+SR
+Jul 20
+Jul 27
+SHM
+17:10
+TEN
+13:15
+44h 5m
+36
+ 	 	 	 	 	 	S
+SL
+2438 km
+55 km/hr
+06087
+03550
+Patna - Asansol Special Fare Shravani Mela Special
+Exp
+ER
+Jul 24
+Aug 18
+PNBE
+01:15
+ASN
+08:30
+7h 15m
+17
+S	 	 	W	 	F	 
+SL
+331 km
+46 km/hr
+03549
+05671
+Guwahati - Anand Vihar Terminal Special Fare Special
+Exp
+NFR
+Jul 24
+Aug 14
+GHY
+15:00
+ANVT
+08:50
+41h 50m
+9
+ 	 	 	W	 	 	 
+SL 3A
+2029 km
+49 km/hr
+05672
+06087
+Tirunelveli - Shalimar Special Fare Superfast Special
+SF
+SR
+Jul 18
+Jul 25
+TEN
+01:50
+SHM
+21:00
+43h 10m
+36
+ 	 	 	 	T	 	 
+SL
+2438 km
+56 km/hr
+06088
+05279
+Saharsa - Supaul MEMU Special
+MEMU
+ECR
+Jul 16
+SHC
+04:45
+SOU
+05:40
+0h 55m
+2
+S	M	T	W	T	F	S
+27 km
+30 km/hr
+05280
+05280
+Supaul - Saharsa MEMU Special
+MEMU
+ECR
+Jul 16
+SOU
+06:05
+SHC
+07:00
+0h 55m
+2
+S	M	T	W	T	F	S
+27 km
+30 km/hr
+05279
+05293
+Muzaffarpur - Secunderabad Special Fare Special
+Exp
+ECR
+Jul 16
+Sep 24
+MFP
+10:45
+SC
+23:50
+37h 5m
+20
+ 	 	T	 	 	 	 
+SL 3A 2A 3E
+1903 km
+51 km/hr
+05294
+05294
+Secunderabad - Muzaffarpur Special Fare Special
+Exp
+ECR
+Jul 18
+Sep 26
+SC
+03:55
+MFP
+16:30
+36h 35m
+20
+ 	 	 	 	T	 	 
+SL 3A 2A 3E
+1903 km
+52 km/hr
+05293
+04330
+Yog Nagari Rishikesh - Delhi Kanwar Yatra Special (UnReserved)
+Exp
+NR
+Jul 29
+Aug 02
+YNRK
+20:35
+DLI
+04:15
+7h 40m
+8
+ 	M	T	W	T	F	 
+264 km
+34 km/hr
+04329
+04329
+Delhi - Yog Nagari Rishikesh Kanwar Yatra Special (UnReserved)
+Exp
+NR
+Jul 29
+Aug 02
+DLI
+04:45
+YNRK
+11:00
+6h 15m
+8
+ 	M	T	W	T	F	 
+264 km
+42 km/hr
+04330
+04369
+Bareilly - Yog Nagari Rishikesh Kanwar Yatra Special (UnReserved)
+Exp
+NR
+Aug 03
+Aug 05
+BE
+15:50
+YNRK
+23:00
+7h 10m
+10
+S	M	 	 	 	 	S
+281 km
+39 km/hr
+04370
+04370
+Yog Nagari Rishikesh - Bareilly Kanwar Yatra Special (UnReserved)
+Exp
+NR
+Aug 03
+Aug 05
+YNRK
+20:35
+BE
+05:15
+8h 40m
+10
+S	M	 	 	 	 	S
+281 km
+32 km/hr
+04369
+07504
+Pandharpur - Adilabad Special Fare Ashadi Ekadashi Special
+Exp
+SCR
+Jul 17
+Jul 17
+PVR
+20:00
+ADB
+15:00
+19h 0m
+16
+ 	 	 	W	 	 	 
+SL
+609 km
+32 km/hr
+07501
+07501
+Adilabad - Pandharpur Special Fare Ashadi Ekadashi Special
+Exp
+SCR
+Jul 16
+Jul 16
+ADB
+09:00
+PVR
+03:00
+18h 0m
+16
+ 	 	T	 	 	 	 
+SL
+609 km
+34 km/hr
+07504
+07506
+Pandharpur - Akola Special Fare Ashadi Ekadashi Special
+Exp
+SCR
+Jul 17
+Jul 17
+PVR
+21:40
+AK
+20:00
+22h 20m
+21
+ 	 	 	W	 	 	 
+SL 3A 2A
+962 km
+43 km/hr
+07505
+07505
+Akola - Pandharpur Special Fare Ashadi Ekadashi Special
+Exp
+SCR
+Jul 16
+Jul 16
+AK
+11:00
+PVR
+10:50
+23h 50m
+21
+ 	 	T	 	 	 	 
+SL 3A 2A
+962 km
+40 km/hr
+07506
+07516
+Pandharpur - Nagarsol Special Fare Ashadi Ekadashi Special
+Exp
+SCR
+Jul 17
+Jul 17
+PVR
+23:50
+NSL
+20:00
+20h 10m
+15
+ 	 	 	W	 	 	 
+SL
+631 km
+31 km/hr
+07515
+07515
+Nagarsol - Pandharpur Special Fare Ashadi Ekadashi Special
+Exp
+SCR
+Jul 16
+Jul 16
+NSL
+19:00
+PVR
+11:30
+16h 30m
+15
+ 	 	T	 	 	 	 
+SL
+631 km
+38 km/hr
+07516
+09537
+Bhavnagar Terminus - Veraval Special Fare Special (UnReserved)
+Exp
+WR
+Jul 15
+Jul 15
+BVC
+18:00
+VRL
+01:20
+7h 20m
+12
+ 	M	 	 	 	 	 
+288 km
+39 km/hr
+09538
+04321
+Laksar - Moradabad Kanwar Yatra Special (UnReserved)
+Exp
+NR
+Jul 22
+Aug 19
+LRJ
+12:00
+MB
+15:15
+3h 15m
+7
+S	M	T	W	T	F	S
+140 km
+43 km/hr
+04322
+04322
+Moradabad - Laksar Kanwar Yatra Special (UnReserved)
+Exp
+NR
+Jul 22
+Aug 19
+MB
+04:15
+LRJ
+07:15
+3h 0m
+7
+S	M	T	W	T	F	S
+140 km
+47 km/hr
+04321
+09580
+Porbandar - Bhavnagar Terminus Special Fare Special (UnReserved)
+Exp
+WR
+Jul 18
+Jul 18
+PBR
+23:00
+BVC
+10:30
+11h 30m
+12
+ 	 	 	 	T	 	 
+499 km
+43 km/hr
+09579
+09579
+Bhavnagar Terminus - Porbandar Special Fare Special (UnReserved)
+Exp
+WR
+Jul 19
+Jul 19
+BVC
+18:45
+PBR
+06:50
+12h 5m
+12
+ 	 	 	 	 	F	 
+499 km
+41 km/hr
+09580
+09403
+Bhavnagar Terminus - Okha Special Fare Special (UnReserved)
+Exp
+WR
+Jul 16
+Jul 16
+BVC
+18:45
+OKHA
+07:00
+12h 15m
+14
+ 	 	T	 	 	 	 
+538 km
+44 km/hr
+09404
+09404
+Okha - Bhavnagar Special Fare Special (UnReserved)
+Exp
+WR
+Jul 15
+Jul 15
+OKHA
+23:20
+BVC
+10:45
+11h 25m
+14
+ 	M	 	 	 	 	 
+538 km
+47 km/hr
+09403
+09538
+Veraval - Bhavnagar Terminus Special Fare Special (UnReserved)
+Exp
+WR
+Jul 15
+Jul 15
+VRL
+04:00
+BVC
+10:30
+6h 30m
+12
+ 	M	 	 	 	 	 
+288 km
+44 km/hr
+09537
+09411
+Bhavnagar Terminus - Jamnagar Special Fare Special (UnReserved)
+Exp
+WR
+Jul 14
+Jul 14
+BVC
+18:00
+JAM
+06:15
+12h 15m
+13
+S	 	 	 	 	 	 
+342 km
+28 km/hr
+09412
+05668
+Sabroom - Agartala Kharchi Puja Passenger Special (UnReserved)
+Pass
+NFR
+Jul 14
+Jul 21
+SBRM
+17:20
+AGTL
+19:45
+2h 25m
+8
+S	M	T	W	T	F	S
+114 km
+47 km/hr
+05667
+05667
+Agartala - Sabroom Kharchi Puja Passenger Special (UnReserved)
+Pass
+NFR
+Jul 14
+Jul 21
+AGTL
+14:30
+SBRM
+16:50
+2h 20m
+8
+S	M	T	W	T	F	S
+114 km
+49 km/hr
+05668
+05666
+Dharmanagar - Agartala Kharchi Puja Passenger Special (UnReserved)
+Pass
+NFR
+Jul 14
+Jul 21
+DMR
+10:30
+AGTL
+14:05
+3h 35m
+9
+S	M	T	W	T	F	S
+139 km
+39 km/hr
+05665
+05665
+Agartala - Dharmanagar Kharchi Puja Passenger Special (UnReserved)
+Pass
+NFR
+Jul 14
+Jul 21
+AGTL
+05:00
+DMR
+08:50
+3h 50m
+9
+S	M	T	W	T	F	S
+139 km
+36 km/hr
+05666
+06520
+Kalaburagi - Yesvantpur Special Fare Special
+Exp
+SWR
+Jul 14
+Jul 14
+KLBG
+09:30
+YPR
+21:40
+12h 10m
+9
+S	 	 	 	 	 	 
+SL 3A 2A
+543 km
+45 km/hr
+06519
+05028
+Gorakhpur - Deoghar Special Fare Shravani Mela Special
+Exp
+NER
+Jul 20
+Aug 20
+GKP
+20:00
+DGHR
+13:10
+17h 10m
+21
+S	M	T	W	T	F	S
+SL
+548 km
+32 km/hr
+05027
+03549
+Asansol - Patna Special Fare Shravani Mela Special
+Exp
+ER
+Jul 23
+Aug 17
+ASN
+16:50
+PNBE
+23:55
+7h 5m
+17
+ 	 	T	 	T	 	S
+SL
+331 km
+47 km/hr
+03550
+05599
+Samastipur - Durg Special Fare One Way Special
+Exp
+ECR
+Jul 15
+Jul 15
+SPJ
+17:00
+DURG
+21:30
+28h 30m
+15
+ 	M	 	 	 	 	 
+SL 2A
+1242 km
+44 km/hr
+06296
+Pandharpur - SMVT Bengaluru Special Fare Special
+Exp
+SWR
+Jul 16
+Jul 16
+PVR
+20:00
+SMVB
+12:30
+16h 30m
+27
+ 	 	T	 	 	 	 
+SL 3A 2A
+893 km
+54 km/hr
+06295
+06295
+SMVT Bengaluru - Pandharpur Special Fare Special
+Exp
+SWR
+Jul 15
+Jul 15
+SMVB
+22:00
+PVR
+18:20
+20h 20m
+27
+ 	M	 	 	 	 	 
+SL 3A 2A
+893 km
+44 km/hr
+06296
+06297
+SMVT Bengaluru - Pandharpur Special Fare Special
+Exp
+SWR
+Jul 16
+Jul 16
+SMVB
+22:00
+PVR
+18:20
+20h 20m
+27
+ 	 	T	 	 	 	 
+SL 3A 2A 1A
+893 km
+44 km/hr
+06298
+06298
+Pandharpur - SMVT Bengaluru Special Fare Special
+Exp
+SWR
+Jul 17
+Jul 17
+PVR
+20:00
+SMVB
+15:10
+19h 10m
+26
+ 	 	 	W	 	 	 
+SL 3A 2A 1A
+954 km
+50 km/hr
+06297
+03654
+Madhupur - Gaya Shravani Mela MEMU Express Special (UnReserved)
+Exp
+ECR
+Jul 22
+Aug 21
+MDP
+01:00
+GAYA
+10:25
+9h 25m
+9
+S	M	T	W	T	F	S
+256 km
+27 km/hr
+03653
+03653
+Gaya - Madhupur Shravani Mela MEMU Express Special (UnReserved)
+Exp
+ECR
+Jul 21
+Aug 20
+GAYA
+17:00
+MDP
+23:50
+6h 50m
+9
+S	M	T	W	T	F	S
+256 km
+37 km/hr
+03654
+07021
+Secunderabad - Danapur Special Fare Special
+Exp
+SCR
+Apr 18
+Sep 26
+SC
+08:45
+DNR
+16:50
+32h 5m
+16
+ 	 	 	 	T	 	 
+2S
+1822 km
+57 km/hr
+07022
+02398
+Anand Vihar Terminal - Gaya Special Fare SF Clone Special
+SF
+ECR
+Jun 15
+Oct 01
+ANVT
+08:20
+GAYA
+00:30
+16h 10m
+7
+ 	M	T	W	T	F	S
+SL 3A 2A
+978 km
+60 km/hr
+02397
+02397
+Gaya - Anand Vihar Terminal Special Fare SF Clone Special
+SF
+ECR
+Jun 14
+Sep 30
+GAYA
+14:15
+ANVT
+07:10
+16h 55m
+7
+S	M	T	W	T	F	 
+SL 3A 2A
+978 km
+58 km/hr
+02398
+02394
+New Delhi - Patna Special Fare SF Clone Special
+SF
+ECR
+Jun 15
+Oct 01
+NDLS
+13:20
+PNBE
+07:00
+17h 40m
+6
+S	M	T	W	T	 	S
+SL 3A 2A 1A 3E
+996 km
+56 km/hr
+02393
+02393
+Patna - New Delhi Special Fare SF Clone Special
+SF
+ECR
+Jun 14
+Sep 30
+PNBE
+20:10
+NDLS
+12:10
+16h 0m
+6
+S	M	T	W	 	F	S
+SL 3A 2A 1A 3E
+996 km
+62 km/hr
+02394
+05182
+Mau - Hatia Special Fare One Way Special
+Exp
+NER
+Jul 15
+Jul 15
+MAU
+17:15
+HTE
+14:30
+21h 15m
+13
+ 	M	 	 	 	 	 
+SL
+808 km
+38 km/hr
+03162
+Digha - Kolkata Special Fare Special
+Exp
+ER
+Jul 07
+Jul 28
+DGHA
+19:10
+KOAA
+23:55
+4h 45m
+7
+S	 	 	 	 	 	S
+2S SL 3A
+201 km
+42 km/hr
+03161
+03161
+Kolkata - Digha Special Fare Special
+Exp
+ER
+Jul 07
+Jul 28
+KOAA
+14:00
+DGHA
+18:50
+4h 50m
+7
+S	 	 	 	 	 	S
+2S SL 3A
+201 km
+42 km/hr
+03162
+04493
+Gorakhpur - Delhi Special Fare Special
+Exp
+NR
+Jul 14
+Sep 01
+GKP
+00:15
+DLI
+16:30
+16h 15m
+17
+S	 	T	 	T	 	 
+SL
+756 km
+47 km/hr
+04494
+04494
+Delhi - Gorakhpur Special Fare Special
+Exp
+NR
+Jul 13
+Aug 31
+DLI
+05:40
+GKP
+21:15
+15h 35m
+17
+ 	M	 	W	 	 	S
+SL
+756 km
+48 km/hr
+04493
+09063
+Vapi - Danapur Special Fare Special
+Exp
+WR
+Jun 14
+Dec 31
+VAPI
+22:00
+DNR
+08:00
+34h 0m
+23
+ 	 	T	 	 	F	S
+SL 3A
+1778 km
+52 km/hr
+09064
+09064
+Danapur - Bhestan Special Fare Special
+Exp
+WR
+Jun 16
+Jan 02
+DNR
+11:00
+BHET
+23:30
+36h 30m
+20
+S	M	 	 	T	 	 
+SL 3A
+1693 km
+46 km/hr
+09063
+09592
+Bhavnagar Terminus - Rajkot Special (UnReserved)
+Exp
+WR
+Jul 13
+Jul 13
+BVC
+18:00
+RJT
+03:00
+9h 0m
+11
+ 	 	 	 	 	 	S
+373 km
+41 km/hr
+09591
+09591
+Rajkot - Bhavnagar Terminus Special (UnReserved)
+Exp
+WR
+Jul 13
+Jul 13
+RJT
+04:30
+BVC
+10:30
+6h 0m
+11
+ 	 	 	 	 	 	S
+373 km
+62 km/hr
+09592
+05060
+Lal Kuan - Howrah Special Fare Summer Special
+Exp
+NER
+Jul 11
+Jul 25
+LKU
+13:35
+HWH
+21:30
+31h 55m
+29
+ 	 	 	 	T	 	 
+SL 2A 1A 3E
+1492 km
+47 km/hr
+05059
+09556
+Bhavnagar Terminus - Gandhigram Special (UnReserved)
+Exp
+WR
+Jul 12
+Jul 12
+BVC
+18:45
+GG
+23:30
+4h 45m
+7
+ 	 	 	 	 	F	 
+248 km
+52 km/hr
+09555
+09555
+Gandhigram - Bhavnagar Terminus Special (UnReserved)
+Exp
+SR
+Jul 12
+Jul 12
+GG
+05:30
+BVC
+10:30
+5h 0m
+7
+ 	 	 	 	 	F	 
+248 km
+50 km/hr
+09556
+09490
+Bhavnagar Terminus - Patan Special (UnReserved)
+Exp
+WR
+Jul 13
+Jul 13
+BVC
+20:00
+PTN
+03:00
+7h 0m
+8
+ 	 	 	 	 	 	S
+339 km
+48 km/hr
+09489
+09489
+Patan - Bhavnagar Terminus Special (UnReserved)
+Exp
+WR
+Jul 13
+Jul 13
+PTN
+03:00
+BVC
+10:20
+7h 20m
+9
+ 	 	 	 	 	 	S
+339 km
+46 km/hr
+09490
+02449
+Madgaon - Chandigarh One Way Special Fare SF Special
+SF
+NR
+Jul 12
+Jul 12
+MAO
+09:00
+CDG
+18:25
+33h 25m
+15
+ 	 	 	 	 	F	 
+SL 3A 2A 1A 3E
+2160 km
+65 km/hr
+09436
+Okha - Gandhigram Special Fare Special
+Exp
+WR
+Aug 25
+OKHA
+23:50
+GG
+11:50
+12h 0m
+14
+S	 	 	 	 	 	 
+SL 3A
+601 km
+50 km/hr
+09435
+06577
+SMVT Bengaluru - Udhna One Way Special Fare Special
+Exp
+SWR
+Jul 11
+Jul 11
+SMVB
+18:15
+UDN
+23:40
+29h 25m
+20
+ 	 	 	 	T	 	 
+SL
+1427 km
+49 km/hr
+07169
+Machilipatnam - Nagarsol Special Fare One Way Special
+Exp
+SCR
+Jul 15
+Jul 15
+MTM
+12:20
+NSL
+13:30
+25h 10m
+20
+ 	M	 	 	 	 	 
+SL
+990 km
+39 km/hr
+09007
+Valsad - Bhiwani Special Fare SF Special
+SF
+WR
+Apr 25
+Jul 25
+BL
+13:50
+BNW
+12:55
+23h 5m
+18
+ 	 	 	 	T	 	 
+SL 3A 2A
+1277 km
+55 km/hr
+09008
+09008
+Bhiwani - Valsad Special Fare SF Special
+SF
+WR
+Apr 26
+Jul 26
+BNW
+14:45
+BL
+12:00
+21h 15m
+18
+ 	 	 	 	 	F	 
+SL 3A 2A
+1277 km
+60 km/hr
+09007
+09523
+Okha - Delhi Sarai Rohilla Special Fare SF Special
+SF
+WR
+Apr 23
+Dec 31
+OKHA
+10:00
+DEE
+10:20
+24h 20m
+26
+ 	 	T	 	 	 	 
+SL 2A 3E
+1359 km
+56 km/hr
+09524
+09313
+Ujjain - Bhopal Special (UnReserved)
+Exp
+WR
+Jun 11
+Aug 31
+UJN
+21:00
+BPL
+01:00
+4h 0m
+8
+S	M	T	W	T	F	S
+183 km
+46 km/hr
+09314
+04680
+SMVD Katra - Guwahati Special Fare Summer Special
+Exp
+NR
+Jul 12
+Aug 30
+SVDK
+21:30
+GHY
+19:10
+45h 40m
+27
+ 	 	 	 	 	F	 
+SL 3A 2A
+2417 km
+53 km/hr
+04679
+04679
+Guwahati - SMVD Katra Special Fare Summer Special
+Exp
+NR
+Jul 15
+Sep 02
+GHY
+23:20
+SVDK
+20:45
+45h 25m
+27
+ 	M	 	 	 	 	 
+2S SL 3A
+2417 km
+53 km/hr
+04680
+09186
+Kanpur Anwarganj - Mumbai Central Special Fare SF Special
+SF
+WR
+Apr 15
+Dec 30
+CPA
+18:25
+MMCT
+22:30
+28h 5m
+15
+ 	M	 	 	 	 	 
+SL 3A 2A
+1621 km
+58 km/hr
+09185
+01209
+Miraj - Kurduwadi Ashadi Ekadashi MEMU Special
+MEMU
+CR
+Jul 12
+Jul 21
+MRJ
+15:10
+KWV
+19:00
+3h 50m
+13
+S	M	T	W	T	F	S
+190 km
+49 km/hr
+01210
+01210
+Kurduwadi - Miraj Ashadi Ekadashi MEMU Special
+MEMU
+CR
+Jul 12
+Jul 21
+KWV
+21:25
+MRJ
+01:03
+3h 38m
+13
+S	M	T	W	T	F	S
+190 km
+52 km/hr
+01209
+05303
+Gorakhpur - Mahbubnagar Special Fare Summer Special
+Exp
+NER
+Jul 06
+Jul 27
+GKP
+08:30
+MBNR
+19:15
+34h 45m
+20
+ 	 	 	 	 	 	S
+SL 3E
+1935 km
+56 km/hr
+05304
+05304
+Mahbubnagar - Gorakhpur Special Fare Summer Special
+Exp
+NER
+May 07
+Jul 28
+MBNR
+22:10
+GKP
+13:15
+39h 5m
+20
+ 	M	 	 	 	 	 
+SL 3E
+1935 km
+50 km/hr
+05303
+05059
+Howrah - Lal Kuan Special Fare Summer Special
+Exp
+NER
+Jul 12
+Jul 26
+HWH
+23:30
+LKU
+13:55
+38h 25m
+29
+ 	 	 	 	 	F	 
+SL 2A 1A 3E
+1492 km
+39 km/hr
+05060
+08334
+Puri - Naupada Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 17
+PURI
+23:00
+NWP
+06:40
+7h 40m
+44
+S	M	 	W	 	 	 
+288 km
+38 km/hr
+08333
+08333
+Naupada - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 17
+NWP
+04:00
+PURI
+12:05
+8h 5m
+44
+S	M	 	W	 	 	 
+288 km
+36 km/hr
+08334
+07053
+Kacheguda - Lalgarh Special Fare Special
+Exp
+SCR
+Mar 16
+Sep 28
+KCG
+21:30
+LGH
+13:35
+40h 5m
+33
+ 	 	 	 	 	 	S
+SL 3A 2A
+1953 km
+49 km/hr
+07054
+07054
+Lalgarh - Kacheguda Special Fare Special
+Exp
+SCR
+Mar 19
+Oct 01
+LGH
+19:45
+KCG
+09:40
+37h 55m
+33
+ 	 	T	 	 	 	 
+SL 3A 2A
+1953 km
+52 km/hr
+07053
+08388
+Puri - Baleshwar Rath Yatra MEMU Special
+MEMU
+SER
+Jul 08
+Jul 16
+PURI
+01:15
+BLS
+08:00
+6h 45m
+51
+ 	M	T	 	 	 	 
+269 km
+40 km/hr
+08387
+08387
+Baleshwar - Puri Rath Yatra MEMU Special
+MEMU
+SER
+Jul 06
+Jul 14
+BLS
+17:40
+PURI
+23:45
+6h 5m
+51
+S	 	 	 	 	 	S
+269 km
+44 km/hr
+08388
+08294
+Amritsar - Bilaspur Special Fare Clone Special
+Exp
+SECR
+Jun 27
+Jul 11
+ASR
+20:10
+BSP
+11:45
+39h 35m
+22
+ 	M	 	 	T	 	 
+SL 3A 2A
+2012 km
+51 km/hr
+08293
+08362
+Puri - Bhadrak One Way Rath Yatra MEMU Special (via Cuttack)
+MEMU
+ECoR
+Jul 19
+Jul 19
+PURI
+15:05
+BHC
+21:35
+6h 30m
+42
+ 	 	 	 	 	F	 
+206 km
+32 km/hr
+08355
+Sonepur - Puri Rath Yatra Special (UnReserved)
+Exp
+ECoR
+Jul 06
+Jul 16
+SNPU
+15:00
+PURI
+01:20
+10h 20m
+32
+S	 	T	 	 	 	S
+507 km
+49 km/hr
+08356
+08381
+Bangriposi - Puri Rath Yatra Special (UnReserved)
+Exp
+SER
+Jul 07
+Jul 14
+BGY
+07:30
+PURI
+18:15
+10h 45m
+69
+S	 	 	 	 	 	 
+398 km
+37 km/hr
+08382
+08382
+Puri - Bangriposi Rath Yatra Special (UnReserved)
+Exp
+SER
+Jul 08
+Jul 16
+PURI
+01:30
+BGY
+13:45
+12h 15m
+69
+ 	M	T	 	 	 	 
+398 km
+32 km/hr
+08381
+08356
+Puri - Sonepur Rath Yatra Special (UnReserved)
+Exp
+ECoR
+Jul 08
+Jul 18
+PURI
+01:40
+SNPU
+10:40
+9h 0m
+29
+ 	M	T	 	T	 	 
+507 km
+56 km/hr
+08355
+08354
+Puri - Sambalpur Rath Yatra Special (UnReserved)
+Exp
+ECoR
+Jul 08
+Jul 18
+PURI
+02:30
+SBP
+10:30
+8h 0m
+23
+ 	M	T	 	T	 	 
+342 km
+43 km/hr
+08353
+08352
+Puri - Junagarh Road Rath Yatra Special (UnReserved)
+Exp
+ECoR
+Jul 07
+Jul 17
+PURI
+19:25
+JNRD
+08:50
+13h 25m
+30
+S	M	 	W	 	 	 
+625 km
+47 km/hr
+08903
+08350
+Puri - Jagdalpur Rath Yatra Special (UnReserved)
+Exp
+ECoR
+Jul 08
+Jul 18
+PURI
+00:15
+JDB
+15:10
+14h 55m
+40
+ 	M	T	 	T	 	 
+809 km
+54 km/hr
+08349
+08348
+Puri - Visakhapatnam Rath Yatra Special (UnReserved)
+Exp
+ECoR
+Jul 08
+Jul 18
+PURI
+01:45
+VSKP
+10:30
+8h 45m
+33
+ 	M	T	 	T	 	 
+466 km
+53 km/hr
+08347
+08360
+Puri - Khurda Road Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 08
+Jul 16
+PURI
+03:30
+KUR
+05:00
+1h 30m
+9
+ 	M	T	 	 	 	 
+44 km
+29 km/hr
+08359
+08359
+Khurda Road - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 17
+KUR
+14:10
+PURI
+15:30
+1h 20m
+9
+S	 	 	W	 	 	 
+44 km
+33 km/hr
+08360
+08358
+Puri - Khurda Road Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 18
+PURI
+08:30
+KUR
+09:50
+1h 20m
+9
+S	M	 	W	T	 	 
+44 km
+33 km/hr
+08357
+08357
+Khurda Road - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 18
+KUR
+05:10
+PURI
+06:20
+1h 10m
+9
+S	M	 	W	T	 	 
+44 km
+38 km/hr
+08358
+08340
+Puri - Daspalla Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 08
+Jul 18
+PURI
+03:00
+DSPL
+05:40
+2h 40m
+18
+ 	M	T	 	T	 	 
+150 km
+56 km/hr
+08339
+08399
+Puri - Khurda Road Rath Yatra MEMU One Way Special
+MEMU
+ECoR
+Jul 20
+Jul 20
+PURI
+00:45
+KUR
+02:30
+1h 45m
+9
+ 	 	 	 	 	 	S
+44 km
+25 km/hr
+07358
+SSS Hubballi - Udhna Special Fare One Way Special
+Exp
+SWR
+Jul 13
+Jul 13
+UBL
+20:20
+UDN
+16:45
+20h 25m
+9
+ 	 	 	 	 	 	S
+SL 3A 2A
+1008 km
+49 km/hr
+07359
+SSS Hubballi - Udhna Special Fare One Way Special
+Exp
+SWR
+Jul 08
+Jul 08
+UBL
+21:45
+UDN
+16:00
+18h 15m
+14
+ 	M	 	 	 	 	 
+SL 3A 2A
+951 km
+52 km/hr
+07354
+Belagavi - Udhna Special Fare Special
+Exp
+SWR
+Jul 10
+Jul 10
+BGM
+10:30
+UDN
+02:45
+16h 15m
+14
+ 	 	 	W	 	 	 
+SL 3A
+809 km
+50 km/hr
+01708
+SMVD Katra - Jabalpur Special Fare Amarnath Yatra Special
+Exp
+WCR
+Jul 16
+Aug 06
+SVDK
+18:10
+JBP
+23:25
+29h 15m
+20
+ 	 	T	 	 	 	 
+SL 3A 2A 1A
+1582 km
+54 km/hr
+01707
+01707
+Jabalpur - SMVD Katra Special Fare Amarnath Yatra Special
+Exp
+WCR
+Jul 15
+Aug 05
+JBP
+06:00
+SVDK
+12:15
+30h 15m
+20
+ 	M	 	 	 	 	 
+SL 3A 2A 1A
+1582 km
+52 km/hr
+01708
+04066
+Ghaziabad - Pt. Deen Dayal Upadhyaya Jn. CTET Exam Special (UnReserved)
+Exp
+NR
+Jul 07
+Jul 07
+GZB
+16:30
+DDU
+04:30
+12h 0m
+5
+S	 	 	 	 	 	 
+763 km
+64 km/hr
+04064
+Ghaziabad - Pt. Deen Dayal Upadhyaya Jn. CTET Exam Special (UnReserved)
+Exp
+NR
+Jul 06
+Jul 06
+GZB
+18:00
+DDU
+06:00
+12h 0m
+7
+ 	 	 	 	 	 	S
+763 km
+64 km/hr
+04048
+Ghaziabad - Pt. Deen Dayal Upadhyaya Jn. CTET Exam Special (UnReserved)
+Exp
+NR
+Jul 07
+Jul 07
+GZB
+20:30
+DDU
+08:30
+12h 0m
+5
+S	 	 	 	 	 	 
+763 km
+64 km/hr
+01107
+Miraj - Pandharpur Ashadi Ekadashi MEMU Special
+MEMU
+CR
+Jul 12
+Jul 21
+MRJ
+05:00
+PVR
+07:40
+2h 40m
+11
+S	M	T	W	T	F	S
+137 km
+51 km/hr
+01108
+01108
+Pandharpur - Miraj Ashadi Ekadashi MEMU Special
+MEMU
+CR
+Jul 12
+Jul 21
+PVR
+09:50
+MRJ
+13:50
+4h 0m
+11
+S	M	T	W	T	F	S
+137 km
+34 km/hr
+01107
+01159
+Bhusaval - Pandharpur Ashadi Ekadashi Special (UnReserved)
+Exp
+CR
+Jul 16
+Jul 23
+BSL
+13:30
+PVR
+03:30
+14h 0m
+10
+ 	 	T	 	 	 	 
+583 km
+42 km/hr
+01160
+01160
+Pandharpur - Bhusaval Ashadi Ekadashi Special (UnReserved)
+Exp
+CR
+Jul 17
+Jul 17
+PVR
+22:30
+BSL
+13:00
+14h 30m
+10
+ 	 	 	W	 	 	 
+583 km
+40 km/hr
+01159
+01102
+Pandharpur - Latur Special Fare Ashadi Ekadashi Special
+Exp
+CR
+Jul 12
+Jul 19
+PVR
+13:50
+LUR
+19:20
+5h 30m
+12
+ 	M	T	W	 	F	 
+SL 3A 2A 1A
+205 km
+37 km/hr
+01101
+01101
+Latur - Pandharpur Special Fare Ashadi Ekadashi Special
+Exp
+CR
+Jul 12
+Jul 19
+LUR
+07:30
+PVR
+12:50
+5h 20m
+12
+ 	M	T	W	 	F	 
+SL 3A 2A 1A
+205 km
+38 km/hr
+01102
+05046
+Rajkot - Lalkuan Special Fare Summer Special
+Exp
+NER
+Apr 22
+Sep 30
+RJT
+22:30
+LKU
+04:05
+29h 35m
+36
+ 	M	 	 	 	 	 
+SL 3A 2A
+1491 km
+50 km/hr
+05045
+05045
+Lalkuan - Rajkot Special Fare Summer Special
+Exp
+NER
+Apr 21
+Sep 29
+LKU
+13:10
+RJT
+18:10
+29h 0m
+36
+S	 	 	 	 	 	 
+2S SL 3A 2A
+1491 km
+51 km/hr
+05046
+01207
+Nagpur - Miraj Special Fare Ashadi Ekadashi Special
+Exp
+CR
+Jul 15
+Jul 15
+NGP
+08:50
+MRJ
+11:55
+27h 5m
+27
+ 	M	 	 	 	 	 
+SL 3A
+1112 km
+41 km/hr
+01208
+01122
+Pandharpur - Khamgaon Special Fare Ashadi Ekadashi Special
+Exp
+CR
+Jul 15
+Jul 18
+PVR
+05:00
+KMN
+19:30
+14h 30m
+15
+ 	M	 	 	T	 	 
+SL 3A
+686 km
+47 km/hr
+01121
+01121
+Khamgaon - Pandharpur Special Fare Ashadi Ekadashi Special
+Exp
+CR
+Jul 14
+Jul 17
+KMN
+11:30
+PVR
+03:30
+16h 0m
+15
+S	 	 	W	 	 	 
+SL 3A
+686 km
+43 km/hr
+01122
+01208
+Miraj - Nagpur Special Fare Ashadi Ekadashi Special
+Exp
+CR
+Jul 19
+Jul 19
+MRJ
+12:55
+NGP
+12:25
+23h 30m
+27
+ 	 	 	 	 	F	 
+SL 3A
+1112 km
+47 km/hr
+01207
+09092
+Jaynagar - Udhna Special Fare Summer Special
+Exp
+WR
+Jul 10
+Jul 10
+JYG
+17:00
+UDN
+12:30
+43h 30m
+22
+ 	 	 	W	 	 	 
+SL 3A
+2002 km
+46 km/hr
+09091
+09091
+Udhna - Jaynagar Special Fare Summer Special
+Exp
+WR
+Jul 07
+Jul 07
+UDN
+21:40
+JYG
+19:00
+45h 20m
+22
+S	 	 	 	 	 	 
+SL 3A
+2002 km
+44 km/hr
+09092
+01206
+Miraj - Nagpur Special Fare Ashadi Ekadashi Special
+Exp
+CR
+Jul 18
+Jul 18
+MRJ
+12:55
+NGP
+12:25
+23h 30m
+27
+ 	 	 	 	T	 	 
+SL 3A
+1112 km
+47 km/hr
+01205
+01205
+Nagpur - Miraj Special Fare Ashadi Ekadashi Special
+Exp
+CR
+Jul 14
+Jul 14
+NGP
+08:50
+MRJ
+11:55
+27h 5m
+27
+S	 	 	 	 	 	 
+SL 3A
+1112 km
+41 km/hr
+01206
+08496
+Puri - Paradeep Rath Yatra MEMU Special (via Haridaspur)
+MEMU
+ECoR
+Jul 07
+Jul 19
+PURI
+15:30
+PRDP
+22:30
+7h 0m
+39
+S	M	T	W	T	F	S
+213 km
+30 km/hr
+08495
+05054
+Bandra Terminus - Gorakhpur Special Fare Summer Special
+Exp
+NER
+Jul 13
+Jul 27
+BDTS
+21:21
+GKP
+06:25
+33h 4m
+20
+ 	 	 	 	 	 	S
+2S
+1842 km
+56 km/hr
+05053
+05053
+Gorakhpur - Bandra Terminus Special Fare Summer Special
+Exp
+NER
+Jul 12
+Jul 26
+GKP
+09:30
+BDTS
+18:00
+32h 30m
+19
+ 	 	 	 	 	F	 
+2S
+1842 km
+57 km/hr
+05054
+09570
+Barauni - Rajkot Special Fare Special
+Exp
+WR
+Apr 28
+Sep 29
+BJU
+22:30
+RJT
+13:50
+39h 20m
+24
+S	 	 	 	 	 	 
+SL 3A 2A
+2110 km
+54 km/hr
+09569
+01119
+New Amravati - Pandharpur Special Fare Ashadi Ekadashi Special
+Exp
+CR
+Jul 13
+Jul 16
+NAVI
+14:40
+PVR
+09:10
+18h 30m
+19
+S	 	T	 	 	 	 
+SL 3A
+808 km
+44 km/hr
+01425
+08377
+Puri - Rourkela Rath Yatra Special Fare Special (via Chaibasa)
+Exp
+SER
+Jul 08
+Jul 16
+PURI
+02:00
+ROU
+15:30
+13h 30m
+77
+ 	M	T	 	 	 	 
+SL
+564 km
+42 km/hr
+08376
+08386
+Puri - Rourkela Rath Yatra Special Fare Special (via Sambalpur City)
+Exp
+SER
+Jul 08
+Jul 16
+PURI
+03:15
+ROU
+16:00
+12h 45m
+69
+ 	M	T	 	 	 	 
+SL 3A 2A
+485 km
+38 km/hr
+08385
+08426
+Puri - Palasa Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 18
+PURI
+16:40
+PSA
+00:25
+7h 45m
+41
+S	M	T	W	T	F	S
+263 km
+34 km/hr
+08425
+08353
+Sambalpur - Puri Rath Yatra Special (UnReserved)
+Exp
+ECoR
+Jul 06
+Jul 18
+SBP
+23:00
+PURI
+08:15
+9h 15m
+43
+S	 	 	 	T	 	S
+345 km
+37 km/hr
+08354
+02199
+Virangana Lakshmibai Jhansi - Bandra Terminus Special Fare SF Special (PT)
+SF
+NCR
+Mar 07
+Jul 25
+VGLJ
+16:50
+BDTS
+16:10
+23h 20m
+19
+ 	 	 	 	T	 	 
+SL 3A 2A 3E
+1319 km
+57 km/hr
+02200
+08351
+Junagarh Road - Puri Rath Yatra Special (UnReserved)
+Exp
+ECoR
+Jul 06
+Jul 16
+JNRD
+09:00
+PURI
+21:30
+12h 30m
+32
+S	 	T	 	 	 	S
+625 km
+50 km/hr
+08352
+08349
+Jagdalpur - Puri Rath Yatra Special (UnReserved)
+Exp
+ECoR
+Jul 06
+Jul 16
+JDB
+10:45
+PURI
+00:45
+14h 0m
+34
+S	 	T	 	 	 	S
+809 km
+58 km/hr
+08350
+08347
+Vishakapatnam - Puri Rath Yatra Special (UnReserved)
+Exp
+ECoR
+Jul 06
+Jul 16
+VSKP
+14:00
+PURI
+22:45
+8h 45m
+30
+S	 	T	 	 	 	S
+466 km
+53 km/hr
+08348
+08346
+Puri - Gunupur Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 17
+PURI
+21:20
+GNPR
+07:30
+10h 10m
+57
+S	M	 	W	 	 	 
+379 km
+37 km/hr
+08345
+08345
+Gunupur - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 06
+Jul 16
+GNPR
+23:00
+PURI
+05:15
+6h 15m
+57
+S	 	T	 	 	 	S
+379 km
+61 km/hr
+08346
+06032
+Kannur - Shoranur Express Special (UnReserved)
+Exp
+SR
+Jul 03
+Aug 01
+CAN
+08:10
+SRR
+12:30
+4h 20m
+11
+ 	 	 	W	T	F	S
+175 km
+40 km/hr
+06031
+06031
+Shoranur - Kannur Express Special (UnReserved)
+Exp
+SR
+Jul 03
+Jul 31
+SRR
+15:40
+CAN
+19:40
+4h 0m
+11
+ 	 	T	W	T	F	 
+175 km
+44 km/hr
+06032
+08332
+Puri - Palasa Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 08
+Jul 18
+PURI
+04:00
+PSA
+10:05
+6h 5m
+41
+ 	M	T	 	T	 	 
+263 km
+43 km/hr
+08331
+08331
+Palasa - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 17
+PSA
+00:15
+PURI
+05:35
+5h 20m
+41
+S	M	 	W	 	 	 
+263 km
+49 km/hr
+08332
+08425
+Palasa - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 06
+Jul 17
+PSA
+21:00
+PURI
+01:30
+4h 30m
+41
+S	M	T	W	T	F	S
+263 km
+58 km/hr
+08426
+08344
+Puri - Kendujhargarh Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 18
+PURI
+23:30
+KDJR
+04:50
+5h 20m
+46
+S	M	T	W	T	F	S
+282 km
+53 km/hr
+08343
+08343
+Kendujhargarh - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 18
+KDJR
+04:15
+PURI
+09:55
+5h 40m
+46
+S	M	T	W	T	F	S
+282 km
+50 km/hr
+08344
+08491
+Bhadrak - Puri Rath Yatra MEMU Special (via Naraj Marthapur)
+MEMU
+ECoR
+Jul 06
+Jul 17
+BHC
+21:00
+PURI
+03:35
+6h 35m
+45
+S	M	T	W	T	F	S
+229 km
+35 km/hr
+08492
+08342
+Puri - Kendujhargarh Rath Yatra Special
+MEMU
+ECoR
+Jul 07
+Jul 19
+PURI
+17:45
+KDJR
+23:45
+6h 0m
+46
+S	M	T	W	T	F	S
+282 km
+47 km/hr
+08341
+08341
+Kendujhargarh - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 06
+Jul 17
+KDJR
+20:00
+PURI
+01:45
+5h 45m
+46
+S	M	T	W	T	F	S
+282 km
+49 km/hr
+08342
+08339
+Daspalla - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 17
+DSPL
+11:00
+PURI
+14:00
+3h 0m
+18
+S	M	 	W	 	 	 
+150 km
+50 km/hr
+08340
+08338
+Puri - Daspalla Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 08
+Jul 20
+PURI
+00:40
+DSPL
+03:30
+2h 50m
+18
+S	M	T	W	T	F	S
+150 km
+53 km/hr
+08337
+08337
+Daspalla - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 18
+DSPL
+08:00
+PURI
+10:55
+2h 55m
+18
+S	M	T	W	T	F	S
+150 km
+52 km/hr
+08338
+08336
+Puri - Daspalla Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 19
+PURI
+18:45
+DSPL
+21:30
+2h 45m
+18
+S	M	 	W	 	F	 
+150 km
+55 km/hr
+08335
+08335
+Daspalla - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 18
+DSPL
+02:00
+PURI
+04:45
+2h 45m
+18
+S	M	T	W	T	 	 
+150 km
+55 km/hr
+08336
+08494
+Puri - Bhadrak Rath Yatra MEMU Special (via Cuttack)
+MEMU
+ECoR
+Jul 07
+Jul 18
+PURI
+21:00
+BHC
+02:55
+5h 55m
+42
+S	M	T	W	T	 	 
+206 km
+35 km/hr
+08493
+08493
+Bhadrak - Puri Rath Yatra Special (via Cuttack)
+MEMU
+ECoR
+Jul 07
+Jul 18
+BHC
+02:00
+PURI
+08:25
+6h 25m
+42
+S	M	T	W	T	 	 
+206 km
+32 km/hr
+08494
+08436
+Puri - Angul Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 18
+PURI
+22:20
+ANGL
+02:30
+4h 10m
+35
+S	 	T	W	T	 	 
+188 km
+45 km/hr
+08435
+08435
+Angul - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 18
+ANGL
+01:30
+PURI
+07:40
+6h 10m
+35
+S	 	T	W	T	 	 
+188 km
+30 km/hr
+08436
+06182
+Bhagat ki Kothi - Coimbatore Special Fare Special
+Exp
+SR
+Mar 17
+Jul 28
+BGKT
+19:30
+CBE
+09:30
+62h 0m
+34
+S	 	 	 	 	 	 
+SL 3A 3E
+2795 km
+45 km/hr
+06181
+03102
+Khurda Road - Sealdah Special Fare AC Rath Yatra Special
+ACExp
+ER
+Jul 06
+Jul 13
+KUR
+16:40
+SDAH
+02:00
+9h 20m
+6
+ 	 	 	 	 	 	S
+3A 2A 1A
+475 km
+51 km/hr
+03101
+08384
+Puri - Raipur Rath Yatra Special (UnReserved)
+Exp
+SECR
+Jul 08
+Jul 16
+PURI
+02:45
+R
+16:00
+13h 15m
+0
+ 	M	T	 	 	 	 
+693 km
+52 km/hr
+08383
+Raipur - Puri Rath Yatra Special (UnReserved)
+Exp
+SECR
+Jul 06
+Jul 14
+R
+06:00
+PURI
+23:00
+17h 0m
+0
+S	 	 	 	 	 	S
+693 km
+41 km/hr
+08433
+Angul - Puri Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 06
+Jul 17
+ANGL
+23:30
+PURI
+03:55
+4h 25m
+35
+S	M	T	W	T	F	S
+188 km
+42 km/hr
+08434
+08434
+Puri - Angul Rath Yatra MEMU Special
+MEMU
+ECoR
+Jul 07
+Jul 18
+PURI
+15:45
+ANGL
+20:45
+5h 0m
+35
+S	M	T	W	T	F	S
+188 km
+38 km/hr
+08433
+08498
+Puri - Paradeep Rath Yatra MEMU Special (via Rahama)
+MEMU
+ECoR
+Jul 07
+Jul 18
+PURI
+21:30
+PRDP
+03:00
+5h 30m
+33
+S	M	T	W	T	F	S
+173 km
+31 km/hr
+08497
+08497
+Paradeep - Puri Rath Yatra MEMU Special (via Rahama)
+MEMU
+ECoR
+Jul 07
+Jul 18
+PRDP
+02:30
+PURI
+08:10
+5h 40m
+33
+S	M	T	W	T	F	S
+173 km
+30 km/hr
+08498
+04165
+Agra Cantt. - Ahmedabad Special Fare SF Special
+SF
+NCR
+Jul 10
+Jul 31
+AGC
+20:20
+ADI
+11:00
+14h 40m
+10
+ 	 	 	W	 	 	 
+SL 3A 2A
+948 km
+65 km/hr
+04166
+04166
+Ahmedabad - Agra Cantt. Special Fare SF Special
+SF
+NCR
+Jul 11
+Aug 01
+ADI
+14:10
+AGC
+06:10
+16h 0m
+10
+ 	 	 	 	T	 	 
+SL 3A 2A
+948 km
+59 km/hr
+04165
+08495
+Paradeep - Puri Rath Yatra MEMU Special (via Haridaspur)
+MEMU
+ECoR
+Jul 06
+Jul 17
+PRDP
+21:00
+PURI
+03:10
+6h 10m
+39
+S	M	T	W	T	F	S
+213 km
+34 km/hr
+08496
+07056
+Hisar - Kacheguda Special Fare Summer Special
+Exp
+SCR
+May 05
+Sep 29
+HSR
+12:35
+KCG
+07:30
+42h 55m
+39
+S	 	 	 	 	 	 
+SL 3A 2A 3E
+2257 km
+53 km/hr
+07055
+08495
+Paradeep - Puri Rath Yatra MEMU Special (via Haridaspur)
+MEMU
+ECoR
+Jul 06
+Jul 17
+PRDP
+21:00
+PURI
+03:10
+6h 10m
+39
+S	M	T	W	T	F	S
+213 km
+34 km/hr
+08496
+09407
+Bhuj - Delhi Sarai Rohilla Special Fare SF Special
+SF
+WR
+Apr 30
+Jul 30
+BHUJ
+17:00
+DEE
+12:20
+19h 20m
+17
+ 	 	T	 	 	F	 
+SL 3A 2A 1A
+1155 km
+60 km/hr
+09408
+02200
+Bandra Terminus - Virangana Lakshmibai Jhansi Special Fare SF Special
+SF
+NCR
+Mar 09
+Jul 27
+BDTS
+05:10
+VGLJ
+05:00
+23h 50m
+19
+ 	 	 	 	 	 	S
+SL 3A 2A 3E
+1319 km
+55 km/hr
+02199
+01922
+Virangana Lakshmibai Jhansi - Pune Special Fare Special
+Exp
+NCR
+Jul 10
+Jul 31
+VGLJ
+12:50
+PUNE
+11:35
+22h 45m
+12
+ 	 	 	W	 	 	 
+SL 3A 2A
+1183 km
+52 km/hr
+01921
+01921
+Pune - Virangana Lakshmibai Jhansi SF Special Fare Special
+SF
+NCR
+Jul 11
+Aug 01
+PUNE
+15:15
+VGLJ
+10:00
+18h 45m
+12
+ 	 	 	 	T	 	 
+SL 3A 2A
+1183 km
+63 km/hr
+01922
+08492
+Puri - Bhadrak Rath Yatra MEMU Special (via Naraj Marthapur)
+MEMU
+ECoR
+Jul 07
+Jul 19
+PURI
+15:00
+BHC
+21:35
+6h 35m
+45
+S	M	T	W	T	F	S
+229 km
+35 km/hr
+08491
+01906
+Ahmedabad - Kanpur Central Special Fare SF Special
+SF
+NCR
+Mar 19
+Jul 30
+ADI
+14:10
+CNB
+11:55
+21h 45m
+13
+ 	 	T	 	 	 	 
+SL 3A 2A
+1203 km
+55 km/hr
+01905
+01905
+Kanpur Central - Ahmedabad Special Fare SF Special
+SF
+NCR
+Mar 18
+Jul 29
+CNB
+15:35
+ADI
+11:00
+19h 25m
+13
+ 	M	 	 	 	 	 
+SL 3A 2A
+1203 km
+62 km/hr
+01906
+07022
+Danapur - Secunderabad Special Fare Special
+Exp
+SCR
+Apr 19
+Sep 27
+DNR
+22:30
+SC
+09:30
+35h 0m
+16
+ 	 	 	 	 	F	 
+2S
+1822 km
+52 km/hr
+07021
+06181
+Coimbatore - Bhagat ki Kothi Special Fare Special
+Exp
+SR
+Mar 14
+Jul 25
+CBE
+02:30
+BGKT
+11:30
+57h 0m
+34
+ 	 	 	 	T	 	 
+SL 3A 3E
+2785 km
+49 km/hr
+06182
+06068
+Nagercoil - Chennai Egmore Vande Bharat Special Fare Summer Special
+VB
+SR
+Jul 11
+Jul 21
+NCJ
+14:20
+MS
+23:00
+8h 40m
+7
+S	 	 	 	T	F	S
+CC Ex
+724 km
+84 km/hr
+06067
+06067
+Chennai Egmore - Nagercoil Vande Bharat Special Fare Special
+VB
+SR
+Jul 11
+Jul 21
+MS
+05:00
+NCJ
+13:50
+8h 50m
+7
+S	 	 	 	T	F	S
+CC Ex
+724 km
+82 km/hr
+06068
+01920
+Ahmedabad - Agra Cantt. SF Special Fare Summer Special
+SF
+NCR
+May 17
+Jul 30
+ADI
+17:30
+AGC
+09:50
+16h 20m
+11
+S	 	 	W	 	F	 
+SL 3A 2A
+948 km
+58 km/hr
+01919
+01919
+Agra Cantt. - Ahmedabad SF Special Fare Summer Special
+SF
+NCR
+May 16
+Jul 30
+AGC
+23:30
+ADI
+14:30
+15h 0m
+11
+ 	 	T	 	T	 	S
+3A 2A
+948 km
+63 km/hr
+01920
+04168
+Ahmedabad - Agra Cantt. Special Fare SF Special
+SF
+NCR
+Mar 25
+Jul 29
+ADI
+14:10
+AGC
+06:30
+16h 20m
+10
+ 	M	 	 	 	 	 
+SL 3A 2A
+948 km
+58 km/hr
+04167
+04167
+Agra Cantt. - Ahmedabad Special Fare SF Special
+SF
+NCR
+Mar 24
+Jul 28
+AGC
+20:20
+ADI
+11:00
+14h 40m
+10
+S	 	 	 	 	 	 
+SL 3A 2A
+948 km
+65 km/hr
+04168
+07631
+Hyderabad - Narasapur Special Fare Special
+Exp
+SCR
+Sep 28
+HYB
+23:15
+NS
+08:35
+9h 20m
+12
+ 	 	 	 	 	 	S
+SL 3A 2A
+496 km
+53 km/hr
+07632
+06173
+Udagamadalam Round Trip MG Summer Special
+Toy
+SR
+Jul 05
+Aug 04
+UAM
+09:45
+UAMR
+11:00
+1h 15m
+2
+S	 	 	 	 	 	S
+2S FC
+17 km
+14 km/hr
+04718
+Tirupati - Hisar SF Special Fare Special
+SF
+NWR
+Oct 01
+TPTY
+23:45
+HSR
+22:25
+46h 40m
+28
+ 	M	 	 	 	 	 
+SL 3A 2A
+2492 km
+53 km/hr
+04717
+04717
+Hisar - Tirupati SF Special Fare Special
+SF
+NWR
+Sep 28
+HSR
+14:10
+TPTY
+09:15
+43h 5m
+28
+ 	 	 	 	 	 	S
+SL 3A 2A
+2492 km
+58 km/hr
+04718
+03409
+Malda Town - Khatipura (Jaipur) Special Fare SF Summer Special
+SF
+ER
+Apr 25
+Jul 25
+MLDT
+19:30
+KWP
+18:50
+23h 20m
+18
+ 	 	 	 	T	 	 
+SL
+1439 km
+62 km/hr
+03410
+03101
+Sealdah - Khurda Road Special Fare AC Rath Yatra Special
+ACExp
+ER
+Jul 06
+Jul 13
+SDAH
+00:05
+KUR
+08:30
+8h 25m
+6
+ 	 	 	 	 	 	S
+3A 2A 1A
+475 km
+56 km/hr
+03102
+03420
+Malatipatpur (Puri) - Malda Town Special Fare Rath Yatra Special
+Exp
+ER
+Jul 05
+Jul 12
+MLT
+06:00
+MLDT
+23:45
+17h 45m
+14
+ 	 	 	 	 	F	 
+SL 3A 2A 3E
+838 km
+47 km/hr
+03419
+03419
+Malda Town - Malatipatpur (Puri) Special Fare Rath Yatra Special
+Exp
+ER
+Jul 04
+Jul 11
+MLDT
+09:30
+MLT
+03:55
+18h 25m
+14
+ 	 	 	 	T	 	 
+SL 3A 2A 3E
+838 km
+45 km/hr
+03420
+04122
+Secunderabad - Subedarganj Special Fare SF Special
+SF
+NCR
+Jul 27
+SC
+04:30
+SFG
+10:00
+29h 30m
+14
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+1668 km
+57 km/hr
+04121
+04121
+Subedarganj - Secunderabad Special Fare SF Special
+SF
+NCR
+Jul 25
+SFG
+15:50
+SC
+20:00
+28h 10m
+14
+ 	 	 	 	T	 	 
+SL 3A 2A 1A
+1668 km
+59 km/hr
+04122
+04115
+Subedarganj - Mumbai LTT Special Fare SF Summer Special
+SF
+NCR
+Apr 18
+Jul 25
+SFG
+11:15
+LTT
+16:15
+29h 0m
+16
+ 	 	 	 	T	 	 
+SL 2A 3E
+1672 km
+58 km/hr
+04116
+04116
+Mumbai LTT - Subedarganj Special Fare SF Summer Special
+SF
+NCR
+Apr 19
+Jul 26
+LTT
+20:15
+SFG
+05:10
+32h 55m
+17
+ 	 	 	 	 	F	 
+SL 2A 3E
+1672 km
+51 km/hr
+04115
+08376
+Rourkela - Puri Rath Yatra Special Fare Special (via Chaibasa)
+Exp
+SER
+Jul 05
+Jul 14
+ROU
+21:50
+PURI
+16:45
+18h 55m
+68
+S	 	 	 	 	F	 
+SL
+560 km
+30 km/hr
+08377
+08385
+Rourkela - Puri Rath Yatra Special Fare Special (via Sambalpur City)
+Exp
+SER
+Jul 06
+Jul 14
+ROU
+11:30
+PURI
+23:15
+11h 45m
+59
+S	 	 	 	 	 	S
+SL 3A 2A
+482 km
+41 km/hr
+08386
+09052
+Bhusaval - Dadar Western Special Fare Special
+Exp
+WR
+Jan 11
+Sep 30
+BSL
+17:40
+DDR
+05:15
+11h 35m
+18
+ 	M	 	W	 	 	S
+SL 3A 2A 1A
+581 km
+50 km/hr
+09051
+06069
+Chennai Egmore - Tirunelveli Special Fare Special
+Exp
+SR
+Apr 12
+Jul 19
+MS
+15:00
+TEN
+07:10
+16h 10m
+22
+ 	 	 	 	 	F	 
+SL 3A 2A 3E
+710 km
+44 km/hr
+06070
+06070
+Tirunelveli - Chennai Egmore Special Fare Special
+Exp
+SR
+Apr 11
+Jul 18
+TEN
+18:45
+MS
+08:30
+13h 45m
+22
+ 	 	 	 	T	 	 
+SL 3A 2A 3E
+710 km
+52 km/hr
+06069
+06029
+Mettupalayam - Tirunelveli Special Fare Special (PT)
+Exp
+SR
+Jul 03
+Jul 29
+MTP
+19:45
+TEN
+07:45
+12h 0m
+21
+ 	M	 	 	 	 	 
+SL 3A 2A 3E
+503 km
+42 km/hr
+06030
+06030
+Tirunelveli - Mettupalayam Special Fare Special (PT)
+Exp
+SR
+Jul 02
+Jul 28
+TEN
+19:00
+MTP
+07:30
+12h 30m
+21
+S	 	 	 	 	 	 
+SL 3A 2A 3E
+503 km
+40 km/hr
+06029
+09051
+Dadar Western - Bhusaval Special Fare Special
+Exp
+WR
+Jan 10
+Sep 30
+DDR
+00:05
+BSL
+12:00
+11h 55m
+18
+ 	M	 	W	 	 	S
+SL 3A 2A 1A
+581 km
+49 km/hr
+09052
+09417
+Ahmedabad - Danapur Special Fare Special
+Exp
+WR
+Apr 15
+Sep 30
+ADI
+09:10
+DNR
+20:30
+35h 20m
+19
+ 	M	 	 	 	 	 
+SL 3A 2A
+1894 km
+54 km/hr
+09418
+04076
+SMVD Katra - New Delhi Special Fare Summer Special
+Exp
+NR
+Apr 29
+Aug 01
+SVDK
+20:20
+NDLS
+09:30
+13h 10m
+10
+ 	M	 	 	T	 	 
+SL 3A 2A
+655 km
+50 km/hr
+04075
+04075
+New Delhi - SMVD Katra Special Fare Summer Special
+Exp
+NR
+Apr 28
+Jul 31
+NDLS
+23:45
+SVDK
+11:40
+11h 55m
+10
+S	 	 	W	 	 	 
+SL 3A 2A
+655 km
+55 km/hr
+04076
+07031
+Secunderabad - Hazrat Nizamuddin Special Fare Special
+Exp
+SCR
+Apr 21
+Sep 29
+SC
+20:45
+NZM
+02:00
+29h 15m
+13
+S	 	 	 	 	 	 
+SL 3A 2A
+1661 km
+57 km/hr
+07032
+07032
+Hazrat Nizamuddin - Secunderabad Special Fare Special
+Exp
+SCR
+Apr 23
+Oct 01
+NZM
+04:00
+SC
+06:30
+26h 30m
+13
+ 	 	T	 	 	 	 
+SL 3A 2A
+1661 km
+63 km/hr
+07031
+02575
+Hyderabad - Gorakhpur Special Fare SF Special
+SF
+SCR
+Dec 15
+Sep 27
+HYB
+21:05
+GKP
+06:30
+33h 25m
+16
+ 	 	 	 	 	F	 
+SL 3A 2A
+1832 km
+55 km/hr
+02576
+02576
+Gorakhpur - Hyderabad Special Fare SF Special
+SF
+SCR
+Dec 17
+Sep 29
+GKP
+08:30
+HYB
+16:20
+31h 50m
+18
+S	 	 	 	 	 	 
+SL 3A 2A
+1832 km
+58 km/hr
+02575
+01023
+Pune - SCSMT Kolhapur Special Fare Special
+Exp
+CR
+Sep 30
+PUNE
+21:45
+KOP
+05:40
+7h 55m
+20
+S	M	T	W	T	F	S
+SL 3A 2A
+326 km
+41 km/hr
+01024
+05289
+Muzaffarpur - Pune Special Fare AC SF Summer Special
+ACSF
+ECR
+Apr 27
+Jul 27
+MFP
+21:15
+PUNE
+05:35
+32h 20m
+19
+ 	 	 	 	 	 	S
+3E
+1829 km
+57 km/hr
+05290
+05290
+Pune - Muzaffarpur Special Fare AC SF Summer Special
+ACSF
+ECR
+Apr 29
+Jul 29
+PUNE
+06:30
+MFP
+15:15
+32h 45m
+19
+ 	M	 	 	 	 	 
+3E
+1829 km
+56 km/hr
+05289
+01024
+SCSMT Kolhapur - Pune Special Fare Special
+Exp
+CR
+Sep 30
+KOP
+23:30
+PUNE
+07:45
+8h 15m
+20
+S	M	T	W	T	F	S
+SL 3A 2A
+326 km
+40 km/hr
+01023
+01139
+Nagpur - Madgaon Special Fare Special
+Exp
+CR
+Sep 28
+NGP
+15:05
+MAO
+17:45
+26h 40m
+23
+ 	 	 	W	 	 	S
+SL 3A 2A
+1330 km
+50 km/hr
+01140
+01025
+Dadar Central - Ballia Special Fare Special
+Exp
+CR
+Apr 01
+Sep 30
+DR
+14:05
+BUI
+01:45
+35h 40m
+25
+ 	M	 	W	 	F	 
+SL 3A 2A
+1802 km
+51 km/hr
+01026
+08104
+Varanasi - Tatanagar Special Fare Special
+Exp
+SER
+Apr 26
+Jul 26
+BSB
+09:30
+TATA
+22:30
+13h 0m
+8
+ 	 	 	 	 	F	 
+SL 3A 2A
+576 km
+44 km/hr
+08103
+08103
+Tatanagar - Varanasi Special Fare Special
+Exp
+SER
+Apr 25
+Jul 25
+TATA
+21:05
+BSB
+08:00
+10h 55m
+8
+ 	 	 	 	T	 	 
+SL 3A 2A
+576 km
+53 km/hr
+08104
+02840
+Puri - Shalimar Special Fare SF Special
+SF
+SER
+Apr 15
+Jul 29
+PURI
+23:20
+SHM
+08:50
+9h 30m
+9
+ 	M	 	 	 	 	 
+SL 3A 2A
+497 km
+52 km/hr
+02839
+02839
+Shalimar - Puri Special Fare SF Special
+SF
+SER
+Apr 14
+Jul 28
+SHM
+21:25
+PURI
+06:15
+8h 50m
+9
+S	 	 	 	 	 	 
+SL 3A 2A
+497 km
+56 km/hr
+02840
+02848
+Digha - Santragachi Special Fare Special
+SF
+SER
+Mar 23
+Jul 27
+DGHA
+13:10
+SRC
+16:50
+3h 40m
+5
+ 	 	 	 	 	 	S
+2S
+178 km
+49 km/hr
+02847
+02847
+Santragachi - Digha Special Fare Special
+SF
+SER
+Mar 23
+Jul 27
+SRC
+09:10
+DGHA
+12:45
+3h 35m
+5
+ 	 	 	 	 	 	S
+2S
+178 km
+50 km/hr
+02848
+02898
+Digha - Santragachi Special Fare Special
+SF
+SER
+Mar 24
+Jul 28
+DGHA
+13:10
+SRC
+16:50
+3h 40m
+5
+S	 	 	 	 	 	 
+2S
+178 km
+49 km/hr
+02897
+02897
+Santragachi - Digha Special Fare Special
+SF
+SER
+Mar 24
+Jul 28
+SRC
+08:10
+DGHA
+11:55
+3h 45m
+5
+S	 	 	 	 	 	 
+2S
+178 km
+47 km/hr
+02898
+08008
+Bhanjpur - Shalimar Special Fare Special
+Exp
+SER
+Jul 29
+VZR
+09:15
+SHM
+15:30
+6h 15m
+12
+ 	M	 	 	 	 	S
+2S SL
+266 km
+43 km/hr
+08007
+08007
+Shalimar - Bhanjpur Special Fare Special
+Exp
+SER
+Jul 27
+SHM
+16:25
+VZR
+21:30
+5h 5m
+12
+ 	 	 	 	T	 	S
+2S SL
+266 km
+52 km/hr
+08008
+08012
+Puri - Bhanjpur Special Fare Special
+Exp
+SER
+Jul 28
+PURI
+23:50
+VZR
+06:50
+7h 0m
+10
+S	 	 	 	 	F	 
+2S SL
+342 km
+49 km/hr
+08011
+08011
+Bhanjpur - Puri Special Fare Special
+Exp
+SER
+Jul 27
+VZR
+23:10
+PURI
+05:50
+6h 40m
+10
+ 	 	 	 	T	 	S
+2S SL
+342 km
+51 km/hr
+08012
+02838
+Puri - Santragachi Special Fare SF Special
+SF
+SER
+Jul 27
+PURI
+19:20
+SRC
+04:00
+8h 40m
+7
+ 	 	 	 	 	 	S
+SL 3A 2A
+493 km
+57 km/hr
+02837
+02837
+Santragachi - Puri Special Fare SF Special
+SF
+SER
+Jul 26
+SRC
+20:35
+PURI
+04:30
+7h 55m
+7
+ 	 	 	 	 	F	 
+SL 3A 2A
+493 km
+62 km/hr
+02838
+09321
+Dr. Ambedkar Nagar - SMVD Katra Special Fare SF Special
+SF
+WR
+Jun 29
+Aug 11
+DADN
+10:30
+SVDK
+16:00
+29h 30m
+32
+ 	M	 	W	 	 	S
+SL 3A
+1639 km
+56 km/hr
+09322
+04138
+Barauni - Gwalior Special Fare Summer Special
+Exp
+NCR
+Apr 22
+Aug 01
+BJU
+09:30
+GWL
+10:20
+24h 50m
+24
+ 	M	 	 	T	 	 
+2S CC
+986 km
+40 km/hr
+04137
+04137
+Gwalior - Barauni Special Fare Summer Special
+Exp
+NCR
+Apr 21
+Jul 31
+GWL
+07:10
+BJU
+08:00
+24h 50m
+24
+S	 	 	W	 	 	 
+2S CC
+986 km
+40 km/hr
+04138
+09322
+SMVD Katra - Dr. Ambedkar Nagar Special Fare SF Special
+SF
+WR
+Jun 30
+Aug 11
+SVDK
+21:40
+DADN
+23:50
+26h 10m
+32
+S	 	T	 	T	 	 
+SL 3A
+1639 km
+63 km/hr
+09321
+09575
+Rajkot - Mahbubnagar Special Fare Special
+Exp
+WR
+Apr 22
+Sep 30
+RJT
+13:45
+MBNR
+20:00
+30h 15m
+26
+ 	M	 	 	 	 	 
+SL 3A 2A
+1571 km
+52 km/hr
+09576
+01487
+Pune - Harangul (Latur) Special Fare Special
+Exp
+SCR
+Oct 10
+Sep 30
+PUNE
+06:10
+HGL
+12:50
+6h 40m
+10
+S	M	T	W	T	F	S
+SL 3A 2A 1A
+327 km
+49 km/hr
+01488
+01488
+Harangul (Latur) - Pune Special Fare Special
+Exp
+SCR
+Oct 10
+Sep 30
+HGL
+15:00
+PUNE
+21:00
+6h 0m
+10
+S	M	T	W	T	F	S
+SL 3A 2A 1A
+327 km
+55 km/hr
+01487
+01461
+Solapur - Daund DEMU Special
+DEMU
+CR
+Sep 30
+SUR
+10:00
+DD
+15:35
+5h 35m
+7
+S	M	T	W	T	F	S
+187 km
+33 km/hr
+01462
+01462
+Daund - Solapur DEMU Special
+DEMU
+CR
+Sep 30
+DD
+18:25
+SUR
+23:35
+5h 10m
+7
+S	M	T	W	T	F	S
+187 km
+36 km/hr
+01461
+01092
+Sanawad - Khandwa MEMU Special
+MEMU
+CR
+Mar 12
+Sep 30
+SWD
+14:45
+KNW
+16:10
+1h 25m
+4
+S	M	T	 	 	F	S
+53 km
+38 km/hr
+01091
+01091
+Khandwa - Sanawad MEMU Special
+MEMU
+CR
+Mar 12
+Sep 30
+KNW
+09:00
+SWD
+10:30
+1h 30m
+4
+S	M	T	 	 	F	S
+53 km
+35 km/hr
+01092
+01211
+Badnera - Nashik Road MEMU Special
+MEMU
+CR
+Sep 30
+BD
+11:05
+NK
+19:40
+8h 35m
+13
+S	M	T	W	T	F	S
+476 km
+55 km/hr
+01212
+01212
+Nashik Road - Badnera MEMU Special
+MEMU
+CR
+Sep 30
+NK
+21:15
+BD
+04:35
+7h 20m
+13
+S	M	T	W	T	F	S
+476 km
+65 km/hr
+01211
+02878
+New Delhi - Ranchi Special Fare Garib Rath Special
+GR
+SER
+May 11
+Jul 27
+NDLS
+23:45
+RNC
+00:15
+24h 30m
+14
+ 	 	 	 	 	 	S
+3A
+1341 km
+55 km/hr
+02877
+02877
+Ranchi - New Delhi Special Fare Garib Rath Special
+GR
+SER
+May 10
+Jul 26
+RNC
+23:55
+NDLS
+22:20
+22h 25m
+14
+ 	 	 	 	 	F	 
+3A
+1338 km
+60 km/hr
+02878
+03027
+Howrah - New Jalpaiguri Special Fare Summer Special
+Exp
+ER
+Apr 17
+Jul 31
+HWH
+23:55
+NJP
+10:45
+10h 50m
+9
+ 	 	 	W	 	 	 
+SL 3A 2A 1A 3E
+567 km
+52 km/hr
+03028
+07008
+Raxaul - Secunderabad Special Fare Special (via Patliputra)
+Exp
+SCR
+Sep 27
+RXL
+19:15
+SC
+10:00
+38h 45m
+19
+ 	 	 	 	 	F	 
+SL 3A 2A
+2050 km
+53 km/hr
+07007
+07007
+Secunderabad - Raxaul Special Fare Special (via Patliputra)
+Exp
+SCR
+Sep 25
+SC
+15:15
+RXL
+05:55
+38h 40m
+20
+ 	 	 	W	 	 	 
+SL 3A 2A
+2050 km
+53 km/hr
+07008
+07420
+Danapur - Secunderabad Special Fare Special
+Exp
+SCR
+Sep 30
+DNR
+14:00
+SC
+23:50
+33h 50m
+16
+ 	M	 	 	 	 	 
+SL 3A 2A 1A
+1822 km
+54 km/hr
+07419
+07419
+Secunderabad - Danapur Special Fare Special
+Exp
+SCR
+Sep 28
+SC
+15:15
+DNR
+23:15
+32h 0m
+16
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+1822 km
+57 km/hr
+07420
+07648
+Danapur - Secunderabad Special Fare Special
+Exp
+SCR
+Apr 29
+Sep 30
+DNR
+08:00
+SC
+19:00
+35h 0m
+17
+ 	M	 	 	 	 	 
+SL 3A 2A 1A
+1822 km
+52 km/hr
+07647
+07647
+Secunderabad - Danapur Special Fare Special
+Exp
+SCR
+Apr 27
+Sep 28
+SC
+21:00
+DNR
+05:50
+32h 50m
+15
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+1822 km
+56 km/hr
+07648
+08440
+Patna - Puri Special Fare Special
+Exp
+ECoR
+Sep 29
+PNBE
+13:30
+PURI
+09:45
+20h 15m
+17
+S	 	 	 	 	 	 
+SL 3A 2A
+931 km
+46 km/hr
+08439
+08439
+Puri - Patna Special Fare Special
+Exp
+ECoR
+Sep 28
+PURI
+14:55
+PNBE
+09:25
+18h 30m
+17
+ 	 	 	 	 	 	S
+SL 3A 2A
+931 km
+50 km/hr
+08440
+09576
+Mahbubnagar - Rajkot Special Fare Special (PT)
+Exp
+WR
+Apr 23
+Oct 01
+MBNR
+22:10
+RJT
+05:00
+30h 50m
+25
+ 	 	T	 	 	 	 
+SL 3A 2A
+1571 km
+51 km/hr
+09575
+09519
+Madurai - Okha Special Fare Special (PT)
+Exp
+WR
+Jul 14
+Jan 03
+MDU
+01:15
+OKHA
+10:20
+57h 5m
+47
+ 	 	 	 	 	F	 
+SL 3A 2A
+2955 km
+52 km/hr
+09520
+09520
+Okha - Madurai Special Fare Special
+Exp
+WR
+Jul 10
+Dec 30
+OKHA
+22:00
+MDU
+11:45
+61h 45m
+47
+ 	M	 	 	 	 	 
+SL 3A 2A
+2965 km
+48 km/hr
+09519
+07652
+Chhapra - Jalna Special Fare Special
+Exp
+SCR
+Apr 05
+Sep 27
+CPR
+22:15
+J
+04:00
+29h 45m
+22
+ 	 	 	 	 	F	 
+SL 3A 2A
+1606 km
+54 km/hr
+07651
+07651
+Jalna - Chhapra Special Fare Special (PT)
+Exp
+SCR
+Apr 03
+Sep 25
+J
+23:35
+CPR
+05:30
+29h 55m
+22
+ 	 	 	W	 	 	 
+SL 3A 2A
+1606 km
+54 km/hr
+07652
+02864
+Yesvantpur - Howrah Special Fare SF Summer Special
+SF
+SER
+Apr 06
+Jul 27
+YPR
+05:00
+HWH
+13:25
+32h 25m
+24
+ 	 	 	 	 	 	S
+SL 2A 3E
+1902 km
+59 km/hr
+02863
+02863
+Howrah - Yesvantpur Special Fare SF Summer Special
+SF
+SER
+Apr 04
+Jul 25
+HWH
+12:40
+YPR
+00:15
+35h 35m
+25
+ 	 	 	 	T	 	 
+SL 2A 3E
+1902 km
+53 km/hr
+02864
+03028
+New Jalpaiguri - Howrah Special Fare Summer Special
+Exp
+ER
+Apr 18
+Aug 01
+NJP
+12:45
+HWH
+00:10
+11h 25m
+9
+ 	 	 	 	T	 	 
+2S SL 3A 2A 1A 3E
+567 km
+50 km/hr
+03027
+03106
+Jagi Road - Sealdah Special Fare AC Summer Special
+ACExp
+ER
+Apr 13
+Jul 27
+JID
+13:00
+SDAH
+13:00
+24h 0m
+22
+ 	 	 	 	 	 	S
+3A
+1064 km
+44 km/hr
+03105
+03105
+Sealdah - Jagi Road Special Fare AC Summer Special
+ACExp
+ER
+Apr 12
+Jul 26
+SDAH
+09:00
+JID
+06:30
+21h 30m
+22
+ 	 	 	 	 	F	 
+3A
+1064 km
+49 km/hr
+03106
+04126
+Bandra Terminus - Subedarganj Special Fare SF Special
+SF
+NCR
+Feb 27
+Jul 30
+BDTS
+11:00
+SFG
+17:00
+30h 0m
+17
+ 	 	T	 	 	 	 
+SL 3A 1A
+1687 km
+56 km/hr
+04125
+04125
+Subedarganj - Bandra Terminus Special Fare SF Special
+SF
+NCR
+Feb 26
+Jul 29
+SFG
+05:20
+BDTS
+08:30
+27h 10m
+16
+ 	M	 	 	 	 	 
+SL 3A 1A
+1687 km
+62 km/hr
+04126
+04687
+Banihal - Badgam Special Fare Vistadome Special
+Exp
+NR
+Oct 19
+Sep 30
+BAHL
+18:15
+BDGM
+20:20
+2h 5m
+4
+S	M	T	W	T	 	S
+EV
+90 km
+43 km/hr
+04688
+04688
+Badgam - Banihal Special Fare Vistadome Special
+Exp
+NR
+Oct 19
+Sep 30
+BDGM
+08:20
+BAHL
+10:30
+2h 10m
+4
+S	M	T	W	T	 	S
+EV
+90 km
+41 km/hr
+04687
+01026
+Ballia - Dadar Central Special Fare Special
+Exp
+CR
+Apr 03
+Oct 02
+BUI
+15:15
+DR
+03:35
+36h 20m
+23
+S	 	 	W	 	F	 
+SL 3A 2A
+1802 km
+50 km/hr
+01025
+06001
+Kochuveli - Mangaluru Central One Way Vande Bharat Special
+VB
+SR
+Jul 01
+Jul 01
+KCVL
+10:45
+MAQ
+22:00
+11h 15m
+9
+ 	M	 	 	 	 	 
+CC Ex
+625 km
+56 km/hr
+08579
+Visakhapatnam - Secunderabad Special Fare Special
+Exp
+ECoR
+Aug 28
+VSKP
+19:00
+SC
+09:05
+14h 5m
+15
+ 	 	 	W	 	 	 
+SL 3A 2A
+691 km
+49 km/hr
+08580
+08580
+Secunderabad - Visakhapatnam Special Fare Special
+Exp
+ECoR
+Aug 29
+SC
+19:40
+VSKP
+09:15
+13h 35m
+15
+ 	 	 	 	T	 	 
+SL 3A 2A
+691 km
+51 km/hr
+08579
+08583
+Visakhapatnam - Tirupati Special Fare Special
+Exp
+ECoR
+Aug 26
+VSKP
+19:10
+TPTY
+09:15
+14h 5m
+15
+ 	M	 	 	 	 	 
+SL 3A 2A 3E
+736 km
+52 km/hr
+08584
+08584
+Tirupati - Visakhapatnam Special Fare Special
+Exp
+ECoR
+Aug 27
+TPTY
+21:55
+VSKP
+10:15
+12h 20m
+15
+ 	 	T	 	 	 	 
+SL 3A 2A 3E
+736 km
+60 km/hr
+08583
+02188
+Mumbai CSMT - Rewa Special Fare SF Special
+SF
+WCR
+Apr 26
+Sep 27
+CSMT
+13:30
+REWA
+08:55
+19h 25m
+15
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+1231 km
+63 km/hr
+02187
+02187
+Rewa - Mumbai CSMT Special Fare SF Special
+SF
+WCR
+Apr 25
+Sep 26
+REWA
+16:00
+CSMT
+12:20
+20h 20m
+15
+ 	 	 	 	T	 	 
+SL 3A 2A 1A
+1231 km
+61 km/hr
+02188
+07192
+Madurai - Kacheguda Special Fare Special (PT)
+Exp
+SCR
+Oct 11
+Oct 02
+MDU
+10:40
+KCG
+13:25
+26h 45m
+28
+ 	 	 	W	 	 	 
+SL 3A 2A 1A
+1287 km
+48 km/hr
+07191
+07006
+Raxaul - Secunderabad Special Fare Special (via Ranchi)
+Exp
+SCR
+Apr 25
+Oct 03
+RXL
+03:15
+SC
+19:40
+40h 25m
+29
+ 	 	 	 	T	 	 
+SL 3A 2A 1A
+2065 km
+51 km/hr
+07005
+07005
+Secunderabad - Raxaul Special Fare Special (via Ranchi)
+Exp
+SCR
+Apr 22
+Sep 30
+SC
+22:00
+RXL
+16:50
+42h 50m
+29
+ 	M	 	 	 	 	 
+SL 3A 2A 1A
+2062 km
+48 km/hr
+07006
+07052
+Raxaul - Secunderabad Special Fare Special (via Ranchi)
+Exp
+SCR
+Oct 01
+RXL
+08:30
+SC
+04:50
+44h 20m
+27
+ 	 	T	 	 	 	 
+SL 3A 2A 1A
+2065 km
+47 km/hr
+07051
+07051
+Hyderabad - Raxaul Special Fare Special (via Ranchi)
+Exp
+SCR
+Sep 28
+HYB
+20:35
+RXL
+13:30
+40h 55m
+28
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+2071 km
+51 km/hr
+07052
+07029
+Agartala - Secunderabad Special Fare Special
+Exp
+SCR
+Oct 04
+AGTL
+06:20
+SC
+16:15
+57h 55m
+30
+ 	 	 	 	 	F	 
+2S SL 3A 2A
+3092 km
+53 km/hr
+07030
+07030
+Secunderabad - Agartala Special Fare Special
+Exp
+SCR
+Sep 30
+SC
+16:35
+AGTL
+03:10
+58h 35m
+30
+ 	M	 	 	 	 	 
+SL 3A 2A
+3092 km
+53 km/hr
+07029
+07222
+Santragachi - Secunderabad Special Fare Summer Special (via Guntur)
+Exp
+SCR
+Apr 21
+Sep 29
+SRC
+12:20
+SC
+15:00
+26h 40m
+24
+S	 	 	W	 	 	 
+SL 3A 2A 1A
+1521 km
+57 km/hr
+07221
+07221
+Secunderabad - Santragachi Special Fare Summer Special (via Guntur)
+Exp
+SCR
+Apr 20
+Sep 28
+SC
+06:45
+SRC
+10:25
+27h 40m
+24
+ 	 	T	 	 	 	S
+SL 3A 2A 1A
+1521 km
+55 km/hr
+07222
+01436
+Mumbai LTT - Solapur Special Fare Special
+Exp
+CR
+Aug 07
+Sep 25
+LTT
+12:50
+SUR
+09:15
+20h 25m
+18
+ 	 	 	W	 	 	 
+SL 3A 2A
+890 km
+44 km/hr
+01435
+01435
+Solapur - Mumbai LTT Special Fare Special
+Exp
+CR
+Aug 06
+Sep 24
+SUR
+09:20
+LTT
+03:45
+18h 25m
+18
+ 	 	T	 	 	 	 
+SL 3A 2A
+890 km
+48 km/hr
+01436
+01438
+Tirupati - Solapur Special Fare Special
+Exp
+CR
+Sep 27
+TPTY
+21:10
+SUR
+19:10
+22h 0m
+23
+ 	 	 	 	 	F	 
+SL 3A 2A
+1089 km
+49 km/hr
+01437
+01437
+Solapur - Tirupati Special Fare Special
+Exp
+CR
+Sep 26
+SUR
+21:40
+TPTY
+19:45
+22h 5m
+23
+ 	 	 	 	T	 	 
+SL 3A 2A
+1089 km
+49 km/hr
+01438
+01027
+Dadar Central - Gorakhpur Special Fare Special
+Exp
+CR
+Apr 02
+Sep 29
+DR
+14:05
+GKP
+02:45
+36h 40m
+24
+S	 	T	 	T	 	S
+SL 3A 2A
+1869 km
+51 km/hr
+01028
+01028
+Gorakhpur - Dadar Central Special Fare Special
+Exp
+CR
+Apr 04
+Sep 30
+GKP
+14:25
+DR
+03:30
+37h 5m
+24
+ 	M	T	 	T	 	S
+SL 3A 2A
+1869 km
+50 km/hr
+01027
+03410
+Khatipura (Jaipur) - Malda Town Special Fare SF Summer Special
+SF
+ER
+Apr 26
+Jul 26
+KWP
+21:00
+MLDT
+20:55
+23h 55m
+18
+ 	 	 	 	 	F	 
+SL
+1439 km
+60 km/hr
+03409
+03510
+Khatipura (Jaipur) - Asansol Special Fare SF Summer Special
+SF
+ER
+Jul 03
+Jul 31
+KWP
+14:30
+ASN
+12:40
+22h 10m
+14
+ 	 	 	W	 	 	 
+SL 3A 2A 1A
+1367 km
+62 km/hr
+03509
+03509
+Asansol - Khatipura (Jaipur) Special Fare SF Summer Special
+SF
+ER
+Jul 02
+Jul 30
+ASN
+13:20
+KWP
+11:10
+21h 50m
+16
+ 	 	T	 	 	 	 
+SL 3A 2A 1A
+1367 km
+63 km/hr
+03510
+03008
+Khatipura (Jaipur) - Howrah Special Fare Summer Special
+Exp
+ER
+Jun 11
+Jul 30
+KWP
+05:30
+HWH
+12:30
+31h 0m
+21
+ 	 	T	 	 	 	 
+SL 3A 2A
+1564 km
+50 km/hr
+03007
+03007
+Howrah - Khatipura (Jaipur) Special Fare Summer Special
+Exp
+ER
+Jun 09
+Jul 28
+HWH
+18:00
+KWP
+01:00
+31h 0m
+21
+S	 	 	 	 	 	 
+SL 3A 2A
+1564 km
+50 km/hr
+03008
+07436
+Nagercoil - Kacheguda Weekly Special Fare Special
+Exp
+SCR
+Sep 29
+NCJ
+00:30
+KCG
+06:30
+30h 0m
+25
+S	 	 	 	 	 	 
+SL 3A 2A 1A
+1509 km
+50 km/hr
+07435
+07435
+Kacheguda - Nagercoil Weekly Special Fare Special (PT)
+Exp
+SCR
+Sep 27
+KCG
+19:45
+NCJ
+22:30
+26h 45m
+25
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+1509 km
+56 km/hr
+07436
+07191
+Kacheguda - Madurai Special Fare Special (PT)
+Exp
+SCR
+Apr 08
+Sep 30
+KCG
+20:30
+MDU
+01:20
+28h 50m
+28
+ 	M	 	 	 	 	 
+SL 3A 2A 1A
+1287 km
+45 km/hr
+07192
+07190
+Erode - Hazur Sahib Nanded Special Fare Special
+Exp
+SCR
+Oct 15
+Sep 29
+ED
+05:15
+NED
+07:30
+26h 15m
+19
+S	 	 	 	 	 	 
+SL 3A 2A
+1313 km
+50 km/hr
+07189
+07189
+Hazur Sahib Nanded - Erode Special Fare Special
+Exp
+SCR
+Oct 13
+Sep 27
+NED
+14:20
+ED
+14:00
+23h 40m
+19
+ 	 	 	 	 	F	 
+SL 3A 2A
+1313 km
+55 km/hr
+07190
+07696
+Ramanathapuram - Secunderabad Special Fare Special
+Exp
+SCR
+Jan 06
+Jul 19
+RMD
+09:50
+SC
+12:50
+27h 0m
+26
+ 	 	 	 	 	F	 
+SL 2A 1A
+1300 km
+48 km/hr
+07695
+07116
+Jaipur - Hyderabad Special Fare Special
+Exp
+SCR
+Sep 29
+JP
+15:20
+HYB
+03:00
+35h 40m
+24
+S	 	 	 	 	 	 
+SL 3A 2A
+1839 km
+52 km/hr
+07115
+07115
+Hyderabad - Jaipur Special Fare Special
+Exp
+SCR
+Sep 27
+HYB
+20:20
+JP
+05:25
+33h 5m
+24
+ 	 	 	 	 	F	 
+SL 3A 2A
+1839 km
+56 km/hr
+07116
+09622
+Bandra Terminus - Ajmer Special Fare SF Special (via Jaipur)
+SF
+NWR
+Jul 29
+BDTS
+11:15
+AII
+09:10
+21h 55m
+11
+ 	M	 	 	 	 	 
+SL 3A 2A
+1283 km
+59 km/hr
+09621
+09621
+Ajmer - Bandra Terminus Special Fare SF Special (via Jaipur)
+SF
+NWR
+Jul 28
+AII
+06:35
+BDTS
+04:15
+21h 40m
+11
+S	 	 	 	 	 	 
+SL 3A 2A
+1283 km
+59 km/hr
+09622
+09626
+Daund - Ajmer Special Fare SF Summer Special (via Jaipur)
+SF
+NWR
+Mar 15
+Jul 26
+DD
+23:10
+AII
+23:40
+24h 30m
+22
+ 	 	 	 	 	F	 
+SL 3A 2A
+1508 km
+62 km/hr
+09625
+09625
+Ajmer - Daund Special Fare SF Summer Special (via Jaipur)
+SF
+NWR
+Mar 14
+Jul 25
+AII
+17:05
+DD
+18:20
+25h 15m
+22
+ 	 	 	 	T	 	 
+SL 3A 2A
+1508 km
+60 km/hr
+09626
+04815
+Jodhpur - Mau Special Fare Summer Special
+Exp
+NWR
+Apr 21
+Jul 28
+JU
+17:30
+MAU
+23:20
+29h 50m
+25
+S	 	 	 	 	 	 
+SL 3A 2A
+1314 km
+44 km/hr
+04816
+04824
+Mau - Jodhpur Special Fare Summer Special
+Exp
+NWR
+Jun 17
+Jul 29
+MAU
+04:00
+JU
+08:55
+28h 55m
+25
+ 	M	 	 	 	 	 
+SL 3A
+1287 km
+44 km/hr
+04823
+04823
+Jodhpur - Mau Special Fare Summer Special
+Exp
+NWR
+Jun 15
+Jul 27
+JU
+17:30
+MAU
+23:20
+29h 50m
+25
+ 	 	 	 	 	 	S
+SL 3A
+1314 km
+44 km/hr
+04824
+04822
+Haridwar - Bhagat Ki Kothi Summer Special
+Exp
+NWR
+Jun 21
+Jul 26
+HW
+05:00
+BGKT
+23:55
+18h 55m
+20
+ 	 	 	 	 	F	 
+SL 3A
+886 km
+47 km/hr
+04821
+04821
+Bhagat Ki Kothi - Haridwar Summer Special
+Exp
+NWR
+Jun 20
+Jul 25
+BGKT
+08:30
+HW
+03:40
+19h 10m
+20
+ 	 	 	 	T	 	 
+SL 3A
+886 km
+46 km/hr
+04822
+04880
+Munabao - Barmer Special (UnReserved)
+Pass
+NWR
+Dec 31
+MBF
+06:00
+BME
+08:15
+2h 15m
+7
+S	M	T	W	T	F	S
+119 km
+53 km/hr
+04879
+04879
+Barmer - Munabao Special (UnReserved)
+Pass
+NWR
+Dec 31
+BME
+17:15
+MBF
+19:30
+2h 15m
+7
+S	M	T	W	T	F	S
+119 km
+53 km/hr
+04880
+09636
+Rewari - Jaipur Special (UnReserved)
+Exp
+NWR
+Dec 31
+RE
+15:05
+JP
+19:50
+4h 45m
+14
+S	M	T	W	T	F	S
+226 km
+48 km/hr
+09635
+09635
+Jaipur - Rewari Special (UnReserved)
+Exp
+NWR
+Dec 31
+JP
+09:10
+RE
+13:45
+4h 35m
+14
+S	M	T	W	T	F	S
+226 km
+49 km/hr
+09636
+04716
+Sainagar Shirdi - Bikaner Special Fare Special
+Exp
+NWR
+Jul 28
+SNSI
+19:35
+BKN
+05:00
+33h 25m
+22
+S	 	 	 	 	 	 
+SL 3A 2A
+1750 km
+52 km/hr
+04715
+04715
+Bikaner - Sainagar Shirdi Special Fare Special
+Exp
+NWR
+Jul 27
+BKN
+12:10
+SNSI
+19:00
+30h 50m
+22
+ 	 	 	 	 	 	S
+SL 3A 2A
+1750 km
+57 km/hr
+04716
+04712
+Bandra Terminus - Bikaner Special Fare Special (via Jaipur)
+Exp
+NWR
+Aug 01
+BDTS
+18:20
+BKN
+00:05
+29h 45m
+23
+ 	 	 	 	T	 	 
+SL 3A 2A
+1529 km
+51 km/hr
+04711
+04711
+Bikaner - Bandra Terminus Special Fare Special (via Jaipur)
+Exp
+NWR
+Jul 31
+BKN
+13:25
+BDTS
+15:50
+26h 25m
+23
+ 	 	 	W	 	 	 
+SL 3A 2A
+1529 km
+58 km/hr
+04712
+04802
+Jaipur - Sikar DEMU Special
+DEMU
+NWR
+Dec 31
+JP
+19:25
+SIKR
+22:00
+2h 35m
+13
+S	M	T	W	T	F	S
+110 km
+43 km/hr
+04801
+04801
+Sikar - Jaipur DEMU Special
+DEMU
+NWR
+Dec 31
+SIKR
+07:30
+JP
+10:15
+2h 45m
+13
+S	M	T	W	T	F	S
+110 km
+40 km/hr
+04802
+04854
+Loharu - Sikar Demu Special
+DEMU
+NWR
+Aug 02
+Dec 31
+LHU
+04:20
+SIKR
+06:50
+2h 30m
+8
+S	M	T	W	T	F	S
+122 km
+49 km/hr
+04853
+04853
+Sikar - Loharu Demu Special
+DEMU
+NWR
+Aug 01
+Dec 31
+SIKR
+21:00
+LHU
+23:30
+2h 30m
+8
+S	M	T	W	T	F	S
+122 km
+49 km/hr
+04854
+04706
+Jaipur - Shri Ganganagar Special Fare Special
+Exp
+NWR
+Dec 31
+JP
+13:05
+SGNR
+00:45
+11h 40m
+26
+S	M	T	W	T	F	S
+SL
+527 km
+45 km/hr
+04705
+04705
+Shri Ganganagar - Jaipur Special Fare Special
+Exp
+NWR
+Dec 31
+SGNR
+23:45
+JP
+11:50
+12h 5m
+26
+S	M	T	W	T	F	S
+SL
+527 km
+44 km/hr
+04706
+09030
+Danapur - Udhna Special Fare Summer Special
+Exp
+WR
+Jul 01
+Jul 01
+DNR
+14:30
+UDN
+21:00
+30h 30m
+13
+ 	M	 	 	 	 	 
+SL 3A 2A
+1587 km
+52 km/hr
+09029
+09029
+Udhna - Danapur Special Fare Summer Special
+Exp
+WR
+Jun 29
+Jun 29
+UDN
+22:00
+DNR
+09:30
+35h 30m
+19
+ 	 	 	 	 	 	S
+SL 3A 2A
+1795 km
+51 km/hr
+09030
+09638
+Ringas - Rewari Express Special (UnReserved)
+Exp
+NWR
+Jul 02
+Jul 31
+RGS
+15:00
+RE
+18:20
+3h 20m
+11
+S	 	T	 	 	 	S
+149 km
+45 km/hr
+09637
+09637
+Rewari - Ringas Express Special (UnReserved)
+Exp
+NWR
+Jul 02
+Jul 31
+RE
+11:40
+RGS
+14:40
+3h 0m
+11
+S	 	T	 	 	 	S
+149 km
+50 km/hr
+09638
+09058
+Mangaluru Jn. - Udhna Special Fare Summer Special
+Exp
+WR
+Mar 21
+Oct 31
+MAJN
+22:00
+UDN
+21:05
+23h 5m
+33
+ 	M	 	 	T	 	 
+SL 3A 2A
+1105 km
+48 km/hr
+09057
+09057
+Udhna - Mangaluru Jn. Special Fare Summer Special
+Exp
+WR
+Mar 20
+Oct 30
+UDN
+20:00
+MAJN
+19:00
+23h 0m
+33
+S	 	 	W	 	 	 
+SL 3A 2A
+1105 km
+48 km/hr
+09058
+09408
+Delhi Sarai Rohilla - Bhuj Special Fare SF Special
+SF
+WR
+May 01
+Jul 31
+DEE
+15:00
+BHUJ
+11:30
+20h 30m
+17
+ 	 	 	W	 	 	S
+SL 3A 2A 1A
+1155 km
+56 km/hr
+09407
+03576
+Anand Vihar Terminal - Asansol Special Fare SF Special
+SF
+ER
+Apr 20
+Jul 27
+ANVT
+10:15
+ASN
+10:20
+24h 5m
+8
+ 	 	 	 	 	 	S
+SL 3A 2A
+1236 km
+51 km/hr
+03575
+03575
+Asansol - Anand Vihar Terminal Special Fare SF Special
+SF
+ER
+Apr 19
+Jul 26
+ASN
+10:15
+ANVT
+08:05
+21h 50m
+8
+ 	 	 	 	 	F	 
+SL 3A 2A
+1236 km
+57 km/hr
+03576
+03435
+Malda Town - Anand Vihar Terminal Special Fare Special
+Exp
+ER
+Apr 15
+Jul 29
+MLDT
+09:30
+ANVT
+14:10
+28h 40m
+18
+ 	M	 	 	 	 	 
+SL 3A 2A
+1387 km
+48 km/hr
+03436
+03414
+New Delhi - Malda Town Special Fare SF Special
+SF
+ER
+Jul 29
+NDLS
+10:30
+MLDT
+07:55
+21h 25m
+27
+ 	M	 	 	 	F	 
+SL 3A
+1402 km
+65 km/hr
+03413
+03413
+Malda Town - New Delhi Special Fare SF Special
+SF
+ER
+Jul 28
+MLDT
+07:10
+NDLS
+07:30
+24h 20m
+27
+S	 	 	 	T	 	 
+SL 3A
+1402 km
+58 km/hr
+03414
+03484
+New Delhi - Bhagalpur Special Fare SF Special
+SF
+ER
+Apr 14
+Jul 31
+NDLS
+10:30
+BGP
+04:10
+17h 40m
+22
+S	 	 	W	 	 	 
+SL
+1220 km
+69 km/hr
+03483
+03483
+Bhagalpur - New Delhi Special Fare SF Special
+SF
+ER
+Apr 13
+Jul 30
+BGP
+11:00
+NDLS
+07:10
+20h 10m
+22
+ 	 	T	 	 	 	S
+SL
+1220 km
+61 km/hr
+03484
+05564
+Sirhind - Purnea Court Special Fare Summer Special
+Exp
+ECR
+Jun 30
+Jun 30
+SIR
+05:00
+PRNC
+15:30
+34h 30m
+24
+S	 	 	 	 	 	 
+SL 3A
+1499 km
+43 km/hr
+05563
+05563
+Purnea Court - Sirhind Special Fare Summer Special
+Exp
+ECR
+Jun 28
+Jun 28
+PRNC
+20:00
+SIR
+03:00
+31h 0m
+24
+ 	 	 	 	 	F	 
+SL 3A
+1499 km
+48 km/hr
+05564
+05582
+Sirhind - Darbhanga Special Fare Summer Special
+Exp
+ECR
+Jun 29
+Jun 29
+SIR
+06:30
+DBG
+10:00
+27h 30m
+15
+ 	 	 	 	 	 	S
+SL 3A 2A
+1231 km
+45 km/hr
+05581
+05581
+Darbhanga - Sirhind Special Fare Summer Special
+Exp
+ECR
+Jun 28
+Jun 28
+DBG
+05:30
+SIR
+04:30
+23h 0m
+15
+ 	 	 	 	 	F	 
+SL 3A 2A
+1231 km
+54 km/hr
+05582
+04142
+MCTM Udhampur - Subedarganj Special Fare SF Special
+SF
+NCR
+Mar 05
+Jul 30
+MCTM
+15:55
+SFG
+12:50
+20h 55m
+16
+ 	 	T	 	 	 	 
+SL 2A 3E
+1263 km
+60 km/hr
+04141
+04141
+Subedarganj - MCTM Udhampur Special Fare SF Special
+SF
+NCR
+Mar 04
+Jul 29
+SFG
+16:10
+MCTM
+12:40
+20h 30m
+16
+ 	M	 	 	 	 	 
+SL 2A 3E
+1263 km
+62 km/hr
+04142
+04123
+Prayagraj - Hazrat Nizamuddin Special Fare Summer Special
+Exp
+NCR
+Apr 28
+Jul 31
+PRYJ
+14:30
+NZM
+11:10
+20h 40m
+15
+S	 	 	W	 	 	 
+SL
+794 km
+38 km/hr
+04124
+04124
+Hazrat Nizamuddin - Prayagraj Special Fare Summer Special
+Exp
+NCR
+Apr 29
+Aug 01
+NZM
+15:50
+PRYJ
+09:00
+17h 10m
+15
+ 	M	 	 	T	 	 
+SL
+794 km
+46 km/hr
+04123
+05951
+SMVT Bengaluru - New Tinsukia Special Fare Summer Special
+Exp
+NFR
+May 06
+Nov 04
+SMVB
+00:30
+NTSK
+13:15
+60h 45m
+32
+ 	M	 	 	 	 	 
+SL 3A 2A
+3388 km
+56 km/hr
+05952
+05952
+New Tinsukia - SMVT Bengaluru Special Fare Summer Special
+Exp
+NFR
+May 02
+Oct 31
+NTSK
+18:45
+SMVB
+09:00
+62h 15m
+32
+ 	 	 	 	T	 	 
+2S SL 3A 2A
+3388 km
+54 km/hr
+05951
+03418
+Udhna - Malda Town Special Fare Summer Special
+Exp
+ER
+May 14
+Jul 30
+UDN
+12:30
+MLDT
+02:55
+38h 25m
+28
+ 	 	T	 	 	 	 
+SL
+1999 km
+52 km/hr
+03417
+03417
+Malda Town - Udhna Special Fare Summer Special
+Exp
+ER
+May 12
+Jul 28
+MLDT
+12:20
+UDN
+00:45
+36h 25m
+28
+S	 	 	 	 	 	 
+SL
+1999 km
+55 km/hr
+03418
+03110
+Vadodara - Sealdah Special Fare SF Summer Special
+SF
+ER
+Apr 25
+Aug 01
+BRC
+16:45
+SDAH
+01:30
+32h 45m
+22
+ 	 	 	 	T	 	 
+SL 3A 2A
+2212 km
+68 km/hr
+03109
+03109
+Sealdah - Vadodara Special Fare SF Summer Special
+SF
+ER
+Apr 23
+Jul 30
+SDAH
+07:40
+BRC
+20:00
+36h 20m
+22
+ 	 	T	 	 	 	 
+SL 3A 2A
+2212 km
+61 km/hr
+03110
+06506
+Pandharpur - SMVT Bengaluru Special Fare Special
+Exp
+SWR
+Jul 01
+Jul 01
+PVR
+18:30
+SMVB
+11:30
+17h 0m
+23
+ 	M	 	 	 	 	 
+SL 3A 2A
+893 km
+53 km/hr
+06505
+06502
+Pandharpur - SMVT Bengaluru Special Fare Special
+Exp
+SWR
+Jun 27
+Jun 30
+PVR
+18:30
+SMVB
+11:30
+17h 0m
+23
+S	 	 	 	T	 	 
+SL 3A 2A 1A
+893 km
+53 km/hr
+06501
+06036
+Kochuveli - Tambaram Special Fare AC Summer Special (PT)
+Exp
+SR
+May 17
+Jul 21
+KCVL
+15:35
+TBM
+07:35
+16h 0m
+22
+S	 	 	 	 	F	 
+3E
+794 km
+50 km/hr
+06035
+06035
+Tambaram - Kochuveli Special Fare AC Summer Special (PT)
+Exp
+ECoR
+May 16
+Jul 20
+TBM
+21:40
+KCVL
+13:40
+16h 0m
+22
+ 	 	 	 	T	 	S
+3E
+794 km
+50 km/hr
+06036
+06011
+Tambaram - Nagercoil Weekly SF Special Fare Special
+SF
+SR
+Apr 24
+Jul 22
+TBM
+07:45
+NCJ
+20:25
+12h 40m
+11
+ 	M	 	 	 	 	 
+SL 3A 2A
+699 km
+55 km/hr
+06012
+06012
+Nagercoil - Tambaram Weekly SF Special Fare Special
+SF
+SR
+Apr 23
+Jul 21
+NCJ
+16:35
+TBM
+04:10
+11h 35m
+11
+S	 	 	 	 	 	 
+SL 3A 2A
+699 km
+60 km/hr
+06011
+03046
+Raxaul - Howrah Special Fare Summer Special
+Exp
+ER
+Apr 26
+Jun 30
+RXL
+16:55
+HWH
+08:30
+15h 35m
+15
+ 	 	T	 	 	F	 
+SL
+699 km
+45 km/hr
+03045
+03044
+Raxaul - Howrah Special Fare Summer Special
+Exp
+ER
+Apr 14
+Jul 28
+RXL
+16:55
+HWH
+08:30
+15h 35m
+15
+S	 	 	 	 	 	 
+SL 3A 2A
+699 km
+45 km/hr
+03043
+03043
+Howrah - Raxaul Special Fare Summer Special
+Exp
+ER
+Apr 13
+Jun 29
+HWH
+23:00
+RXL
+14:15
+15h 15m
+15
+ 	 	 	 	 	 	S
+SL 3A 2A
+699 km
+46 km/hr
+03044
+03186
+Jaynagar - Kolkata Special Fare Summer Special
+Exp
+ER
+Apr 13
+Jun 29
+JYG
+15:25
+KOAA
+05:15
+13h 50m
+11
+ 	 	 	 	 	 	S
+2S SL CC 3A
+608 km
+44 km/hr
+03185
+03185
+Kolkata - Jaynagar Special Fare Summer Special
+Exp
+ER
+Apr 12
+Jun 28
+KOAA
+23:55
+JYG
+14:15
+14h 20m
+11
+ 	 	 	 	 	F	 
+2S SL CC 3A
+608 km
+42 km/hr
+03186
+03132
+Gorakhpur - Sealdah Special Fare Summer Special
+Exp
+ER
+Apr 23
+Jul 30
+GKP
+11:30
+SDAH
+06:25
+18h 55m
+15
+S	 	T	 	 	 	 
+SL
+795 km
+42 km/hr
+03131
+03131
+Sealdah - Gorakhpur Special Fare Summer Special
+Exp
+ER
+Apr 22
+Jul 29
+SDAH
+18:15
+GKP
+10:10
+15h 55m
+15
+ 	M	 	 	 	 	S
+SL
+795 km
+50 km/hr
+03132
+06501
+SMVT Bengaluru - Pandharpur Special Fare Special
+Exp
+SWR
+Jun 26
+Jun 29
+SMVB
+17:30
+PVR
+11:35
+18h 5m
+23
+ 	 	 	W	 	 	S
+SL 3A 2A 1A
+893 km
+49 km/hr
+06502
+06503
+SMVT Bengaluru - Pandharpur Special Fare Special
+Exp
+SWR
+Jun 28
+Jun 28
+SMVB
+17:30
+PVR
+11:35
+18h 5m
+23
+ 	 	 	 	 	F	 
+SL 3A 2A
+893 km
+49 km/hr
+06520R
+06505
+SMVT Bengaluru - Pandharpur Special Fare Special
+Exp
+SWR
+Jun 30
+Jun 30
+SMVB
+22:00
+PVR
+16:30
+18h 30m
+23
+S	 	 	 	 	 	 
+SL 3A 2A
+893 km
+48 km/hr
+06506
+05570
+Sirhind - Purnea Court Special Fare Summer Special
+Exp
+ECR
+Jun 28
+Jun 28
+SIR
+05:00
+PRNC
+15:30
+34h 30m
+24
+ 	 	 	 	 	F	 
+SL
+1499 km
+43 km/hr
+05569
+05569
+Purnea Court - Sirhind Special Fare Summer Special
+Exp
+ECR
+Jun 26
+Jun 26
+PRNC
+20:00
+SIR
+03:00
+31h 0m
+24
+ 	 	 	W	 	 	 
+SL
+1499 km
+48 km/hr
+05570
+05554
+Gaya - Patliputra MEMU Special
+MEMU
+ECR
+Sep 30
+GAYA
+14:45
+PPTA
+18:25
+3h 40m
+8
+S	M	T	W	T	F	S
+104 km
+28 km/hr
+05553
+05553
+Patliputra - Gaya MEMU Special
+MEMU
+ECR
+Sep 30
+PPTA
+10:30
+GAYA
+14:00
+3h 30m
+8
+S	M	T	W	T	F	S
+104 km
+30 km/hr
+05554
+03466
+Digha - Malda Town Special Fare Summer Special
+Exp
+ER
+Apr 21
+Jul 28
+DGHA
+05:00
+MLDT
+18:00
+13h 0m
+12
+S	 	 	 	 	 	 
+SL 3A
+622 km
+48 km/hr
+03465
+03465
+Malda Town - Digha Special Fare Summer Special
+Exp
+ER
+Apr 20
+Jul 27
+MLDT
+13:25
+DGHA
+04:00
+14h 35m
+12
+ 	 	 	 	 	 	S
+SL 3A
+622 km
+43 km/hr
+03466
+07154
+SMVT Bengaluru - Narasapur Special Fare Special
+Exp
+SCR
+Aug 10
+SMVB
+10:50
+NS
+06:00
+19h 10m
+21
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+861 km
+45 km/hr
+07153
+07153
+Narasapur - SMVT Bengaluru Special Fare Special
+Exp
+SCR
+Aug 09
+NS
+15:50
+SMVB
+09:30
+17h 40m
+21
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+861 km
+49 km/hr
+07154
+05586
+Sirhind - Darbhanga Special Fare Summer Special
+Exp
+ECR
+Jun 26
+Jun 26
+SIR
+06:30
+DBG
+10:00
+27h 30m
+15
+ 	 	 	W	 	 	 
+SL 3A
+1231 km
+45 km/hr
+05585
+05585
+Darbhanga - Sirhind Special Fare Summer Special
+Exp
+ECR
+Jun 25
+Jun 25
+DBG
+05:30
+SIR
+04:30
+23h 0m
+15
+ 	 	T	 	 	 	 
+SL 3A
+1231 km
+54 km/hr
+05586
+07445
+Kakinada Town - Lingampalli Special Fare Special (PT)
+Exp
+SCR
+Sep 30
+CCT
+20:10
+LPI
+09:15
+13h 5m
+14
+ 	M	 	W	 	F	 
+SL 3A 2A 1A 3E
+575 km
+44 km/hr
+07446
+07446
+Lingampalli - Kakinada Town Special Fare Special
+Exp
+SCR
+Oct 01
+LPI
+18:25
+CCT
+07:10
+12h 45m
+14
+ 	 	T	 	T	 	S
+SL 3A 2A 1A 3E
+575 km
+45 km/hr
+07445
+07482
+Secunderabad - Tirupati Special Fare AC SF Special
+ACSF
+SCR
+Sep 30
+SC
+17:50
+TPTY
+07:10
+13h 20m
+14
+ 	M	 	 	 	 	 
+3A
+735 km
+55 km/hr
+07481
+07481
+Tirupati - Secunderabad Special Fare AC SF Special
+ACSF
+SCR
+Sep 29
+TPTY
+19:50
+SC
+08:50
+13h 0m
+14
+S	 	 	 	 	 	 
+3A
+735 km
+57 km/hr
+07482
+07632
+Narasapur - Hyderabad Special Fare Special
+Exp
+SCR
+Sep 29
+NS
+20:00
+HYB
+08:30
+12h 30m
+10
+S	 	 	 	 	 	 
+SL 3A 2A
+461 km
+37 km/hr
+07631
+07610
+Tirupati - Purna Special Fare Special
+Exp
+SCR
+Oct 01
+TPTY
+15:10
+PAU
+14:30
+23h 20m
+23
+ 	 	T	 	 	 	 
+SL 3A 2A
+1094 km
+47 km/hr
+07609
+07609
+Purna - Tirupati Special Fare Special
+Exp
+SCR
+Sep 30
+PAU
+10:25
+TPTY
+10:45
+24h 20m
+23
+ 	M	 	 	 	 	 
+SL 3A 2A
+1094 km
+45 km/hr
+07610
+07606
+Akola - Tirupati SF Special Fare Special (PT)
+SF
+SCR
+Sep 29
+AK
+08:10
+TPTY
+06:25
+22h 15m
+20
+S	 	 	 	 	 	 
+SL 3A 2A
+1221 km
+55 km/hr
+07605
+07605
+Tirupati - Akola Special Fare Special (PT)
+Exp
+SCR
+Sep 27
+TPTY
+12:30
+AK
+12:15
+23h 45m
+20
+ 	 	 	 	 	F	 
+SL 3A 2A
+1221 km
+51 km/hr
+07606
+01084
+Sitapur - Mumbai CSMT Special Fare Summer Special
+Exp
+CR
+Jun 26
+Jul 01
+STP
+15:00
+CSMT
+00:35
+33h 35m
+16
+S	M	 	W	T	 	 
+SL
+1509 km
+45 km/hr
+01083
+01083
+Mumbai CSMT - Sitapur Special Fare Summer Special
+Exp
+CR
+Jun 24
+Jun 29
+CSMT
+22:35
+STP
+08:30
+33h 55m
+16
+ 	M	T	 	 	F	S
+SL
+1509 km
+45 km/hr
+01084
+05578
+Sirhind - Saharsa Summer Special (UnReserved)
+Exp
+ECR
+Jun 25
+Jun 25
+SIR
+02:00
+SHC
+09:45
+31h 45m
+20
+ 	 	T	 	 	 	 
+1405 km
+44 km/hr
+05577
+05584
+Sirhind - Darbhanga Special Fare Summer Special
+Exp
+ECR
+Jun 25
+Jun 25
+SIR
+06:30
+DBG
+10:00
+27h 30m
+15
+ 	 	T	 	 	 	 
+SL 3A 2A
+1231 km
+45 km/hr
+05583
+05583
+Darbhanga - Sirhind Special Fare Summer Special
+Exp
+ECR
+Jun 24
+Jun 24
+DBG
+05:30
+SIR
+04:30
+23h 0m
+15
+ 	M	 	 	 	 	 
+SL 3A 2A
+1231 km
+54 km/hr
+05584
+09524
+Delhi Sarai Rohilla - Okha Special Fare SF Special
+SF
+WR
+Apr 24
+Jan 01
+DEE
+13:20
+OKHA
+13:50
+24h 30m
+25
+ 	 	 	W	 	 	 
+SL 2A 3E
+1359 km
+55 km/hr
+09523
+09034
+Barauni - Udhna Special Fare Special
+Exp
+WR
+Apr 24
+Jan 01
+BJU
+09:25
+UDN
+19:00
+33h 35m
+16
+ 	 	 	W	 	F	 
+SL 3A 2A
+1707 km
+51 km/hr
+09033
+09033
+Udhna - Barauni Special Fare Special
+Exp
+WR
+Apr 22
+Dec 30
+UDN
+20:35
+BJU
+03:00
+30h 25m
+16
+ 	M	 	W	 	 	 
+SL 3A 2A
+1707 km
+56 km/hr
+09034
+09190
+Katihar - Mumbai Central Special Fare Special
+Exp
+WR
+Apr 23
+Dec 31
+KIR
+00:15
+MMCT
+18:40
+42h 25m
+26
+ 	 	T	 	 	 	 
+2S SL 3A 2A
+2293 km
+54 km/hr
+09189
+09189
+Mumbai Central - Katihar Special Fare Special
+Exp
+WR
+Apr 20
+Dec 28
+MMCT
+10:30
+KIR
+07:30
+45h 0m
+27
+ 	 	 	 	 	 	S
+SL 3A 2A
+2293 km
+51 km/hr
+09190
+09185
+Mumbai Central - Kanpur Anwarganj Special Fare SF Special
+SF
+WR
+Apr 21
+Dec 29
+MMCT
+11:05
+CPA
+15:35
+28h 30m
+15
+S	 	 	 	 	 	 
+SL 3A 2A
+1621 km
+57 km/hr
+09186
+09310
+Hazrat Nizamuddin - Indore Special Fare SF Special
+SF
+WR
+Apr 20
+Dec 30
+NZM
+08:20
+INDB
+21:00
+12h 40m
+10
+ 	M	 	 	 	 	S
+SL 3A 2A
+819 km
+65 km/hr
+09309
+09309
+Indore - Hazrat Nizamuddin Special Fare SF Special
+SF
+WR
+Apr 19
+Dec 29
+INDB
+17:00
+NZM
+04:30
+11h 30m
+9
+S	 	 	 	 	F	 
+SL 3A 2A
+819 km
+71 km/hr
+09310
+09184
+Banaras - Mumbai Central Special Fare AC Special
+ACExp
+WR
+Apr 19
+Dec 27
+BSBS
+14:30
+MMCT
+04:20
+37h 50m
+26
+ 	 	 	 	 	F	 
+2S 3A 2A 1A 3E
+1943 km
+51 km/hr
+09183
+09183
+Mumbai Central - Banaras Special Fare AC Special
+ACExp
+WR
+Apr 17
+Dec 25
+MMCT
+22:50
+BSBS
+10:30
+35h 40m
+26
+ 	 	 	W	 	 	 
+2S 3A 2A 1A 3E
+1943 km
+54 km/hr
+09184
+09098
+SMVD Katra - Bandra Terminus AC SF Special Fare Special
+ACSF
+WR
+Apr 23
+Dec 31
+SVDK
+21:40
+BDTS
+10:10
+36h 30m
+16
+ 	 	T	 	 	 	 
+CC 3A
+2038 km
+56 km/hr
+09097
+09097
+Bandra Terminus - SMVD Katra AC SF Special Fare Special
+ACSF
+WR
+Apr 21
+Dec 29
+BDTS
+21:50
+SVDK
+10:00
+36h 10m
+16
+S	 	 	 	 	 	 
+CC 3A
+2038 km
+56 km/hr
+09098
+09323
+Pune - Indore Special Fare Special
+Exp
+WR
+Dec 26
+PUNE
+05:10
+INDB
+23:55
+18h 45m
+12
+ 	 	 	 	T	 	 
+SL 3A 2A
+966 km
+52 km/hr
+09324
+09324
+Indore - Pune Special Fare Special
+Exp
+WR
+Dec 25
+INDB
+11:15
+PUNE
+03:10
+15h 55m
+12
+ 	 	 	W	 	 	 
+SL 3A 2A
+966 km
+61 km/hr
+09323
+09406
+Patna - Sabarmati Special Fare Special
+Exp
+WR
+Apr 18
+Sep 26
+PNBE
+05:00
+SBIB
+13:30
+32h 30m
+18
+ 	 	 	 	T	 	 
+SL 3A
+1699 km
+52 km/hr
+09405
+09405
+Sabarmati - Patna Special Fare Special
+Exp
+WR
+Apr 16
+Sep 24
+SBIB
+18:10
+PNBE
+02:00
+31h 50m
+18
+ 	 	T	 	 	 	 
+SL 3A
+1699 km
+53 km/hr
+09406
+09558
+Delhi Cantt. - Bhavnagar Terminus Special Fare Special
+Exp
+WR
+May 04
+Sep 28
+DEC
+15:25
+BVC
+12:25
+21h 0m
+21
+ 	 	 	 	 	 	S
+SL 3A 2A
+1135 km
+54 km/hr
+09557
+09557
+Bhavnagar Terminus - Delhi Cantt. Special Fare Special
+Exp
+WR
+May 03
+Sep 27
+BVC
+15:15
+DEC
+13:10
+21h 55m
+21
+ 	 	 	 	 	F	 
+SL 3A 2A
+1135 km
+52 km/hr
+09558
+09569
+Rajkot - Barauni Special Fare Special
+Exp
+WR
+Apr 26
+Sep 27
+RJT
+12:50
+BJU
+03:30
+38h 40m
+24
+ 	 	 	 	 	F	 
+SL 3A 2A
+2110 km
+55 km/hr
+09570
+09046
+Patna - Udhna Special Fare SF Special
+SF
+WR
+Apr 20
+Sep 28
+PNBE
+13:05
+UDN
+14:50
+25h 45m
+15
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+1596 km
+62 km/hr
+09045
+09045
+Udhna - Patna Special Fare SF Special
+SF
+WR
+Apr 19
+Sep 27
+UDN
+08:35
+PNBE
+10:30
+25h 55m
+14
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+1596 km
+62 km/hr
+09046
+09026
+Danapur - Valsad Special Fare Special
+Exp
+WR
+Apr 23
+Oct 01
+DNR
+14:30
+BL
+21:30
+31h 0m
+13
+ 	 	T	 	 	 	 
+SL 3A 2A
+1649 km
+53 km/hr
+09025
+09025
+Valsad - Danapur Special Fare Special
+Exp
+WR
+Apr 22
+Sep 30
+BL
+08:40
+DNR
+12:00
+27h 20m
+13
+ 	M	 	 	 	 	 
+SL 3A 2A
+1649 km
+60 km/hr
+09026
+09344
+Patna - Dr. Ambedkar Nagar Special Fare Special
+Exp
+WR
+Apr 19
+Sep 27
+PNBE
+21:30
+DADN
+23:55
+26h 25m
+17
+ 	 	 	 	 	F	 
+SL 3A 2A 3E
+1289 km
+49 km/hr
+09343
+09343
+Dr. Ambedkar Nagar - Patna Special Fare Special
+Exp
+WR
+Apr 18
+Sep 26
+DADN
+18:30
+PNBE
+18:30
+24h 0m
+17
+ 	 	 	 	T	 	 
+SL 3A 2A 3E
+1289 km
+54 km/hr
+09344
+09418
+Danapur - Ahmedabad Special Fare Special
+Exp
+WR
+Apr 16
+Oct 01
+DNR
+23:50
+ADI
+11:10
+35h 20m
+19
+ 	 	T	 	 	 	 
+SL 3A 2A
+1867 km
+53 km/hr
+09417
+09195
+Vadodara - Mau Special Fare SF Special
+SF
+WR
+Apr 20
+Sep 28
+BRC
+19:00
+MAU
+20:45
+25h 45m
+11
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+1563 km
+61 km/hr
+09196
+09196
+Mau - Vadodara Special Fare SF Special
+SF
+WR
+Apr 21
+Sep 29
+MAU
+23:15
+BRC
+00:45
+25h 30m
+10
+S	 	 	 	 	 	 
+SL 3A 2A 1A
+1563 km
+61 km/hr
+09195
+09112
+Gorakhpur - Vadodara Special Fare SF Special
+SF
+WR
+Apr 17
+Oct 02
+GKP
+05:00
+BRC
+08:35
+27h 35m
+16
+ 	 	 	W	 	 	 
+SL 3A 2A 1A
+1518 km
+55 km/hr
+09111
+09111
+Vadodara - Gorakhpur Special Fare SF Special
+SF
+WR
+Apr 15
+Sep 30
+BRC
+19:00
+GKP
+23:30
+28h 30m
+16
+ 	M	 	 	 	 	 
+SL 3A 2A 1A
+1518 km
+53 km/hr
+09112
+09529
+Dhola - Bhavnagar Terminus Special (UnReserved)
+Exp
+WR
+Jul 14
+Sep 30
+DLJ
+11:50
+BVC
+13:00
+1h 10m
+2
+S	M	T	W	T	F	S
+49 km
+42 km/hr
+09530
+09216
+Bhavnagar Terminus - Gandhigram Special (UnReserved)
+Exp
+WR
+Jun 12
+Sep 30
+BVC
+17:00
+GG
+21:35
+4h 35m
+8
+S	M	T	W	T	F	S
+248 km
+54 km/hr
+09215
+09215
+Gandhigram - Bhavnagar Terminus Special (UnReserved)
+Exp
+WR
+Jun 13
+Sep 30
+GG
+06:35
+BVC
+11:25
+4h 50m
+8
+S	M	T	W	T	F	S
+248 km
+51 km/hr
+09216
+09455
+Gandhinagar Capital - Bhuj Special Fare Special
+Exp
+WR
+Mar 06
+Sep 30
+GNC
+17:10
+BHUJ
+23:55
+6h 45m
+11
+S	M	T	W	T	F	S
+SL CC
+370 km
+55 km/hr
+09456
+09456
+Bhuj - Gandhinagar Capital Special Fare Special
+Exp
+WR
+Mar 06
+Sep 30
+BHUJ
+06:50
+GNC
+13:55
+7h 5m
+11
+S	M	T	W	T	F	S
+SL CC
+370 km
+52 km/hr
+09455
+09212
+Botad - Gandhigram Express Special (UnReserved)
+Exp
+WR
+Apr 15
+Sep 30
+BTD
+14:05
+GG
+18:05
+4h 0m
+21
+S	M	T	W	T	F	S
+155 km
+39 km/hr
+09211
+09211
+Gandhigram - Botad Express Special (UnReserved)
+Exp
+WR
+Apr 15
+Sep 30
+GG
+09:15
+BTD
+13:20
+4h 5m
+21
+S	M	T	W	T	F	S
+155 km
+38 km/hr
+09212
+09426
+Haridwar - Sabarmati Special Fare Special
+Exp
+WR
+May 15
+Jul 30
+HW
+21:45
+SBIB
+22:30
+24h 45m
+22
+ 	 	T	 	 	 	S
+SL 3A
+1112 km
+45 km/hr
+09425
+09425
+Sabarmati - Haridwar Special Fare Special
+Exp
+WR
+May 14
+Jul 29
+SBIB
+18:45
+HW
+19:00
+24h 15m
+22
+ 	M	 	 	 	F	 
+SL 3A
+1112 km
+46 km/hr
+09426
+09060
+Brahmapur - Surat Special Fare Special
+Exp
+WR
+May 24
+Aug 02
+BAM
+04:30
+ST
+14:45
+34h 15m
+23
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+1714 km
+50 km/hr
+09059
+09059
+Surat - Brahmapur Special Fare Special
+Exp
+WR
+May 22
+Jul 31
+ST
+14:20
+BAM
+20:15
+29h 55m
+23
+ 	 	 	W	 	 	 
+SL 3A 2A 1A
+1714 km
+57 km/hr
+09060
+09494
+Patna - Ahmedabad Special Fare SF Special
+SF
+WR
+Apr 23
+Jul 30
+PNBE
+01:00
+ADI
+07:10
+30h 10m
+14
+ 	 	T	 	 	 	 
+SL 3A 2A
+1652 km
+55 km/hr
+09493
+09493
+Ahmedabad - Patna Special Fare SF Special
+SF
+WR
+Apr 21
+Jul 28
+ADI
+16:35
+PNBE
+22:45
+30h 10m
+14
+S	 	 	 	 	 	 
+SL 3A 2A
+1652 km
+55 km/hr
+09494
+09415
+Bandra Terminus - Gandhidham Special Fare SF Special
+SF
+WR
+Jan 11
+Jul 25
+BDTS
+19:25
+GIMB
+08:40
+13h 15m
+9
+ 	 	 	 	T	 	 
+SL 3A 2A
+782 km
+59 km/hr
+09416
+09076
+Kathgodam - Mumbai Central Special Fare SF Special
+SF
+WR
+Apr 25
+Dec 26
+KGM
+17:30
+MMCT
+20:55
+27h 25m
+21
+ 	 	 	 	T	 	 
+SL 3A 2A
+1559 km
+57 km/hr
+09075
+09075
+Mumbai Central - Kathgodam Special Fare SF Special
+SF
+WR
+Apr 24
+Dec 25
+MMCT
+11:00
+KGM
+14:30
+27h 30m
+21
+ 	 	 	W	 	 	 
+SL 3A 2A
+1586 km
+58 km/hr
+09076
+05006
+Amritsar - Gorakhpur Special Fare Summer Special
+Exp
+NER
+Apr 25
+Jun 27
+ASR
+12:45
+GKP
+08:50
+20h 5m
+13
+ 	 	 	 	T	 	 
+SL 3A 2A
+1086 km
+54 km/hr
+05005
+05005
+Gorakhpur - Amritsar Special Fare Summer Special
+Exp
+NER
+Apr 24
+Jun 26
+GKP
+14:40
+ASR
+09:30
+18h 50m
+13
+ 	 	 	W	 	 	 
+2S SL 3A 2A
+1086 km
+58 km/hr
+05006
+05673
+Dalkhola - Guwahati Ambubachi Mela Special (UnReserved)
+Exp
+NFR
+Jun 24
+Jun 27
+DLK
+09:45
+GHY
+19:30
+9h 45m
+16
+ 	M	T	 	T	 	 
+565 km
+58 km/hr
+05674
+05674
+Guwahati - Dalkhola Ambubachi Mela Special (UnReserved)
+Exp
+NFR
+Jun 23
+Jun 26
+GHY
+23:55
+DLK
+09:15
+9h 20m
+16
+S	M	 	W	 	 	 
+565 km
+60 km/hr
+05673
+09117
+Surat - Subedarganj Special Fare SF Summer Special
+SF
+WR
+Mar 22
+Sep 27
+ST
+06:00
+SFG
+08:40
+26h 40m
+20
+ 	 	 	 	 	F	 
+SL 3A
+1415 km
+53 km/hr
+09118
+09118
+Subedarganj - Surat Special Fare SF Summer Special
+SF
+WR
+Mar 23
+Sep 28
+SFG
+19:25
+ST
+20:00
+24h 35m
+20
+ 	 	 	 	 	 	S
+SL 3A
+1415 km
+58 km/hr
+09117
+08185
+Hatia - Durg Special Fare SF Special (PT)
+SF
+SER
+Dec 26
+HTE
+20:05
+DURG
+06:45
+10h 40m
+7
+ 	 	T	 	T	 	 
+SL 3A 2A 1A
+618 km
+58 km/hr
+08186
+08186
+Durg - Hatia Special Fare SF Special
+SF
+SER
+Dec 27
+DURG
+19:35
+HTE
+06:45
+11h 10m
+7
+ 	 	 	W	 	F	 
+SL 3A 2A 1A
+618 km
+55 km/hr
+08185
+09526
+Naharlagun - Hapa Special Fare Special
+Exp
+WR
+Apr 20
+Dec 28
+NHLN
+10:00
+HAPA
+00:30
+62h 30m
+46
+ 	 	 	 	 	 	S
+2S SL 3A 2A
+3187 km
+51 km/hr
+09525
+09525
+Hapa - Naharlagun Special Fare Special
+Exp
+WR
+Apr 17
+Dec 25
+HAPA
+00:40
+NHLN
+16:00
+63h 20m
+46
+ 	 	 	W	 	 	 
+SL 3A 2A
+3187 km
+50 km/hr
+09526
+04520
+Ambala Cantt. - Saharsa Special (UnReserved)
+Exp
+NR
+Jun 24
+Jun 24
+UMB
+19:45
+SHC
+04:15
+32h 30m
+21
+ 	M	 	 	 	 	 
+1351 km
+42 km/hr
+04525
+05181
+Howrah - Varanasi City Special Fare Special
+Exp
+NER
+Jun 23
+Jun 23
+HWH
+05:15
+BCY
+21:45
+16h 30m
+13
+S	 	 	 	 	 	 
+SL
+796 km
+48 km/hr
+05182S
+08110
+Patna - Tatanagar Special Fare Exam Special
+Exp
+SER
+Jun 23
+Jun 23
+PNBE
+22:15
+TATA
+07:15
+9h 0m
+8
+S	 	 	 	 	 	 
+SL 3A 2A
+444 km
+49 km/hr
+08109
+09208
+Bhavnagar Terminus - Bandra Terminus Special Fare Special
+Exp
+WR
+Nov 09
+Jul 25
+BVC
+14:50
+BDTS
+06:00
+15h 10m
+11
+ 	 	 	 	T	 	 
+SL 3A 2A
+780 km
+51 km/hr
+09207
+09207
+Bandra Terminus - Bhavnagar Terminus Special Fare Special
+Exp
+WR
+Nov 10
+Jul 26
+BDTS
+09:30
+BVC
+23:45
+14h 15m
+11
+ 	 	 	 	 	F	 
+SL 3A 2A
+780 km
+55 km/hr
+09208
+09056
+Udhna - Bandra Terminus Special Fare SF Special
+SF
+WR
+Jan 16
+Sep 30
+UDN
+16:15
+BDTS
+20:30
+4h 15m
+7
+S	M	T	W	 	 	S
+2S SL CC
+248 km
+58 km/hr
+09055
+09055
+Bandra Terminus - Udhna Special Fare SF Special
+SF
+WR
+Jan 17
+Sep 30
+BDTS
+09:50
+UDN
+14:05
+4h 15m
+7
+S	M	T	W	T	 	 
+2S SL CC
+248 km
+58 km/hr
+09056
+04212
+Chandigarh - Varanasi Special Fare Summer Special
+Exp
+NR
+Jun 23
+Jul 14
+CDG
+09:30
+BSB
+01:20
+15h 50m
+8
+S	 	 	 	 	 	 
+2S 3A 2A 1A
+945 km
+60 km/hr
+04211
+04211
+Varanasi - Chandigarh Special Fare Summer Special
+Exp
+NR
+Jun 22
+Jul 13
+BSB
+14:40
+CDG
+07:20
+16h 40m
+8
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+945 km
+57 km/hr
+04212
+05562
+Amritsar - Darbhanga Special Fare Special
+Exp
+ECR
+Jun 23
+Jun 23
+ASR
+04:25
+DBG
+11:00
+30h 35m
+14
+S	 	 	 	 	 	 
+SL
+1554 km
+51 km/hr
+05561
+08293
+Bilaspur - Amritsar Special Fare Clone Special
+Exp
+SECR
+Jun 25
+Jul 09
+BSP
+13:30
+ASR
+07:15
+41h 45m
+22
+ 	 	T	 	 	 	S
+SL 3A 2A
+2012 km
+48 km/hr
+08294
+05202
+Chhapra - Muzaffarpur Exam Special
+DEMU
+ECR
+Jun 21
+Jun 22
+CPR
+19:30
+MFP
+23:00
+3h 30m
+10
+ 	 	 	 	 	F	S
+113 km
+32 km/hr
+05201
+05201
+Muzaffarpur - Chhapra Exam Special
+DEMU
+ECR
+Jun 22
+Jun 23
+MFP
+02:00
+CPR
+05:00
+3h 0m
+10
+S	 	 	 	 	 	S
+113 km
+38 km/hr
+05202
+03670
+Pt. Deen Dayal Upadhyaya Jn. - Patna Exam Special (via Gaya) (UnReserved)
+Exp
+ECR
+Jun 22
+Jun 24
+DDU
+19:30
+PNBE
+03:00
+7h 30m
+12
+ 	M	 	 	 	 	S
+297 km
+40 km/hr
+03669
+03669
+Patna - Pt. Deen Dayal Upadhyaya Jn. Exam Special (via Gaya) (UnReserved)
+Exp
+ECR
+Jun 21
+Jun 23
+PNBE
+21:00
+DDU
+05:00
+8h 0m
+12
+S	 	 	 	 	F	 
+297 km
+37 km/hr
+03670
+03398
+Gaya - Patna Exam Special
+MEMU
+ECR
+Jun 21
+Jun 23
+GAYA
+20:00
+PNBE
+23:00
+3h 0m
+11
+S	 	 	 	 	F	S
+92 km
+31 km/hr
+03397
+03397
+Patna - Gaya Exam Special
+MEMU
+ECR
+Jun 21
+Jun 23
+PNBE
+01:00
+GAYA
+04:00
+3h 0m
+11
+S	 	 	 	 	F	S
+92 km
+31 km/hr
+03398
+05558
+Patna - Bettiah Exam Special (UnReserved)
+Exp
+ECR
+Jun 22
+Jun 22
+PNBE
+19:30
+BTH
+03:00
+7h 30m
+14
+ 	 	 	 	 	 	S
+210 km
+28 km/hr
+05557
+08640
+Patna - Ranchi Special Fare Exam Special
+Exp
+SER
+Jun 23
+Jun 23
+PNBE
+21:00
+RNC
+05:30
+8h 30m
+6
+S	 	 	 	 	 	 
+SL 3A 2A 1A
+411 km
+48 km/hr
+08639
+08639
+Ranchi - Patna Special Fare Exam Special
+Exp
+SER
+Jun 22
+Jun 22
+RNC
+14:10
+PNBE
+23:00
+8h 50m
+6
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+408 km
+46 km/hr
+08640
+06128
+Tiruvannamalai -Tambaram Pournami Girivalam MEMU Special
+MEMU
+SR
+Jun 22
+Jun 22
+TNM
+08:00
+TBM
+12:30
+4h 30m
+6
+ 	 	 	 	 	 	S
+FC
+201 km
+45 km/hr
+06127
+06127
+Tambaram - Tiruvannamalai Pournami Girivalam MEMU Special
+MEMU
+SR
+Jun 21
+Jun 21
+TBM
+12:00
+TNM
+16:00
+4h 0m
+6
+ 	 	 	 	 	F	 
+FC
+201 km
+50 km/hr
+06128
+08109
+Tatanagar - Patna Special Fare Exam Special
+Exp
+SER
+Jun 22
+Jun 22
+TATA
+16:15
+PNBE
+03:00
+10h 45m
+8
+ 	 	 	 	 	 	S
+SL 3A 2A
+444 km
+41 km/hr
+08110
+01057
+Mumbai CSMT - Varanasi Special Fare SF Special
+SF
+CR
+Jun 21
+Jun 21
+CSMT
+05:50
+BSB
+12:30
+30h 40m
+16
+ 	 	 	 	 	F	 
+SL 3A
+1706 km
+56 km/hr
+01058
+03206
+Pt. Deen Dayal Upadhyaya Jn. - Patna Exam Special (via Buxar)
+MEMU
+ECR
+Jun 21
+Jun 23
+DDU
+19:30
+PNBE
+23:30
+4h 0m
+10
+S	 	 	 	 	F	S
+211 km
+53 km/hr
+03205
+03205
+Patna - Pt. Deen Dayal Upadhyaya Jn. Exam Special (via Buxar)
+MEMU
+ECR
+Jun 21
+Jun 23
+PNBE
+01:00
+DDU
+05:00
+4h 0m
+10
+S	 	 	 	 	F	S
+211 km
+53 km/hr
+03206
+09642
+Beas - Ajmer Special Fare Satsang Special
+Exp
+NWR
+Jun 30
+Jun 30
+BEAS
+14:15
+AII
+09:45
+19h 30m
+13
+S	 	 	 	 	 	 
+SL 3A
+807 km
+41 km/hr
+09641
+05640
+Kolkata - Silchar Special Fare Special
+Exp
+NFR
+Dec 27
+KOAA
+15:00
+SCL
+23:50
+32h 50m
+27
+ 	 	 	 	 	F	 
+SL 3A 2A
+1383 km
+42 km/hr
+05639
+05639
+Silchar - Kolkata Special Fare Special
+Exp
+NFR
+Dec 26
+SCL
+05:00
+KOAA
+13:00
+32h 0m
+27
+ 	 	 	 	T	 	 
+SL 3A 2A
+1383 km
+43 km/hr
+05640
+05931
+Kolkata - Dibrugarh Special Fare Special
+Exp
+NFR
+May 05
+Dec 29
+KOAA
+23:50
+DBRG
+03:30
+27h 40m
+19
+S	 	 	 	 	 	 
+SL 3A 2A
+1356 km
+49 km/hr
+05932
+05932
+Dibrugarh - Kolkata Special Fare Special
+Exp
+NFR
+May 04
+Dec 28
+DBRG
+17:20
+KOAA
+23:00
+29h 40m
+19
+ 	 	 	 	 	 	S
+SL 3A 2A
+1356 km
+46 km/hr
+05931
+05635
+Shri Ganganagar - Guwahati Special Fare Special
+Exp
+NFR
+May 05
+Sep 29
+SGNR
+13:20
+GHY
+00:25
+59h 5m
+45
+S	 	 	 	 	 	 
+SL 3A 2A
+2665 km
+45 km/hr
+05636
+05636
+Guwahati - Shri Ganganagar Special Fare Special
+Exp
+NFR
+May 01
+Sep 25
+GHY
+18:15
+SGNR
+03:30
+57h 15m
+45
+ 	 	 	W	 	 	 
+2S SL 3A 2A
+2665 km
+47 km/hr
+05635
+05267
+Bhagalpur - Muzaffarpur Exam Special (UnReserved)
+Exp
+ECR
+Jun 22
+Jun 24
+BGP
+19:30
+MFP
+00:45
+5h 15m
+6
+ 	M	 	 	 	 	S
+216 km
+41 km/hr
+05268
+05268
+Muzaffarpur - Bhagalpur Exam Special (UnReserved)
+Exp
+ECR
+Jun 21
+Jun 23
+MFP
+22:30
+BGP
+04:30
+6h 0m
+6
+S	 	 	 	 	F	 
+216 km
+36 km/hr
+05267
+04065
+Patna - New Delhi Special (UnReserved)
+Exp
+NR
+Jun 20
+Jun 20
+PNBE
+21:30
+NDLS
+15:00
+17h 30m
+6
+ 	 	 	 	T	 	 
+999 km
+57 km/hr
+04064U
+03201
+Katihar - Patna Exam Special (UnReserved)
+Exp
+ECR
+Jun 21
+Jun 23
+KIR
+22:15
+PNBE
+05:30
+7h 15m
+22
+S	 	 	 	 	F	S
+289 km
+40 km/hr
+03202
+03202
+Patna - Katihar Exam Special (UnReserved)
+Exp
+ECR
+Jun 21
+Jun 23
+PNBE
+15:00
+KIR
+21:45
+6h 45m
+22
+S	 	 	 	 	F	S
+289 km
+43 km/hr
+03201
+05198
+Panvel - Chhapra Summer Special
+Exp
+NER
+Jun 23
+Jun 30
+PNVL
+21:40
+CPR
+09:45
+36h 5m
+14
+S	 	 	 	 	 	 
+SL 3A
+1754 km
+49 km/hr
+05197
+05197
+Chhapra - Panvel Summer Special
+Exp
+NER
+Jun 22
+Jun 29
+CPR
+13:15
+PNVL
+20:30
+31h 15m
+14
+ 	 	 	 	 	 	S
+SL 3A
+1754 km
+56 km/hr
+05198
+09701
+Churu - Dahar ka Balaji(Jaipur) Summer Special (UnReserved)
+Exp
+NCR
+Jun 17
+Aug 07
+CUR
+04:00
+DKBJ
+09:00
+5h 0m
+13
+ 	M	T	W	T	F	S
+197 km
+39 km/hr
+09702
+09702
+Dahar ka Balaji(Jaipur) - Churu Summer Special (UnReserved)
+Exp
+NWR
+Jun 17
+Aug 07
+DKBJ
+18:40
+CUR
+23:30
+4h 50m
+13
+S	M	T	W	T	F	 
+197 km
+41 km/hr
+09701
+09054
+Barauni - Nandurbar Special Fare Special
+Exp
+WR
+Jun 20
+Jun 20
+BJU
+18:00
+NDB
+03:30
+33h 30m
+15
+ 	 	 	 	T	 	 
+SL 3A
+1544 km
+46 km/hr
+09053
+09053
+Bandra Terminus - Barauni Special Fare Special
+Exp
+WR
+Jun 18
+Jun 18
+BDTS
+21:45
+BJU
+15:00
+41h 15m
+22
+ 	 	T	 	 	 	 
+SL 3A FC 2A
+1946 km
+47 km/hr
+09054
+04411
+Indore - Hazrat Nizamuddin Special Fare SF Special
+SF
+NR
+Jun 15
+Jul 01
+INDB
+15:00
+NZM
+04:25
+13h 25m
+4
+ 	M	 	W	 	 	S
+SL 3A 2A
+801 km
+60 km/hr
+04412
+06052
+Ramanathapuram - Tambaram Special Fare Express Special (PT)
+Exp
+SR
+Jun 22
+Jul 29
+RMD
+15:00
+TBM
+03:15
+12h 15m
+22
+ 	M	 	 	 	 	S
+SL 3A 2A
+565 km
+46 km/hr
+06051
+02198
+Jabalpur - Coimbatore Special Fare SF Special
+SF
+WCR
+Dec 27
+JBP
+23:50
+CBE
+17:10
+41h 20m
+31
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+2211 km
+53 km/hr
+02197
+05576
+Sirhind - Saharsa Summer Special (UnReserved)
+Exp
+ECR
+Jun 19
+Jun 26
+SIR
+02:00
+SHC
+09:45
+31h 45m
+20
+ 	 	 	W	 	 	 
+1405 km
+44 km/hr
+05575
+05575
+Saharsa - Sirhind Summer Special (UnReserved)
+Exp
+ECR
+Jun 17
+Jun 24
+SHC
+19:30
+SIR
+00:05
+28h 35m
+20
+ 	M	 	 	 	 	 
+1405 km
+49 km/hr
+05576
+05560
+Amritsar - Darbhanga Special Fare Summer Special
+Exp
+ECR
+Jun 19
+Jun 26
+ASR
+04:25
+DBG
+11:00
+30h 35m
+14
+ 	 	 	W	 	 	 
+SL
+1554 km
+51 km/hr
+05559
+05559
+Darbhanga - Amritsar Special Fare Summer Special
+Exp
+ECR
+Jun 17
+Jun 24
+DBG
+20:20
+ASR
+01:25
+29h 5m
+14
+ 	M	 	 	 	 	 
+SL
+1554 km
+53 km/hr
+05560
+08505
+Santragachi - Visakhapatnam Special Fare SF Summer Special
+SF
+ECoR
+Jun 18
+Jun 30
+SRC
+17:00
+VSKP
+08:30
+15h 30m
+11
+S	 	T	 	 	 	 
+SL 3A 2A
+874 km
+56 km/hr
+08506
+08506
+Visakhapatnam - Santragachi Special Fare SF Summer Special
+SF
+ECoR
+Jun 17
+Jun 29
+VSKP
+23:45
+SRC
+15:10
+15h 25m
+11
+ 	M	 	 	 	 	S
+SL 3A 2A
+874 km
+57 km/hr
+08505
+05695
+Alipur Duar - Guwahati Special (UnReserved)
+Exp
+NFR
+Jun 18
+Jun 18
+APDJ
+20:00
+GHY
+06:30
+10h 30m
+9
+ 	 	T	 	 	 	 
+387 km
+37 km/hr
+05696
+08501
+Santragachi - Visakhapatnam Special Fare SF Summer Special
+SF
+ECoR
+Jun 20
+Jun 29
+SRC
+17:00
+VSKP
+08:30
+15h 30m
+11
+ 	 	 	 	T	 	S
+SL 3A
+874 km
+56 km/hr
+08502
+08502
+Visakhapatnam - Santragachi Special Fare SF Summer Special
+SF
+ECoR
+Jun 19
+Jun 28
+VSKP
+23:45
+SRC
+15:10
+15h 25m
+11
+ 	 	 	W	 	F	 
+SL 3A
+874 km
+57 km/hr
+08501
+05697
+New Jalpaiguri - Guwahati Special Fare Special
+Exp
+NFR
+Jun 19
+Jan 01
+NJP
+11:15
+GHY
+19:30
+8h 15m
+13
+ 	 	 	W	 	F	 
+2S SL 3A 2A
+449 km
+54 km/hr
+05698
+05698
+Guwahati - New Jalpaiguri Special Fare Special
+Exp
+NFR
+Jun 18
+Dec 31
+GHY
+23:55
+NJP
+08:15
+8h 20m
+13
+ 	 	T	 	T	 	 
+2S SL 3A 2A
+449 km
+54 km/hr
+05697
+07046
+Secunderabad - Dibrugarh Special Fare Special
+Exp
+SCR
+Jun 24
+SC
+11:00
+DBRG
+20:50
+57h 50m
+43
+ 	M	 	 	 	 	 
+SL 3A 2A
+3089 km
+53 km/hr
+07047
+06051
+Tambaram - Ramanathapuram Special Fare Express Special (PT)
+Exp
+SR
+Jun 21
+Jul 28
+TBM
+19:00
+RMD
+07:50
+12h 50m
+22
+S	 	 	 	 	F	 
+SL 3A 2A
+565 km
+44 km/hr
+06052
+07136
+Kakinada Town - Kacheguda Special Fare Special
+Exp
+SCR
+Jun 22
+Jun 23
+CCT
+21:00
+KCG
+09:20
+12h 20m
+14
+S	 	 	 	 	 	S
+SL 3A 2A 1A
+559 km
+45 km/hr
+07135
+07135
+Secunderabad - Kakinada Town Special Fare Special
+Exp
+SCR
+Jun 21
+Jun 22
+SC
+19:00
+CCT
+07:30
+12h 30m
+12
+ 	 	 	 	 	F	S
+SL 3A 2A 1A
+552 km
+44 km/hr
+07136
+05326
+Mumbai LTT - Gorakhpur Special Fare Special
+Exp
+NER
+Jun 19
+Jun 30
+LTT
+10:25
+GKP
+18:00
+31h 35m
+19
+S	 	 	W	 	F	 
+SL 3A 2A
+1676 km
+53 km/hr
+05325
+05325
+Gorakhpur - Mumbai LTT Special Fare Special
+Exp
+NER
+Jun 17
+Jun 28
+GKP
+21:15
+LTT
+07:25
+34h 10m
+18
+ 	M	 	W	 	F	 
+SL 3A 2A
+1676 km
+49 km/hr
+05326
+07340
+KSR Bengaluru - SSS Hubballi Special Fare SF Special
+SF
+SWR
+Nov 30
+Jan 01
+SBC
+23:55
+UBL
+07:30
+7h 35m
+7
+S	M	T	W	T	F	S
+SL 3A 2A
+470 km
+62 km/hr
+07339
+07339
+SSS Hubballi - KSR Bengaluru Special Fare SF Special
+SF
+SWR
+Nov 30
+Dec 31
+UBL
+23:15
+SBC
+06:50
+7h 35m
+7
+S	M	T	W	T	F	S
+SL 3A 2A
+470 km
+62 km/hr
+07340
+06545
+Yesvantpur - Vijayapura Special Fare Special
+Exp
+SWR
+Jan 05
+Dec 31
+YPR
+21:30
+BJP
+11:25
+13h 55m
+21
+S	M	T	W	T	F	S
+SL 3A
+742 km
+53 km/hr
+06546
+08312
+Erode - Sambalpur Special Fare Special
+Exp
+ECoR
+Jun 28
+ED
+13:45
+SBP
+21:15
+31h 30m
+30
+ 	 	 	 	 	F	 
+SL 3A 2A
+1691 km
+54 km/hr
+08311
+04664
+MCTM Udhampur - Gorakhpur Special Fare Special
+Exp
+NR
+Jun 19
+Jun 19
+MCTM
+03:15
+GKP
+05:20
+26h 5m
+10
+ 	 	 	W	 	 	 
+SL 3A
+1268 km
+49 km/hr
+04662
+MCTM Udhampur - Gorakhpur Special Fare Special
+Exp
+NR
+Jun 18
+Jun 18
+MCTM
+03:15
+GKP
+04:30
+25h 15m
+10
+ 	 	T	 	 	 	 
+SL 3A
+1268 km
+50 km/hr
+06546
+Vijayapura - Yesvantpur Special Fare Special
+Exp
+SWR
+Jan 06
+Jan 01
+BJP
+14:00
+YPR
+05:05
+15h 5m
+21
+S	M	T	W	T	F	S
+SL 3A
+742 km
+49 km/hr
+06545
+07356
+Rameswaram - SSS Hubballi Special Fare Special (PT)
+Exp
+SWR
+Aug 07
+Dec 29
+RMD
+21:55
+UBL
+19:25
+21h 30m
+18
+S	 	 	 	 	 	 
+SL 3A 2A 3E
+1057 km
+49 km/hr
+07355
+07355
+SSS Hubballi - Rameswaram Special Fare Special
+Exp
+SWR
+Aug 06
+Dec 28
+UBL
+06:30
+RMD
+04:23
+21h 53m
+18
+ 	 	 	 	 	 	S
+SL 3A 2A 3E
+1057 km
+48 km/hr
+07356
+04412
+Hazrat Nizamuddin - Indore Special Fare SF Special
+SF
+NR
+Jun 14
+Jun 30
+NZM
+23:15
+INDB
+12:30
+13h 15m
+4
+S	 	T	 	 	F	 
+SL 3A 2A
+844 km
+64 km/hr
+04411
+04816
+Mau - Jodhpur Special Fare Summer Special
+Exp
+NWR
+Apr 23
+Oct 01
+MAU
+04:00
+JU
+08:55
+28h 55m
+25
+ 	 	T	 	 	 	 
+SL 3A 2A
+1316 km
+46 km/hr
+04815
+03243
+Patna - Mangaluru Central Special Fare Summer Special
+Exp
+ECR
+Jun 15
+Jun 29
+PNBE
+22:30
+MAQ
+07:00
+56h 30m
+34
+ 	 	 	 	 	 	S
+SL 3A 2A 1A 3E
+3230 km
+57 km/hr
+03244
+03244
+Mangaluru Central - Patna Special Fare Summer Special
+Exp
+ECR
+Jun 18
+Jul 02
+MAQ
+20:00
+PNBE
+05:30
+57h 30m
+34
+ 	 	T	 	 	 	 
+SL 3A 2A 1A 3E
+3230 km
+56 km/hr
+03243
+06048
+Mangaluru Jn. - Tambaram Special Fare Special
+ACExp
+SR
+Jun 08
+Jul 01
+MAJN
+12:00
+TBM
+04:45
+16h 45m
+19
+ 	M	 	 	 	 	S
+3E
+921 km
+55 km/hr
+06047
+06047
+Tambaram - Mangaluru Jn. Special Fare Special
+ACExp
+SR
+Jun 07
+Jun 30
+TBM
+13:55
+MAJN
+06:55
+17h 0m
+19
+S	 	 	 	 	F	 
+3E
+921 km
+54 km/hr
+06048
+09817
+Kota - Danapur Special Fare Summer Special
+Exp
+WCR
+Apr 27
+Dec 28
+KOTA
+21:25
+DNR
+18:30
+21h 5m
+16
+ 	 	 	 	 	 	S
+SL 3A 2A 3E
+1176 km
+56 km/hr
+09818
+09652
+Patna - Udaipur City Special Fare Summer Special
+Exp
+NWR
+Apr 25
+Sep 26
+PNBE
+06:00
+UDZ
+12:20
+30h 20m
+23
+ 	 	 	 	T	 	 
+SL 3A 2A 3E
+1482 km
+49 km/hr
+09651
+09651
+Udaipur City - Patna Special Fare Summer Special
+Exp
+NWR
+Apr 23
+Sep 24
+UDZ
+23:00
+PNBE
+02:00
+27h 0m
+23
+ 	 	T	 	 	 	 
+SL 3A 2A 3E
+1482 km
+55 km/hr
+09652
+09658
+Daund - Ajmer Special Fare Summer Special (via Chittaurgarh)
+Exp
+NWR
+Apr 29
+Sep 30
+DD
+23:10
+AII
+20:35
+21h 25m
+19
+ 	M	 	 	 	 	 
+SL 3A 2A
+1239 km
+58 km/hr
+09657
+09657
+Ajmer - Daund Special Fare Summer Special (via Chittaurgarh)
+Exp
+NWR
+Apr 28
+Sep 29
+AII
+19:55
+DD
+18:20
+22h 25m
+19
+S	 	 	 	 	 	 
+SL 3A 2A
+1239 km
+55 km/hr
+09658
+09628
+Solapur - Ajmer SF Special Fare Special
+SF
+NWR
+Sep 26
+SUR
+12:50
+AII
+17:05
+28h 15m
+14
+ 	 	 	 	T	 	 
+SL 3A 2A
+1690 km
+60 km/hr
+09627
+09627
+Ajmer - Solapur SF Special Fare Special
+SF
+NWR
+Sep 25
+AII
+09:00
+SUR
+11:30
+26h 30m
+16
+ 	 	 	W	 	 	 
+SL 3A 2A
+1693 km
+64 km/hr
+09628
+09724
+Bandra Terminus - Jaipur Special Fare Special
+Exp
+NWR
+Sep 26
+BDTS
+09:30
+JP
+06:55
+21h 25m
+14
+ 	 	 	 	T	 	 
+SL 3A 2A 1A
+1152 km
+54 km/hr
+09723
+09723
+Jaipur - Bandra Terminus Special Fare Special
+Exp
+NWR
+Sep 25
+JP
+08:10
+BDTS
+04:55
+20h 45m
+14
+ 	 	 	W	 	 	 
+SL 3A 2A 1A
+1152 km
+56 km/hr
+09724
+09654
+Bandra Terminus - Ajmer Special Fare SF Special (via Chittaurgarh)
+SF
+NWR
+Apr 28
+Sep 29
+BDTS
+14:30
+AII
+07:50
+17h 20m
+18
+S	 	 	 	 	 	 
+SL 3A 2A
+1017 km
+59 km/hr
+09653
+09653
+Ajmer - Bandra Terminus Special Fare SF Special (via Chittaurgarh)
+SF
+NWR
+Apr 27
+Sep 28
+AII
+17:50
+BDTS
+12:15
+18h 25m
+18
+ 	 	 	 	 	 	S
+SL 3A 2A
+1017 km
+55 km/hr
+09654
+05402
+Lal Kuan - Bareilly City DEMU Special
+DEMU
+NER
+Jun 03
+Jun 30
+LKU
+15:50
+BC
+18:10
+2h 20m
+9
+S	M	T	W	T	F	S
+82 km
+35 km/hr
+05401
+05401
+Bareilly City - LalKuan DEMU Special
+DEMU
+NER
+Jun 03
+Jun 30
+BC
+08:25
+LKU
+10:45
+2h 20m
+9
+S	M	T	W	T	F	S
+82 km
+35 km/hr
+05402
+06222
+Muzaffarpur - Mysuru Special Fare Summer Special
+Exp
+SWR
+Apr 18
+Jun 27
+MFP
+13:00
+MYS
+16:40
+51h 40m
+35
+ 	 	 	 	T	 	 
+SL 3A 2A
+2769 km
+54 km/hr
+06221
+06221
+Mysuru - Muzaffarpur Special Fare Summer Special
+Exp
+SWR
+Apr 15
+Jun 24
+MYS
+10:30
+MFP
+13:30
+51h 0m
+35
+ 	M	 	 	 	 	 
+SL 3A 2A
+2769 km
+54 km/hr
+06222
+04682
+Jammu Tawi - Kolkata Special Fare Summer Special
+Exp
+NR
+Apr 23
+Jun 25
+JAT
+23:20
+KOAA
+13:00
+37h 40m
+18
+ 	 	T	 	 	 	 
+SL 3A
+1977 km
+52 km/hr
+04681
+04681
+Kolkata - Jammu Tawi Special Fare Summer Special
+Exp
+NR
+Apr 26
+Jun 28
+KOAA
+23:45
+JAT
+12:30
+36h 45m
+18
+ 	 	 	 	T	 	 
+SL 3A
+1977 km
+54 km/hr
+04682
+01066
+Agartala - Mumbai CSMT Special Fare Summer Special
+Exp
+CR
+Apr 21
+Jun 30
+AGTL
+15:10
+CSMT
+03:50
+60h 40m
+32
+S	 	 	 	 	 	 
+SL 3A
+3146 km
+52 km/hr
+01065
+06022
+Chennai Egmore - Nagercoil Special Fare SF Summer Special
+SF
+SR
+Jun 10
+Jun 24
+MS
+15:00
+NCJ
+03:15
+12h 15m
+14
+ 	M	 	 	 	 	 
+SL 3A 2A
+724 km
+59 km/hr
+06021
+06021
+Nagercoil – Chennai Egmore Special Fare SF Summer Special
+SF
+SR
+Jun 09
+Jun 23
+NCJ
+23:15
+MS
+11:15
+12h 0m
+14
+S	 	 	 	 	 	 
+SL 3A 2A
+724 km
+60 km/hr
+06022
+06020
+Chennai Egmore - Nagercoil Special Fare SF Summer Special
+SF
+SR
+Jun 03
+Jul 01
+MS
+15:00
+NCJ
+03:15
+12h 15m
+14
+ 	M	 	 	 	 	 
+SL 3A 3E
+724 km
+59 km/hr
+06019
+02197
+Coimbatore - Jabalpur Special Fare SF Special
+SF
+WCR
+Dec 30
+CBE
+17:05
+JBP
+08:45
+39h 40m
+31
+ 	M	 	 	 	 	 
+SL 3A 2A 1A
+2211 km
+56 km/hr
+02198
+06019
+Nagercoil - Chennai Egmore Special Fare SF Summer Special
+SF
+SR
+Jun 02
+Jun 30
+NCJ
+23:15
+MS
+11:15
+12h 0m
+14
+S	 	 	 	 	 	 
+SL 3A 3E
+724 km
+60 km/hr
+06020
+02186
+Mumbai CSMT - Rewa Special Fare SF Summer Special
+SF
+WCR
+Apr 22
+Dec 30
+CSMT
+13:30
+REWA
+11:50
+22h 20m
+14
+ 	M	 	 	 	 	 
+SL 3A 2A 1A
+1231 km
+55 km/hr
+02185
+02185
+Rewa - Mumbai CSMT Special Fare SF Summer Special
+SF
+WCR
+Apr 21
+Dec 29
+REWA
+16:00
+CSMT
+12:20
+20h 20m
+14
+S	 	 	 	 	 	 
+SL 3A 2A 1A
+1231 km
+61 km/hr
+02186
+09818
+Danapur - Kota Special Fare Summer Special
+Exp
+WCR
+Apr 28
+Dec 29
+DNR
+21:30
+KOTA
+22:25
+24h 55m
+16
+S	 	 	 	 	 	 
+SL 3A 2A 3E
+1176 km
+47 km/hr
+09817
+02121
+Madurai - Jabalpur Special Fare SF Summer Special (PT)
+SF
+WCR
+Apr 20
+Dec 28
+MDU
+23:35
+JBP
+07:40
+32h 5m
+20
+ 	 	 	 	 	 	S
+SL 2A 3E
+1865 km
+58 km/hr
+02122
+02122
+Jabalpur - Madurai Special Fare SF Summer Special
+SF
+WCR
+Apr 18
+Dec 26
+JBP
+16:25
+MDU
+00:15
+31h 50m
+20
+ 	 	 	 	T	 	 
+SL 2A 3E
+1865 km
+59 km/hr
+02121
+01664
+Saharsa - Rani Kamalapati Special Fare Summer Special
+Exp
+WCR
+Apr 23
+Dec 31
+SHC
+18:30
+RKMP
+21:10
+26h 40m
+21
+ 	 	T	 	 	 	 
+SL 3A 2A 3E
+1255 km
+47 km/hr
+01663
+01663
+Rani Kamalapati - Saharsa Special Fare Summer Special
+Exp
+WCR
+Apr 22
+Dec 30
+RKMP
+16:30
+SHC
+15:15
+22h 45m
+21
+ 	M	 	 	 	 	 
+SL 3A 2A 3E
+1255 km
+55 km/hr
+01664
+02131
+Pune - Jabalpur Special Fare SF Special
+SF
+WCR
+Apr 07
+Dec 30
+PUNE
+11:30
+JBP
+06:00
+18h 30m
+11
+ 	M	 	 	 	 	 
+SL 3A 2A
+1044 km
+56 km/hr
+02132
+02132
+Jabalpur - Pune Special Fare SF Special
+SF
+WCR
+Apr 06
+Dec 29
+JBP
+13:50
+PUNE
+06:25
+16h 35m
+11
+S	 	 	 	 	 	 
+SL 3A 2A
+1044 km
+63 km/hr
+02131
+02133
+Bandra Terminus - Jabalpur Special Fare SF Special
+SF
+WCR
+Dec 28
+BDTS
+17:15
+JBP
+15:10
+21h 55m
+12
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+1259 km
+57 km/hr
+02134
+02134
+Jabalpur - Bandra Terminus Special Fare SF Special
+SF
+WCR
+Dec 27
+JBP
+17:00
+BDTS
+14:10
+21h 10m
+12
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+1259 km
+59 km/hr
+02133
+01666
+Agartala - Rani Kamlapati (Habibganj) Special Fare Special
+Exp
+WCR
+Aug 07
+Dec 29
+AGTL
+17:20
+RKMP
+16:35
+47h 15m
+37
+S	 	 	 	 	 	 
+SL 3A 2A
+2482 km
+53 km/hr
+01665
+01665
+Rani Kamlapati (Habibganj) - Agartala Special Fare Special
+Exp
+WCR
+Aug 04
+Dec 26
+RKMP
+15:40
+AGTL
+18:55
+51h 15m
+37
+ 	 	 	 	T	 	 
+SL 3A 2A
+2482 km
+48 km/hr
+01666
+05566
+Sirhind - Saharsa Summer Special (UnReserved)
+Exp
+ECR
+Apr 20
+Jun 29
+SIR
+02:00
+SHC
+09:45
+31h 45m
+20
+ 	 	 	 	 	 	S
+1405 km
+44 km/hr
+05565
+06044
+Kochuveli - MGR Chennai Central Special Fare Garib Rath Special
+GR
+SR
+Apr 11
+Jul 04
+KCVL
+18:25
+MAS
+10:40
+16h 15m
+15
+ 	 	 	 	T	 	 
+3A
+911 km
+56 km/hr
+06043
+06043
+MGR Chennai Central - Kochuveli Special Fare Garib Rath Special
+GR
+SR
+Apr 10
+Jul 03
+MAS
+15:45
+KCVL
+08:45
+17h 0m
+15
+ 	 	 	W	 	 	 
+3A
+911 km
+54 km/hr
+06044
+07623
+Hazur Sahib Nanded - Hadapsar ( Pune ) Special Fare Summer Special (Via. Manmad)
+Exp
+SCR
+May 22
+Jun 26
+NED
+21:00
+HDP
+11:20
+38h 20m
+13
+ 	 	 	W	 	 	 
+SL 3A
+651 km
+17 km/hr
+07624
+07624
+Hadapsar (Pune) - Hazur Sahib Nanded Special Fare Summer Special (Via. Manmad)
+Exp
+SCR
+May 23
+Jun 27
+HDP
+15:15
+NED
+04:30
+37h 15m
+13
+ 	 	 	 	T	 	 
+SL 3A
+651 km
+17 km/hr
+07623
+06282
+Ajmer - Mysuru Special Fare Summer Special
+Exp
+SWR
+Apr 16
+Jun 18
+AII
+19:50
+MYS
+16:40
+44h 50m
+26
+ 	 	T	 	 	 	 
+SL 3A 2A
+2327 km
+52 km/hr
+06281
+06588
+Bhagat ki Kothi - SMVT Bengaluru Special Fare AC Summer Special
+ACExp
+SWR
+May 05
+Jun 30
+BGKT
+05:45
+SMVB
+23:45
+42h 0m
+36
+S	 	 	 	 	 	 
+3A 2A 1A
+2120 km
+50 km/hr
+06587
+02549
+Darjeeling - Ghoom - Darjeeling Joyride Summer Special (Diesel)
+Toy
+NFR
+May 18
+Jun 30
+DJ
+13:25
+DJRZ
+15:05
+1h 40m
+1
+S	M	T	W	T	F	S
+FC
+12 km
+7 km/hr
+02550
+02548
+Darjeeling - Ghoom - Darjeeling Joyride Summer Special (Diesel)
+Toy
+NFR
+May 18
+Jun 30
+DJ
+11:25
+DJRZ
+13:00
+1h 35m
+1
+S	M	T	W	T	F	S
+FC
+12 km
+8 km/hr
+08322
+SMVT Bengaluru - Sambalpur Special Fare Summer Special
+Exp
+ECoR
+May 25
+Jun 29
+SMVB
+01:15
+SBP
+06:30
+29h 15m
+21
+ 	 	 	 	 	 	S
+SL 3A 2A
+1565 km
+54 km/hr
+08321
+08321
+Sambalpur - SMVT Bengaluru Special Fare Summer Special
+Exp
+ECoR
+May 23
+Jun 27
+SBP
+18:45
+SMVB
+23:30
+28h 45m
+21
+ 	 	 	 	T	 	 
+SL 3A 2A
+1565 km
+54 km/hr
+08322
+02812
+Yesvantpur - Bhubaneswar Special Fare AC Summer Special
+ACExp
+ECoR
+Apr 15
+Jul 01
+YPR
+05:00
+BBS
+12:15
+31h 15m
+19
+ 	M	 	 	 	 	 
+3A
+1476 km
+47 km/hr
+02811
+02811
+Bhubaneswar - Yesvantpur Special Fare Summer AC Special
+ACExp
+ECoR
+Apr 13
+Jun 29
+BBS
+19:15
+YPR
+00:15
+29h 0m
+19
+ 	 	 	 	 	 	S
+3A
+1476 km
+51 km/hr
+02812
+06587
+SMVT Bengaluru - Bhagat ki Kothi Special Fare AC Summer Special
+ACExp
+SWR
+May 02
+Jun 27
+SMVB
+18:15
+BGKT
+13:30
+43h 15m
+36
+ 	 	 	 	T	 	 
+3A 2A 1A
+2124 km
+49 km/hr
+06588
+06106
+Dibrugarh - Nagercoil Jn. Special Fare SF Special
+SF
+SR
+Feb 28
+Jul 03
+DBRG
+19:55
+NCJ
+21:30
+73h 35m
+56
+ 	 	 	W	 	 	 
+2S SL 3A 2A
+4123 km
+56 km/hr
+06105
+06104
+Dibrugarh - Nagercoil Jn. Special Fare SF Special
+SF
+SR
+Feb 21
+Jun 26
+DBRG
+19:55
+NCJ
+21:30
+73h 35m
+56
+ 	 	 	W	 	 	 
+2S SL 3A 3E
+4123 km
+56 km/hr
+06103
+06103
+Nagercoil Jn. - Dibrugarh Special Fare SF Special
+SF
+SR
+Feb 16
+Jun 21
+NCJ
+17:45
+DBRG
+20:50
+75h 5m
+56
+ 	 	 	 	 	F	 
+SL 3A 3E
+4123 km
+55 km/hr
+06104
+06082
+Shalimar - Kochuveli Special Fare SF Summer Special
+SF
+SR
+Apr 15
+Jul 01
+SHM
+14:20
+KCVL
+09:55
+43h 35m
+31
+ 	M	 	 	 	 	 
+SL
+2496 km
+57 km/hr
+06081
+06081
+Kochuveli - Shalimar Special Fare SF Summer Special
+SF
+SR
+Apr 12
+Jun 28
+KCVL
+16:20
+SHM
+13:40
+45h 20m
+31
+ 	 	 	 	 	F	 
+SL
+2496 km
+55 km/hr
+06082
+06078
+Santragachi - Chennai Egmore Express Special (UnReserved)
+Exp
+SR
+Jul 01
+SRC
+10:00
+MS
+15:30
+29h 30m
+17
+ 	M	 	 	 	 	 
+1644 km
+56 km/hr
+06077
+06077
+Chennai Egmore - Santragachi Express Special (UnReserved)
+Exp
+SR
+Jun 29
+MS
+23:00
+SRC
+07:15
+32h 15m
+17
+ 	 	 	 	 	 	S
+1644 km
+51 km/hr
+06078
+06074
+Bhubaneswar - MGR Chennai Central Special Fare SF Special
+SF
+SR
+Oct 24
+Jul 02
+BBS
+21:00
+MAS
+15:00
+18h 0m
+9
+ 	 	T	 	 	 	 
+SL 3A 2A
+1210 km
+67 km/hr
+06073
+06073
+MGR Chennai Central - Bhubaneswar Special Fare SF Special
+SF
+SR
+Oct 23
+Jul 01
+MAS
+23:45
+BBS
+18:30
+18h 45m
+9
+ 	M	 	 	 	 	 
+SL 3A 2A
+1210 km
+65 km/hr
+06074
+07306
+Gomti Nagar - SSS Hubballi Special Fare Summer Special
+Exp
+SWR
+Apr 16
+Jun 18
+GTNR
+10:45
+UBL
+12:50
+50h 5m
+39
+ 	 	T	 	 	 	 
+SL 3A
+2659 km
+53 km/hr
+07305
+02309
+Howrah - New Jalpaiguri Special Fare AC SF Summer Special
+ACSF
+ER
+May 15
+Jun 26
+HWH
+05:55
+NJP
+13:25
+7h 30m
+3
+ 	 	 	W	 	 	 
+CC
+565 km
+75 km/hr
+02310
+02310
+New Jalpaiguri - Howrah Special Fare AC SF Summer Special
+ACSF
+ER
+May 16
+Jun 27
+NJP
+15:00
+HWH
+22:35
+7h 35m
+3
+ 	 	 	W	 	 	 
+CC
+565 km
+74 km/hr
+02309
+03188
+Jaynagar - Sealdah Special Fare Summer Special
+Exp
+ER
+May 12
+Jun 30
+JYG
+15:25
+SDAH
+05:15
+13h 50m
+13
+S	 	 	 	 	 	 
+SL 3A 2A
+611 km
+44 km/hr
+03187
+03187
+Sealdah - Jaynagar Special Fare Summer Special
+Exp
+ER
+May 11
+Jun 29
+SDAH
+23:55
+JYG
+14:25
+14h 30m
+13
+ 	 	 	 	 	 	S
+SL 3A 2A
+611 km
+42 km/hr
+03188
+07390
+Gomti Nagar - Belagavi Special Fare Summer Special
+Exp
+SWR
+May 14
+Jul 02
+GTNR
+19:45
+BGM
+15:15
+43h 30m
+22
+ 	 	T	 	 	 	 
+SL 3A 2A
+2100 km
+48 km/hr
+07389
+07389
+Belagavi - Gomti Nagar Special Fare Summer Special
+Exp
+SWR
+May 12
+Jun 30
+BGM
+12:30
+GTNR
+07:45
+43h 15m
+22
+S	 	 	 	 	 	 
+SL 3A 2A
+2100 km
+49 km/hr
+07390
+08419
+Mumbai LTT - Bhubaneswar Special Fare Summer Special
+Exp
+ECoR
+May 10
+Jun 28
+LTT
+13:20
+BBS
+01:45
+36h 25m
+39
+ 	 	 	 	 	F	 
+SL 3A 2A
+1862 km
+51 km/hr
+08420
+04564
+Shimla - Kalka Special
+Toy
+NR
+Jul 15
+SML
+16:50
+KLK
+21:40
+4h 50m
+5
+S	M	T	W	T	F	S
+2S FC EV
+94 km
+20 km/hr
+04563
+04563
+Kalka - Shimla Special
+Toy
+NR
+Jul 15
+KLK
+08:05
+SML
+13:05
+5h 0m
+5
+S	M	T	W	T	F	S
+2S FC EV
+94 km
+19 km/hr
+04564
+08420
+Bhubaneswar - Mumbai LTT Special Fare Summer Special
+Exp
+ECoR
+May 08
+Jun 26
+BBS
+23:00
+LTT
+10:30
+35h 30m
+38
+ 	 	 	W	 	 	 
+SL 3A 2A
+1862 km
+52 km/hr
+08419
+51108
+Khamgaon - Jalamb Passenger (UnReserved)
+Pass
+CR
+Apr 23
+Sep 01
+KMN
+20:40
+JM
+21:00
+0h 20m
+0
+S	M	T	W	T	F	 
+13 km
+38 km/hr
+51107
+51107
+Jalamb - Khamgaon Passenger (UnReserved)
+Pass
+CR
+Apr 23
+Sep 01
+JM
+22:05
+KMN
+22:25
+0h 20m
+0
+S	M	T	W	T	F	 
+13 km
+38 km/hr
+51108
+51106
+Khamgaon - Jalamb Passenger (UnReserved)
+Pass
+CR
+Apr 23
+Sep 01
+KMN
+15:20
+JM
+15:40
+0h 20m
+0
+S	M	T	W	T	F	 
+13 km
+38 km/hr
+51105
+51105
+Jalamb - Khamgaon Passenger (UnReserved)
+Pass
+CR
+Apr 23
+Sep 01
+JM
+16:50
+KMN
+17:10
+0h 20m
+0
+S	M	T	W	T	F	 
+13 km
+38 km/hr
+51106
+51104
+Khamgaon - Jalamb Passenger (UnReserved)
+Pass
+CR
+Apr 23
+Sep 01
+KMN
+10:50
+JM
+11:10
+0h 20m
+0
+S	M	T	W	T	F	 
+13 km
+38 km/hr
+51103
+51103
+Jalamb - Khamgaon Passenger (UnReserved)
+Pass
+CR
+Apr 23
+Sep 01
+JM
+12:30
+KMN
+12:49
+0h 19m
+0
+S	M	T	W	T	F	 
+13 km
+40 km/hr
+51104
+51102
+Khamgaon - Jalamb Passenger (UnReserved)
+Pass
+CR
+Apr 23
+Sep 01
+KMN
+04:40
+JM
+05:00
+0h 20m
+0
+S	M	T	W	T	F	 
+13 km
+38 km/hr
+51101
+51101
+Jalamb - Khamgaon Passenger (UnReserved)
+Pass
+CR
+Apr 23
+Sep 01
+JM
+04:00
+KMN
+04:20
+0h 20m
+0
+S	M	T	W	T	F	 
+13 km
+38 km/hr
+51102
+04027
+Saharsa - Anand Vihar Terminal Special Fare Summer Special
+Exp
+NR
+May 01
+Jun 26
+SHC
+09:30
+ANVT
+13:55
+28h 25m
+17
+ 	 	 	W	 	 	 
+SL 3A
+1251 km
+44 km/hr
+04028
+04517
+Gorakhpur - Chandigarh Special Fare Summer Special
+Exp
+NR
+Apr 26
+Jun 28
+GKP
+22:05
+CDG
+14:10
+16h 5m
+7
+ 	 	 	 	 	F	 
+2S SL 3A 2A 1A
+914 km
+57 km/hr
+04518
+04554
+Ambala Cantt. - Saharanpur MEMU Special
+MEMU
+NR
+Apr 20
+Jun 30
+UMB
+20:20
+SRE
+22:30
+2h 10m
+11
+S	M	T	W	T	F	S
+81 km
+37 km/hr
+04553
+04553
+Saharanpur - Ambala Cantt. MEMU Special
+MEMU
+NR
+Apr 20
+Jun 30
+SRE
+04:40
+UMB
+06:45
+2h 5m
+11
+S	M	T	W	T	F	S
+81 km
+39 km/hr
+04554
+06094
+Barauni - Mangaluru Central Special Fare Summer Special
+Exp
+SR
+May 08
+Jul 03
+BJU
+23:45
+MAQ
+12:30
+60h 45m
+43
+ 	 	 	W	 	 	 
+SL
+2942 km
+48 km/hr
+06093
+07047
+Dibrugarh - Secunderabad Special Fare Special
+Exp
+SCR
+Jun 27
+DBRG
+09:10
+SC
+16:30
+55h 20m
+46
+ 	 	 	 	T	 	 
+SL 3A 2A
+3092 km
+56 km/hr
+07046
+07232
+Arsikere - Secunderabad Special Fare Summer Special
+Exp
+SCR
+Apr 26
+Jun 28
+ASK
+14:10
+SC
+08:30
+18h 20m
+15
+ 	 	 	 	 	F	 
+SL 3A 2A
+775 km
+42 km/hr
+07231
+07231
+Secunderabad - Arsikere Special Fare Summer Special
+Exp
+SCR
+Apr 25
+Jun 27
+SC
+20:00
+ASK
+12:50
+16h 50m
+15
+ 	 	 	 	T	 	 
+SL 3A 2A
+775 km
+46 km/hr
+07232
+07265
+Hyderabad - Arsikere Special Fare Summer Special
+Exp
+SCR
+Apr 24
+Jun 24
+HYB
+19:10
+ASK
+12:50
+17h 40m
+16
+ 	 	T	 	 	 	 
+SL 3A 2A
+785 km
+44 km/hr
+07266
+07266
+Arsikere - Hyderabad Special Fare Summer Special
+Exp
+SCR
+Apr 25
+Jun 26
+ASK
+14:10
+HYB
+08:30
+18h 20m
+16
+ 	 	 	W	 	 	 
+SL 3A 2A
+785 km
+43 km/hr
+07265
+06093
+Mangaluru Central - Barauni Special Fare Summer Special
+Exp
+SR
+May 05
+Jun 30
+MAQ
+14:15
+BJU
+22:30
+56h 15m
+43
+S	 	 	 	 	 	 
+SL
+2940 km
+52 km/hr
+06094
+09070
+Brahmapur - Surat Special Fare Summer Special
+Exp
+WR
+Apr 19
+Jun 28
+BAM
+22:40
+ST
+06:30
+31h 50m
+13
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+1714 km
+54 km/hr
+09069
+09069
+Surat - Brahmapur Special Fare Summer Special
+Exp
+WR
+Apr 17
+Jun 26
+ST
+14:20
+BAM
+19:40
+29h 20m
+13
+ 	 	 	W	 	 	 
+SL 3A 2A 1A
+1714 km
+58 km/hr
+09070
+06057
+Chennai Egmore - Nagercoil Vande Bharat Special Fare Summer Special
+VB
+SR
+Mar 30
+Jun 30
+MS
+05:15
+NCJ
+14:10
+8h 55m
+7
+S	 	 	 	 	F	S
+CC Ex
+724 km
+81 km/hr
+06058
+06058
+Nagercoil - Chennai Egmore Special Fare Vande Bharat Summer Special
+VB
+SR
+Mar 30
+Jun 30
+NCJ
+14:50
+MS
+23:45
+8h 55m
+7
+S	 	 	 	 	F	S
+CC Ex
+724 km
+81 km/hr
+06057
+03424
+Haridwar - Bhagalpur Special Fare Summer Special
+Exp
+ER
+Apr 30
+Jun 25
+HW
+19:55
+BGP
+21:20
+25h 25m
+17
+ 	 	T	 	 	 	 
+SL 3A 2A
+1267 km
+50 km/hr
+03423
+03423
+Bhagalpur - Haridwar Special Fare Summer Special
+Exp
+ER
+Apr 29
+Jun 24
+BGP
+13:55
+HW
+17:55
+28h 0m
+17
+ 	M	 	 	 	 	 
+SL 3A 2A
+1267 km
+45 km/hr
+03424
+09130
+Rewa - Bandra Terminus Jansadharan Special (UnReserved)
+Exp
+WR
+May 03
+Jun 28
+REWA
+11:00
+BDTS
+12:15
+25h 15m
+15
+ 	 	 	 	 	F	 
+1366 km
+54 km/hr
+09129
+09129
+Bandra Terminus - Rewa Jansadharan Special (UnReserved)
+Exp
+WR
+May 02
+Jun 27
+BDTS
+04:30
+REWA
+07:00
+26h 30m
+15
+ 	 	 	 	T	 	 
+1366 km
+52 km/hr
+09130
+05061
+Mathura - Tanakpur Special Fare Special
+Exp
+NER
+Dec 31
+MTJ
+16:45
+TPU
+23:10
+6h 25m
+13
+ 	M	T	 	T	F	S
+CC
+328 km
+51 km/hr
+05062
+05062
+Tanakpur - Mathura Special Fare Special
+Exp
+NER
+Dec 31
+TPU
+04:45
+MTJ
+11:30
+6h 45m
+13
+ 	M	T	 	T	F	S
+CC
+328 km
+49 km/hr
+05061
+08482
+Anand Vihar Terminal - Puri Special Fare Summer Special
+Exp
+ECoR
+May 01
+Jun 26
+ANVT
+11:50
+PURI
+21:30
+33h 40m
+21
+ 	 	 	W	 	 	 
+SL 3A 2A
+1787 km
+53 km/hr
+08481
+08481
+Puri - Anand Vihar Terminal Special Fare Summer Special
+Exp
+ECoR
+Apr 29
+Jun 24
+PURI
+23:45
+ANVT
+09:50
+34h 5m
+21
+ 	M	 	 	 	 	 
+SL 3A 2A
+1787 km
+52 km/hr
+08482
+06064
+Dhanbad - Coimbatore Special Fare Summer Special
+Exp
+SR
+Apr 29
+Jul 01
+DHN
+06:00
+CBE
+03:45
+45h 45m
+28
+ 	M	 	 	 	 	 
+SL
+2250 km
+49 km/hr
+06063
+06063
+Coimbatore - Dhanbad Special Fare Summer Special
+Exp
+SR
+Apr 26
+Jun 28
+CBE
+11:50
+DHN
+08:30
+44h 40m
+29
+ 	 	 	 	 	F	 
+SL
+2247 km
+50 km/hr
+06064
+03416
+Lal Kuan - Malda Town Special Fare Summer Special
+Exp
+ER
+Apr 25
+Jun 27
+LKU
+21:05
+MLDT
+23:45
+26h 40m
+17
+ 	 	 	 	T	 	 
+SL 3A 2A 3E
+1253 km
+47 km/hr
+03415
+03415
+Malda Town - Lal Kuan Special Fare Summer Special
+Exp
+ER
+Apr 24
+Jun 26
+MLDT
+17:15
+LKU
+19:05
+25h 50m
+17
+ 	 	 	W	 	 	 
+SL 3A 2A 3E
+1253 km
+48 km/hr
+03416
+05318
+Anand Vihar Terminal - Chhapra Jan Sadharan Summer Special (UnReserved)
+Exp
+NER
+Apr 28
+Jun 30
+ANVT
+22:30
+CPR
+17:30
+19h 0m
+16
+S	 	 	 	 	 	 
+1000 km
+53 km/hr
+05317
+05309
+Mau - Anand Vihar Terminal Special Fare Summer Special
+Exp
+NER
+Apr 28
+Jun 30
+MAU
+18:00
+ANVT
+10:00
+16h 0m
+13
+S	 	 	 	 	 	 
+SL 3A 2A 1A
+854 km
+53 km/hr
+05310
+05310
+Anand Vihar Terminal - Mau Special Fare Summer Special
+Exp
+NER
+Apr 29
+Jul 01
+ANVT
+12:30
+MAU
+04:00
+15h 30m
+13
+ 	M	 	 	 	 	 
+SL 3A 2A 1A
+854 km
+55 km/hr
+05309
+05306
+Anand Vihar Terminal - Chhapra Special Fare Summer Special (via Thawe)
+Exp
+NER
+May 01
+Jun 29
+ANVT
+22:30
+CPR
+17:30
+19h 0m
+16
+ 	 	 	W	 	 	S
+SL 3A 2A
+1000 km
+53 km/hr
+05305
+05324
+Anand Vihar Terminal- Chhapra Special Fare Summer Special (via Thawe)
+Exp
+NER
+Apr 30
+Jun 25
+ANVT
+22:30
+CPR
+17:30
+19h 0m
+16
+ 	 	T	 	 	 	 
+SL 3A 2A
+1000 km
+53 km/hr
+05323
+05323
+Chhapra - Anand Vihar Terminal Special Fare Summer Special (via Thawe)
+Exp
+NER
+Apr 29
+Jun 24
+CPR
+23:55
+ANVT
+20:00
+20h 5m
+16
+ 	M	 	 	 	 	 
+SL 3A 2A
+1000 km
+50 km/hr
+05324
+05317
+Chhapra - Anand Vihar Terminal Jan Sadharan Summer Special (UnReserved)
+Exp
+NER
+Apr 27
+Jun 29
+CPR
+23:55
+ANVT
+20:00
+20h 5m
+16
+ 	 	 	 	 	 	S
+1000 km
+50 km/hr
+05318
+05305
+Chhapra - Anand Vihar Terminal Special Fare Summer Special (via Thawe)
+Exp
+NER
+Apr 30
+Jun 28
+CPR
+23:55
+ANVT
+20:00
+20h 5m
+16
+ 	 	T	 	 	F	 
+SL 3A 2A
+1000 km
+50 km/hr
+05306
+05043
+Ramnagar - Aishbagh Special Fare Summer Special
+Exp
+NER
+Apr 26
+Jun 29
+RMR
+09:00
+ASH
+19:15
+10h 15m
+16
+ 	 	 	 	 	F	S
+2S SL CC 3A 2A
+450 km
+44 km/hr
+05044
+05044
+Aishbagh - Ramnagar Special Fare Summer Special
+Exp
+NER
+Apr 26
+Jun 29
+ASH
+21:00
+RMR
+07:05
+10h 5m
+16
+ 	 	 	 	 	F	S
+2S SL CC 3A 2A
+450 km
+45 km/hr
+05043
+04656
+Jammu Tawi - Udaipur City Special Fare Garib Rath Summer Special
+GR
+NR
+Apr 25
+Jun 27
+JAT
+05:20
+UDZ
+07:30
+26h 10m
+20
+ 	 	 	 	T	 	 
+CC 3A
+1272 km
+49 km/hr
+04655
+05302
+Anand Vihar Terminal - Mau Special Fare Summer Special
+Exp
+NER
+Apr 25
+Jun 27
+ANVT
+22:30
+MAU
+14:30
+16h 0m
+13
+ 	 	 	 	T	 	 
+SL 2A 3E
+854 km
+53 km/hr
+05301
+08549
+Visakhapatnam - SMVT Bengaluru Special Fare Summer Special (via Rajahmundry)
+Exp
+ECoR
+Apr 27
+Jun 29
+VSKP
+13:15
+SMVB
+07:30
+18h 15m
+10
+ 	 	 	 	 	 	S
+SL 3A 2A
+1071 km
+59 km/hr
+08550
+05722
+Anand Vihar Terminal - Katihar Special Fare Summer Special
+Exp
+NFR
+Apr 25
+Jun 27
+ANVT
+23:25
+KIR
+01:30
+26h 5m
+15
+ 	 	 	 	T	 	 
+SL 3A
+1243 km
+48 km/hr
+05721
+05721
+Katihar - Anand Vihar Terminal Special Fare Summer Special
+Exp
+NFR
+Apr 24
+Jun 26
+KIR
+17:25
+ANVT
+18:50
+25h 25m
+15
+ 	 	 	W	 	 	 
+SL 3A
+1243 km
+49 km/hr
+05722
+07124
+Udaipur City - Secunderabad Special Fare Summer Special
+Exp
+SCR
+Apr 20
+Jun 29
+UDZ
+16:05
+SC
+09:45
+41h 40m
+31
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+2173 km
+52 km/hr
+07123
+07123
+Secunderabad - Udaipur City Special Fare Summer Special
+Exp
+SCR
+Apr 16
+Jun 25
+SC
+23:50
+UDZ
+17:45
+41h 55m
+31
+ 	 	T	 	 	 	 
+SL 3A 2A 1A
+2173 km
+52 km/hr
+07124
+07166
+Cuttack - Hyderabad Special Fare Summer Special
+Exp
+SCR
+Apr 17
+Jun 26
+CTC
+22:30
+HYB
+21:00
+22h 30m
+19
+ 	 	 	W	 	 	 
+SL 3A 2A
+1129 km
+50 km/hr
+07165
+07165
+Hyderabad - Cuttack Special Fare Summer Special
+Exp
+SCR
+Apr 16
+Jun 25
+HYB
+20:10
+CTC
+17:45
+21h 35m
+20
+ 	 	T	 	 	 	 
+SL 3A 2A
+1129 km
+52 km/hr
+07166
+04095
+Ayodhya Cantt. - Anand Vihar Terminal Special Fare Summer Special
+Exp
+NR
+Apr 28
+Jun 30
+AYC
+09:00
+ANVT
+22:30
+13h 30m
+4
+S	 	T	 	 	 	 
+SL 3A 2A 1A
+606 km
+45 km/hr
+04096
+08480
+New Delhi - Puri Special Fare Summer Special
+Exp
+ECoR
+May 01
+Jun 26
+NDLS
+21:30
+PURI
+07:45
+34h 15m
+21
+ 	 	 	W	 	 	 
+SL 3A 2A 1A 3E
+1800 km
+53 km/hr
+08479
+08479
+Puri - New Delhi Special Fare Summer Special
+Exp
+ECoR
+Apr 30
+Jun 25
+PURI
+08:45
+NDLS
+18:30
+33h 45m
+21
+ 	 	T	 	 	 	 
+SL 3A 2A 1A 3E
+1800 km
+53 km/hr
+08480
+05301
+Mau - Anand Vihar Terminal Special Fare Summer Special
+Exp
+NER
+Apr 25
+Jun 27
+MAU
+04:00
+ANVT
+20:30
+16h 30m
+13
+ 	 	 	 	T	 	 
+SL 2A 3E
+854 km
+52 km/hr
+05302
+04018
+MCTM Udhampur - Anand Vihar Terminal Special Fare Summer Special
+Exp
+NR
+Apr 27
+Jun 29
+MCTM
+15:55
+ANVT
+05:00
+13h 5m
+10
+ 	 	 	 	 	 	S
+SL 3A 1A 3E
+686 km
+52 km/hr
+04017
+04017
+Anand Vihar Terminal - MCTM Udhampur Special Fare Summer Special
+Exp
+NR
+Apr 26
+Jun 28
+ANVT
+23:55
+MCTM
+12:40
+12h 45m
+10
+ 	 	 	 	 	F	 
+SL 3A 1A 3E
+686 km
+54 km/hr
+04018
+04096
+Anand Vihar Terminal - Ayodhya Cantt. Special Fare Summer Special
+Exp
+NR
+Apr 27
+Jun 29
+ANVT
+09:00
+AYC
+22:00
+13h 0m
+4
+ 	M	 	 	 	 	S
+SL 3A 2A 1A
+606 km
+47 km/hr
+04095
+07622
+Hazrat Nizamuddin - Hazur Sahib Nanded Special Fare Summer Special
+Exp
+SCR
+Apr 21
+Jun 30
+NZM
+21:40
+NED
+00:35
+26h 55m
+17
+S	 	 	 	 	 	 
+SL 3A 2A 1A
+1626 km
+60 km/hr
+07621
+07621
+Hazur Sahib Nanded - Hazrat Nizamuddin Special Fare Summer Special
+Exp
+SCR
+Apr 20
+Jun 29
+NED
+08:45
+NZM
+14:00
+29h 15m
+17
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+1626 km
+56 km/hr
+07622
+04655
+Udaipur City - Jammu Tawi Special Fare Garib Rath Summer Special
+GR
+NR
+Apr 26
+Jun 28
+UDZ
+14:05
+JAT
+15:10
+25h 5m
+20
+ 	 	 	 	 	F	 
+CC 3A
+1272 km
+51 km/hr
+04656
+07378
+Mangaluru Central - Vijayapura Special Fare Special
+Exp
+SWR
+Dec 01
+Oct 01
+MAQ
+14:35
+BJP
+09:35
+19h 0m
+24
+S	M	T	W	T	F	S
+SL 3A
+788 km
+41 km/hr
+07377
+08540
+Kollam - Visakhapatnam Special Fare SF Summer Special
+SF
+ECoR
+Apr 18
+Jul 04
+QLN
+19:35
+VSKP
+23:20
+27h 45m
+26
+ 	 	 	 	T	 	 
+SL 3A 2A
+1562 km
+56 km/hr
+08539
+08539
+Visakhapatnam - Kollam Special Fare SF Summer Special
+SF
+ECoR
+Apr 17
+Jul 03
+VSKP
+08:20
+QLN
+12:55
+28h 35m
+26
+ 	 	 	W	 	 	 
+SL 3A 2A
+1562 km
+55 km/hr
+08540
+06086
+Patna - Ernakulam Special Fare Summer Special
+Exp
+SR
+Apr 22
+Jul 01
+PNBE
+23:45
+ERS
+10:30
+58h 45m
+56
+ 	M	 	 	 	 	 
+SL
+2768 km
+47 km/hr
+06085
+04132
+SMVT Bengaluru - Prayagraj Special Fare Summer Special
+Exp
+NCR
+Apr 24
+Jul 03
+SMVB
+07:10
+PRYJ
+22:50
+39h 40m
+20
+ 	 	 	W	 	 	 
+SL 2A 3E
+2343 km
+59 km/hr
+04131
+04131
+Prayagraj - SMVT Bengaluru Special Fare Summer Special
+Exp
+NCR
+Apr 21
+Jun 30
+PRYJ
+23:30
+SMVB
+18:30
+43h 0m
+20
+S	 	 	 	 	 	 
+SL 2A 3E
+2343 km
+54 km/hr
+04132
+05056
+Varanasi City - Lal Kuan Special Fare Summer Special
+Exp
+NER
+Apr 30
+Jun 25
+BCY
+14:15
+LKU
+06:30
+16h 15m
+19
+ 	 	T	 	 	 	 
+SL 2A 1A 3E
+840 km
+52 km/hr
+05055
+05055
+Lal Kuan - Varanasi City Special Fare Summer Special
+Exp
+NER
+Apr 29
+Jun 24
+LKU
+15:00
+BCY
+10:00
+19h 0m
+19
+ 	M	 	 	 	 	 
+SL 2A 1A 3E
+840 km
+44 km/hr
+05056
+04313
+Muzaffarpur - Dehradun Special Fare Summer Special
+Exp
+NR
+Apr 27
+Jun 29
+MFP
+09:00
+DDN
+08:30
+23h 30m
+11
+ 	 	 	 	 	 	S
+SL 3A 2A
+1075 km
+46 km/hr
+04314
+04309
+Gorakhpur - Dehradun Special Fare Summer Special
+Exp
+NR
+Apr 24
+Jun 26
+GKP
+14:55
+DDN
+08:30
+17h 35m
+7
+ 	 	 	W	 	 	 
+SL 3A 2A
+782 km
+44 km/hr
+04310
+04310
+Dehradun - Gorakhpur Special Fare Summer Special
+Exp
+NR
+Apr 23
+Jun 25
+DDN
+11:00
+GKP
+01:30
+14h 30m
+7
+ 	 	T	 	 	 	 
+SL 3A 2A
+782 km
+54 km/hr
+04309
+07377
+Vijayapura - Mangaluru Central Special Fare Special
+Exp
+SWR
+Dec 01
+Sep 30
+BJP
+15:30
+MAQ
+09:50
+18h 20m
+24
+S	M	T	W	T	F	S
+SL 3A
+788 km
+43 km/hr
+07378
+08471
+Puri - Udhna Special Fare Summer Special
+Exp
+ECoR
+Apr 25
+Jun 27
+PURI
+06:30
+UDN
+14:00
+31h 30m
+24
+ 	M	 	 	T	 	 
+SL 3A 2A
+1718 km
+55 km/hr
+08472
+05537
+Darbhanga - Daurai (Ajmer) Special Fare Summer Special
+Exp
+ECR
+May 04
+Jun 29
+DBG
+13:15
+DOZ
+22:30
+33h 15m
+20
+ 	 	 	 	 	 	S
+SL 3A 2A
+1408 km
+42 km/hr
+05538
+05610
+Guwahati - Hadapsar (Pune) Special Fare SF Summer Special
+SF
+NFR
+May 06
+Jun 24
+GHY
+20:40
+HDP
+18:20
+45h 40m
+27
+ 	M	 	 	 	 	 
+SL 3A 2A
+2629 km
+58 km/hr
+05609
+06085
+Ernakulam - Patna Special Fare Summer Special
+Exp
+SR
+Apr 19
+Jun 28
+ERS
+23:00
+PNBE
+03:30
+52h 30m
+56
+ 	 	 	 	 	F	 
+SL
+2768 km
+53 km/hr
+06086
+08311
+Sambalpur - Erode Special Fare Special
+Exp
+ECoR
+Jun 26
+SBP
+11:35
+ED
+20:30
+32h 55m
+29
+ 	 	 	W	 	 	 
+SL 3A 2A
+1691 km
+51 km/hr
+08312
+03045
+Howrah - Raxaul Special Fare Summer Special
+Exp
+ER
+Apr 25
+Jun 27
+HWH
+23:00
+RXL
+14:15
+15h 15m
+15
+ 	M	 	 	T	 	 
+SL
+699 km
+46 km/hr
+03046
+04314
+Dehradun - Muzaffarpur Special Fare Summer Special
+Exp
+NR
+Apr 26
+Jun 28
+DDN
+11:00
+MFP
+07:00
+20h 0m
+11
+ 	 	 	 	 	F	 
+SL 3A 2A
+1075 km
+54 km/hr
+04313
+04311
+Howrah - Dehradun Special Fare Summer Special
+Exp
+NR
+Apr 26
+Jun 28
+HWH
+18:00
+DDN
+01:30
+31h 30m
+13
+ 	 	 	 	 	F	 
+SL 3A 2A
+1527 km
+48 km/hr
+04312
+01923
+Pune - Virangana Lakshmibai Jhansi Special Fare Summer Special
+Exp
+NCR
+Apr 21
+Jun 30
+PUNE
+16:00
+VGLJ
+13:00
+21h 0m
+12
+S	 	 	 	 	 	 
+SL 3A 2A
+1183 km
+56 km/hr
+01924
+04067
+Darbhanga - Delhi Special Fare Summer Special
+Exp
+NR
+Apr 27
+Jun 29
+DBG
+18:00
+DLI
+16:40
+22h 40m
+9
+ 	 	 	W	 	 	S
+SL 3A
+1096 km
+48 km/hr
+04068
+01924
+Virangana Lakshmibai Jhansi - Pune Special Fare Summer Special
+Exp
+NCR
+Apr 20
+Jun 29
+VGLJ
+12:50
+PUNE
+11:35
+22h 45m
+12
+ 	 	 	 	 	 	S
+SL 3A 2A
+1183 km
+52 km/hr
+01923
+08484
+Shalimar - Puri Special Fare Summer Special
+Exp
+ECoR
+Apr 22
+Jun 27
+SHM
+19:45
+PURI
+05:50
+10h 5m
+9
+ 	M	 	 	T	 	 
+SL 3A
+497 km
+49 km/hr
+08483
+08483
+Puri - Shalimar Special Fare Summer Special
+Exp
+ECoR
+Apr 21
+Jun 27
+PURI
+23:50
+SHM
+10:00
+10h 10m
+9
+S	 	 	W	 	 	 
+SL 3A
+497 km
+49 km/hr
+08484
+08476
+Hazrat Nizamuddin - Puri Special Fare Summer Special
+Exp
+ECoR
+Apr 20
+Jun 29
+NZM
+23:35
+PURI
+06:55
+31h 20m
+16
+ 	 	 	 	 	 	S
+SL 3A 2A
+1714 km
+55 km/hr
+08475
+08475
+Puri - Hazrat Nizamuddin Special Fare Summer Special
+Exp
+ECoR
+Apr 19
+Jun 28
+PURI
+04:50
+NZM
+17:40
+36h 50m
+16
+ 	 	 	 	 	F	 
+SL 3A 2A
+1714 km
+47 km/hr
+08476
+05655
+Jammu Tawi - Guwahati Special Fare Summer Special
+Exp
+NR
+May 09
+Jul 04
+JAT
+10:00
+GHY
+13:20
+51h 20m
+36
+ 	 	 	 	T	 	 
+SL 3A 2A
+2346 km
+46 km/hr
+05656
+03108
+Lucknow - Sealdah Special Fare AC Summer Special
+ACExp
+ER
+Apr 21
+Jun 30
+LKO
+01:40
+SDAH
+23:50
+22h 10m
+17
+S	 	 	 	 	 	 
+3A 2A 1A
+1051 km
+47 km/hr
+03107
+05194
+Panvel - Chhapra Special Fare Summer Special
+Exp
+NER
+Apr 19
+Jun 28
+PNVL
+21:40
+CPR
+08:50
+35h 10m
+13
+ 	 	 	 	 	F	 
+SL 3E
+1671 km
+48 km/hr
+05193
+01661
+Mysuru - Rani Kamalapati Special Fare Summer Special
+Exp
+WCR
+Apr 20
+Jul 27
+MYS
+07:30
+RKMP
+22:30
+39h 0m
+32
+ 	 	 	 	 	 	S
+SL 3A 2A 3E
+1968 km
+50 km/hr
+01662
+04009
+Jogbani - Anand Vihar Terminal Special Fare Summer Special
+Exp
+NR
+May 02
+Jun 27
+JBN
+09:00
+ANVT
+16:05
+31h 5m
+23
+ 	 	 	 	T	 	 
+SL
+1351 km
+43 km/hr
+04010
+04010
+Anand Vihar Terminal - Jogbani Special Fare Summer Special
+Exp
+NR
+Apr 30
+Jun 25
+ANVT
+23:45
+JBN
+05:20
+29h 35m
+22
+ 	 	T	 	 	 	 
+SL
+1351 km
+46 km/hr
+04009
+04061
+Barauni - Delhi Special Fare Summer Special
+Exp
+NR
+Apr 29
+Jul 01
+BJU
+08:00
+DLI
+07:35
+23h 35m
+11
+ 	M	 	 	 	 	 
+SL 3A
+1104 km
+47 km/hr
+04062
+04062
+Delhi - Barauni Special Fare Summer Special
+Exp
+NR
+Apr 28
+Jun 30
+DLI
+08:50
+BJU
+06:30
+21h 40m
+11
+S	 	 	 	 	 	 
+SL 3A
+1104 km
+51 km/hr
+04061
+04624
+SMVD Katra - Varanasi Special Fare Summer Special
+Exp
+NR
+Apr 21
+Jun 30
+SVDK
+23:45
+BSB
+23:55
+24h 10m
+12
+S	 	 	 	 	 	 
+SL 3A 2A 3E
+1356 km
+56 km/hr
+04623
+03107
+Sealdah - Lucknow Special Fare AC Summer Special
+ACExp
+ER
+Apr 20
+Jun 29
+SDAH
+00:10
+LKO
+00:10
+24h 0m
+17
+ 	 	 	 	 	 	S
+3A 2A 1A
+1051 km
+44 km/hr
+03108
+05656
+Guwahati - Jammu Tawi Special Fare Summer Special
+Exp
+NFR
+May 06
+Jul 01
+GHY
+20:30
+JAT
+17:35
+45h 5m
+36
+ 	M	 	 	 	 	 
+2S SL 3A 2A
+2346 km
+52 km/hr
+05655
+01065
+Mumbai CSMT - Agartala Special Fare Summer Special
+Exp
+CR
+Apr 18
+Jun 27
+CSMT
+11:05
+AGTL
+01:10
+62h 5m
+33
+ 	 	 	 	T	 	 
+SL 3A
+3144 km
+51 km/hr
+01066
+04623
+Varanasi - SMVD Katra Special Fare Summer Special
+Exp
+NR
+Apr 23
+Jul 02
+BSB
+05:30
+SVDK
+11:25
+29h 55m
+12
+ 	 	T	 	 	 	 
+SL 3A 2A 3E
+1356 km
+45 km/hr
+04624
+05116
+Anand Vihar Terminal - Chhapra Special Fare Summer Special (via Deoria Sadar)
+Exp
+NER
+May 02
+Jun 27
+ANVT
+14:45
+CPR
+09:30
+18h 45m
+10
+ 	 	 	 	T	 	 
+SL 3A 2A 1A
+896 km
+48 km/hr
+05115
+05115
+Chhapra - Anand Vihar Terminal Special Fare Summer Special (via Deoria Sadar)
+Exp
+NER
+May 01
+Jun 26
+CPR
+17:45
+ANVT
+11:50
+18h 5m
+10
+ 	 	 	W	 	 	 
+SL 3A 2A 1A
+896 km
+50 km/hr
+05116
+04057
+Muzaffarpur - Anand Vihar Terminal Special Fare Summer Special (via Chhapra)
+Exp
+NR
+Apr 30
+Jun 28
+MFP
+23:00
+ANVT
+23:30
+24h 30m
+6
+ 	 	T	 	 	F	 
+SL 3A
+1060 km
+43 km/hr
+04058
+04058
+Anand Vihar Terminal - Muzaffarpur Special Fare Summer Special (via Chhapra)
+Exp
+NR
+Apr 29
+Jun 27
+ANVT
+23:15
+MFP
+21:15
+22h 0m
+6
+ 	M	 	 	T	 	 
+SL 3A
+1060 km
+48 km/hr
+04057
+02192
+Haridwar - Jabalpur Special Fare SF Summer Special
+SF
+WCR
+Apr 18
+Aug 01
+HW
+16:20
+JBP
+11:15
+18h 55m
+13
+ 	 	 	 	T	 	 
+SL 3A 2A
+1048 km
+55 km/hr
+02191
+02191
+Jabalpur - Haridwar Special Fare SF Summer Special
+SF
+WCR
+Apr 17
+Jul 31
+JBP
+18:55
+HW
+13:20
+18h 25m
+13
+ 	 	 	W	 	 	 
+SL 3A 2A
+1048 km
+57 km/hr
+02192
+01662
+Rani Kamalapati - Mysuru Special Fare Summer Special
+Exp
+WCR
+Apr 18
+Jul 25
+RKMP
+08:30
+MYS
+22:35
+38h 5m
+32
+ 	 	 	 	T	 	 
+SL 3A 2A 3E
+1963 km
+52 km/hr
+01661
+05609
+Hadapsar (Pune) - Guwahati Special Fare SF Summer Special
+SF
+NFR
+May 09
+Jun 27
+HDP
+10:00
+GHY
+08:15
+46h 15m
+21
+ 	 	 	 	T	 	 
+SL 3A 2A
+2629 km
+57 km/hr
+05610
+04518
+Chandigarh - Gorakhpur Special Fare Summer Special
+Exp
+NR
+Apr 25
+Jun 27
+CDG
+23:15
+GKP
+18:20
+19h 5m
+7
+ 	 	 	 	T	 	 
+SL 3A 2A 1A
+914 km
+48 km/hr
+04517
+04028
+Anand Vihar Terminal - Saharsa Special Fare Summer Special
+Exp
+NR
+Apr 29
+Jun 24
+ANVT
+11:10
+SHC
+11:20
+24h 10m
+17
+ 	M	 	 	 	 	 
+SL 3A
+1251 km
+52 km/hr
+04027
+04068
+Delhi - Darbhanga Special Fare Summer Special
+Exp
+NR
+Apr 26
+Jun 28
+DLI
+19:30
+DBG
+16:30
+21h 0m
+9
+ 	 	T	 	 	F	 
+SL 3A
+1096 km
+52 km/hr
+04067
+03260
+SMVT Bengaluru - Danapur Special Fare SF Special
+SF
+ECR
+Aug 01
+SMVB
+23:25
+DNR
+23:30
+48h 5m
+16
+ 	 	 	 	T	 	 
+SL 3A 2A
+2681 km
+56 km/hr
+03259
+03259
+Danapur - SMVT Bengaluru Special Fare SF Special
+SF
+ECR
+Jul 30
+DNR
+15:00
+SMVB
+13:00
+46h 0m
+16
+ 	 	T	 	 	 	 
+SL 3A 2A
+2681 km
+58 km/hr
+03260
+03252
+SMVT Bengaluru - Danapur Special Fare SF Special
+SF
+ECR
+Jul 31
+SMVB
+23:25
+DNR
+23:30
+48h 5m
+16
+ 	 	T	W	 	 	 
+SL 3A 2A
+2681 km
+56 km/hr
+03251
+03251
+Danapur - SMVT Bengaluru Special Fare SF Special
+SF
+ECR
+Jul 29
+DNR
+15:00
+SMVB
+13:00
+46h 0m
+16
+S	M	 	 	 	 	 
+SL 3A 2A
+2681 km
+58 km/hr
+03252
+03242
+SMVT Bengaluru - Danapur Special Fare AC SF Special
+ACSF
+ECR
+Jul 28
+SMVB
+23:25
+DNR
+23:30
+48h 5m
+16
+S	 	 	 	 	 	 
+3A 2A 1A
+2681 km
+56 km/hr
+03241
+03241
+Danapur - SMVT Bengaluru Special Fare AC SF Special
+ACSF
+ECR
+Jul 26
+DNR
+15:00
+SMVB
+13:00
+46h 0m
+17
+ 	 	 	 	 	F	 
+3A 2A 1A
+2681 km
+58 km/hr
+03242
+03248
+SMVT Bengaluru - Danapur Special Fare SF Special
+SF
+ECR
+Jul 27
+SMVB
+23:25
+DNR
+23:30
+48h 5m
+16
+ 	 	 	 	 	 	S
+SL 3A 2A
+2681 km
+56 km/hr
+03247
+03247
+Danapur - SMVT Bengaluru Special Fare SF Special
+SF
+ECR
+Jul 25
+DNR
+15:00
+SMVB
+13:00
+46h 0m
+15
+ 	 	 	 	T	 	 
+SL 3A 2A
+2681 km
+58 km/hr
+03248
+03246
+SMVT Bengaluru - Danapur Special Fare SF Special
+SF
+ECR
+Aug 02
+SMVB
+23:25
+DNR
+23:30
+48h 5m
+16
+ 	 	 	 	 	F	 
+SL 3A 2A
+2681 km
+56 km/hr
+03245
+03245
+Danapur - SMVT Bengaluru Special Fare SF Special
+SF
+ECR
+Jul 31
+DNR
+15:00
+SMVB
+13:00
+46h 0m
+16
+ 	 	 	W	 	 	 
+SL 3A 2A
+2681 km
+58 km/hr
+03246
+03229
+Puri - Patna Special Fare Special
+Exp
+ECR
+Jul 26
+PURI
+14:55
+PNBE
+09:35
+18h 40m
+19
+ 	 	 	 	 	F	 
+SL 3A 2A
+931 km
+50 km/hr
+03230
+03230
+Patna - Puri Special Fare Special
+Exp
+ECR
+Jul 25
+PNBE
+08:45
+PURI
+02:55
+18h 10m
+19
+ 	 	 	 	T	 	 
+SL 3A 2A
+931 km
+51 km/hr
+03229
+03216
+Thawe - Patna Express Special (UnReserved)
+Exp
+ECR
+Jul 31
+THE
+18:25
+PNBE
+23:45
+5h 20m
+13
+S	M	T	W	T	F	S
+175 km
+33 km/hr
+03215
+03215
+Patna - Thawe Express Special (UnReserved)
+Exp
+ECR
+Jul 31
+PNBE
+12:10
+THE
+17:40
+5h 30m
+13
+S	M	T	W	T	F	S
+175 km
+32 km/hr
+03216
+02024
+Patna - Howrah Special Fare SF Special
+SF
+ECR
+Jul 28
+PNBE
+05:30
+HWH
+13:25
+7h 55m
+14
+S	 	 	 	 	 	 
+2S CC
+530 km
+67 km/hr
+02023
+02023
+Howrah - Patna Special Fare SF Special
+SF
+ECR
+Jul 28
+HWH
+14:15
+PNBE
+22:30
+8h 15m
+14
+S	 	 	 	 	 	 
+2S CC
+530 km
+64 km/hr
+02024
+05193
+Chhapra - Panvel Special Fare Summer Special
+Exp
+NER
+Apr 18
+Jun 27
+CPR
+15:20
+PNVL
+20:30
+29h 10m
+13
+ 	 	 	 	T	 	 
+2S SL 3E
+1671 km
+57 km/hr
+05194
+04059
+Jaynagar - Anand Vihar Terminal Special Fare Summer Special
+Exp
+NR
+Apr 27
+Jun 29
+JYG
+17:00
+ANVT
+19:55
+26h 55m
+17
+ 	 	 	W	 	 	S
+SL 3A
+1237 km
+46 km/hr
+04060
+04060
+Anand Vihar Terminal - Jaynagar Special Fare Summer Special
+Exp
+NR
+Apr 26
+Jun 28
+ANVT
+10:30
+JYG
+15:15
+28h 45m
+17
+ 	 	T	 	 	F	 
+SL 3A
+1237 km
+43 km/hr
+04059
+04312
+Dehradun - Howrah Special Fare Summer Special
+Exp
+NR
+Apr 25
+Jun 27
+DDN
+11:00
+HWH
+15:15
+28h 15m
+12
+ 	 	 	 	T	 	 
+SL 3A 2A
+1527 km
+54 km/hr
+04311
+05532
+Anand Vihar Terminal - Raxaul Special Fare Summer Special
+Exp
+ECR
+Apr 15
+Jul 01
+ANVT
+20:00
+RXL
+14:30
+18h 30m
+10
+ 	M	 	 	 	 	 
+SL 3A 2A
+955 km
+52 km/hr
+05531
+05531
+Raxaul - Anand Vihar Termimal Special Fare Summer Special
+Exp
+ECR
+Apr 14
+Jun 30
+RXL
+22:25
+ANVT
+18:00
+19h 35m
+10
+S	 	 	 	 	 	 
+SL 3A 2A
+955 km
+49 km/hr
+05532
+08328
+Pune - Sambalpur Special Fare Summer Special
+Exp
+ECoR
+Apr 16
+Jul 02
+PUNE
+09:15
+SBP
+13:30
+28h 15m
+19
+ 	 	T	 	 	 	 
+SL 3A 2A
+1571 km
+56 km/hr
+08327
+08327
+Sambalpur - Pune Special Fare Summer Special
+Exp
+ECoR
+Apr 14
+Jun 30
+SBP
+22:00
+PUNE
+02:45
+28h 45m
+19
+S	 	 	 	 	 	 
+SL 3A 2A
+1571 km
+55 km/hr
+08328
+04080
+Delhi - Varanasi Special Fare SF Summer Special
+SF
+NR
+Apr 27
+Jun 29
+DLI
+19:30
+BSB
+09:45
+14h 15m
+4
+ 	M	 	 	T	 	S
+SL 3A 2A
+787 km
+55 km/hr
+04079
+04079
+Varanasi - Delhi Special Fare SF Summer Special
+Exp
+NR
+Apr 28
+Jun 30
+BSB
+18:20
+DLI
+08:50
+14h 30m
+4
+S	 	T	 	 	F	 
+SL 3A 2A
+787 km
+54 km/hr
+04080
+04530
+Bathinda - Varanasi Special Fare Summer Special
+Exp
+NR
+Apr 26
+Jun 28
+BTI
+20:50
+BSB
+17:30
+20h 40m
+12
+ 	M	 	 	 	F	 
+SL 3A
+1102 km
+53 km/hr
+04529
+04529
+Varanasi - Bathinda Special Fare Summer Special
+Exp
+NR
+Apr 27
+Jun 29
+BSB
+20:40
+BTI
+17:00
+20h 20m
+12
+ 	 	T	 	 	 	S
+SL 3A
+1102 km
+54 km/hr
+04530
+07224
+Santragachi - Secunderabad Special Fare Summer Special (via Guntur)
+Exp
+SCR
+Apr 20
+Jun 29
+SRC
+12:20
+SC
+14:45
+26h 25m
+23
+ 	 	 	 	 	 	S
+SL 3A 2A 1A
+1521 km
+58 km/hr
+07223
+07194
+Kollam - Secunderabad Special Fare Summer Special
+Exp
+SCR
+Apr 19
+Jun 28
+QLN
+02:30
+SC
+09:40
+31h 10m
+28
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+1501 km
+48 km/hr
+07193
+07193
+Secunderabad - Kollam Special Fare Summer Special
+Exp
+SCR
+Apr 17
+Jun 26
+SC
+18:40
+QLN
+23:55
+29h 15m
+28
+ 	 	 	W	 	 	 
+SL 3A 2A 1A
+1501 km
+51 km/hr
+07194
+07225
+Secunderabad - Shalimar Special Fare Summer Special (via Kazipet)
+Exp
+SCR
+Apr 15
+Jun 24
+SC
+04:30
+SHM
+06:05
+25h 35m
+23
+ 	M	 	 	 	 	 
+SL 3A 2A
+1559 km
+61 km/hr
+07226
+07226
+Shalimar - Secunderabad Special Fare Summer Special (via Kazipet)
+Exp
+SCR
+Apr 16
+Jun 25
+SHM
+10:00
+SC
+13:00
+27h 0m
+23
+ 	 	T	 	 	 	 
+SL 3A 2A
+1559 km
+58 km/hr
+07225
+07223
+Secunderabad - Santragachi Special Fare Summer Special (via Guntur)
+Exp
+SCR
+Apr 19
+Jun 28
+SC
+07:05
+SRC
+10:30
+27h 25m
+23
+ 	 	 	 	 	F	 
+SL 3A 2A 1A
+1521 km
+55 km/hr
+07224
+01464
+Kochuveli - Mumbai LTT Special Fare Summer Special
+Exp
+CR
+Apr 13
+Jun 29
+KCVL
+16:20
+LTT
+21:50
+29h 30m
+26
+ 	 	 	 	 	 	S
+3A 2A 1A
+1503 km
+51 km/hr
+01463
+01106
+Danapur - Pune Special Fare Summer Special
+Exp
+CR
+Apr 03
+Jun 26
+DNR
+06:30
+PUNE
+17:35
+35h 5m
+14
+ 	 	 	W	 	 	 
+SL 3A
+1748 km
+50 km/hr
+01105
+01105
+Pune - Danapur Special Fare Summer Special
+Exp
+CR
+Apr 01
+Jun 24
+PUNE
+19:55
+DNR
+04:30
+32h 35m
+14
+ 	M	 	 	 	 	 
+SL 3A
+1748 km
+54 km/hr
+01106
+01463
+Mumbai LTT - Kochuveli Special Fare Summer Special
+Exp
+CR
+Apr 11
+Jun 27
+LTT
+16:00
+KCVL
+20:45
+28h 45m
+27
+ 	 	 	 	T	 	 
+3A 2A 1A
+1503 km
+52 km/hr
+01464
+01491
+Pune - Hazrat Nizamuddin Special Fare SF Summer Special
+SF
+CR
+Apr 12
+Jun 28
+PUNE
+17:30
+NZM
+16:45
+23h 15m
+10
+ 	 	 	 	 	F	 
+SL 3A 2A
+1515 km
+65 km/hr
+01492
+01492
+Hazrat Nizamuddin - Pune Special Fare SF Summer Special
+SF
+CR
+Apr 13
+Jun 29
+NZM
+22:10
+PUNE
+23:55
+25h 45m
+10
+ 	 	 	 	 	 	S
+SL 3A 2A
+1511 km
+59 km/hr
+01491
+04003S
+Ashok Nagar - New Delhi Guru Purnima Special (UnReserved)
+Exp
+NR
+Apr 14
+Jul 22
+ASKN
+17:30
+NDLS
+07:00
+13h 30m
+5
+S	M	 	 	 	 	 
+638 km
+47 km/hr
+04004S
+04004S
+New Delhi - Ashok Nagar Guru Purnima Special (UnReserved)
+Exp
+NR
+Apr 10
+Jul 18
+NDLS
+12:10
+ASKN
+04:00
+15h 50m
+5
+ 	 	 	W	T	 	 
+638 km
+40 km/hr
+04003S
+01054
+Banaras - Mumbai LTT Special Fare Summer Special
+Exp
+CR
+Mar 14
+Jun 27
+BSBS
+20:30
+LTT
+23:55
+27h 25m
+13
+ 	 	 	 	T	 	 
+2S SL 3A 2A 1A
+1494 km
+55 km/hr
+01053
+01410
+Danapur - Mumbai LTT Special Fare SF Summer Special
+SF
+CR
+Mar 24
+Jun 30
+DNR
+18:15
+LTT
+23:55
+29h 40m
+16
+S	 	T	 	 	 	 
+SL 3A 2A 1A
+1680 km
+57 km/hr
+01409
+01431
+Pune - Gorakhpur Special Fare SF Summer Special
+SF
+CR
+Apr 05
+Jun 28
+PUNE
+16:15
+GKP
+20:40
+28h 25m
+18
+ 	 	 	 	 	F	 
+SL 3A
+1745 km
+61 km/hr
+01432
+05023
+Gorakhpur - Anand Vihar Terminal Special Fare Summer Special
+Exp
+NER
+Mar 24
+Jun 30
+GKP
+21:15
+ANVT
+13:15
+16h 0m
+8
+S	 	 	 	 	 	 
+2S SL 3A 2A
+716 km
+45 km/hr
+05024
+05024
+Anand Vihar Terminal - Gorakhpur Special Fare Summer Special
+Exp
+NER
+Mar 25
+Jul 01
+ANVT
+15:15
+GKP
+07:30
+16h 15m
+8
+ 	M	 	 	 	 	 
+SL 3A 2A
+716 km
+44 km/hr
+05023
+05048
+Anand Vihar Terminal - Banaras Special Fare Garib Rath Summer Special
+GR
+NER
+Mar 27
+Jun 26
+ANVT
+18:15
+BSBS
+08:10
+13h 55m
+7
+ 	 	 	W	 	 	 
+3A
+781 km
+56 km/hr
+05047
+05047
+Banaras - Anand Vihar Terminal Special Fare Garib Rath Summer Special
+GR
+NER
+Mar 26
+Jun 25
+BSBS
+19:20
+ANVT
+09:30
+14h 10m
+7
+ 	 	T	 	 	 	 
+3A
+781 km
+55 km/hr
+05048
+02518
+Guwahati - Kolkata Special Fare AC SF Special
+ACSF
+NFR
+Jun 29
+GHY
+21:00
+KOAA
+14:30
+17h 30m
+13
+ 	 	 	 	 	 	S
+3A 3E
+1004 km
+57 km/hr
+02517
+02517
+Kolkata - Guwahati Special Fare AC SF Special
+ACSF
+NFR
+Jun 27
+KOAA
+21:40
+GHY
+16:15
+18h 35m
+13
+ 	 	 	 	T	 	 
+3A 3E
+1004 km
+54 km/hr
+02518
+02502
+Agartala - Kolkata Special Fare AC SF Special
+ACSF
+NFR
+Jun 26
+AGTL
+07:35
+KOAA
+14:30
+30h 55m
+19
+ 	 	 	W	 	 	 
+3A 3E
+1565 km
+51 km/hr
+02501
+02501
+Kolkata - Agartala Special Fare AC Special
+ACExp
+NFR
+Jun 30
+KOAA
+21:40
+AGTL
+05:15
+31h 35m
+19
+S	 	 	 	 	 	 
+3A 3E
+1565 km
+50 km/hr
+02502
+01409
+Mumbai LTT - Danapur Special Fare SF Summer Special
+SF
+CR
+Mar 23
+Jun 29
+LTT
+12:15
+DNR
+17:00
+28h 45m
+16
+ 	M	 	 	 	 	S
+SL 3A 2A 1A
+1680 km
+58 km/hr
+01410
+01053
+Mumbai LTT - Banaras Special Fare Summer Special
+Exp
+CR
+Mar 13
+Jun 26
+LTT
+12:15
+BSBS
+16:05
+27h 50m
+13
+ 	 	 	W	 	 	 
+SL 3A 2A 1A
+1494 km
+54 km/hr
+01054
+01124
+Gorakhpur - Mumbai LTT Special Fare Summer Special
+Exp
+CR
+Mar 16
+Jun 29
+GKP
+21:15
+LTT
+07:25
+34h 10m
+15
+ 	 	 	 	 	 	S
+SL 3A 2A
+1676 km
+49 km/hr
+01123
+01123
+Mumbai LTT - Gorakhpur Special Fare Summer Special
+Exp
+CR
+Mar 15
+Jun 28
+LTT
+12:15
+GKP
+18:55
+30h 40m
+15
+ 	 	 	 	 	F	 
+SL 3A 2A
+1676 km
+55 km/hr
+01124
+01432
+Gorakhpur - Pune Special Fare SF Summer Special
+SF
+CR
+Apr 06
+Jun 29
+GKP
+23:25
+PUNE
+06:25
+31h 0m
+18
+ 	 	 	 	 	 	S
+SL 3A
+1745 km
+56 km/hr
+01431
+01046
+Prayagraj - Mumbai LTT Special Fare AC SF Summer Special
+ACSF
+CR
+Mar 13
+Jun 26
+PRYJ
+18:50
+LTT
+16:05
+21h 15m
+11
+ 	 	 	W	 	 	 
+3A 2A 1A
+1342 km
+63 km/hr
+01045
+01045
+Mumbai LTT - Prayagraj Special Fare AC SF Summer Special
+ACSF
+CR
+Mar 12
+Jun 25
+LTT
+12:15
+PRYJ
+11:00
+22h 45m
+11
+ 	 	T	 	 	 	 
+3A 2A 1A
+1342 km
+59 km/hr
+01046
+09733
+Jaipur - Bhiwani Express Special (UnReserved)
+Exp
+NWR
+Mar 12
+Jul 30
+JP
+07:00
+BNW
+14:20
+7h 20m
+17
+S	M	T	W	T	F	S
+292 km
+40 km/hr
+09734
+09734
+Bhiwani - Jaipur Express Special (UnReserved)
+Exp
+NWR
+Mar 12
+Jun 30
+BNW
+16:05
+JP
+23:15
+7h 10m
+17
+S	M	T	W	T	F	S
+292 km
+41 km/hr
+09733
+06171
+Mettupalayam - Udagamandalam MG Summer Special
+Toy
+SR
+Mar 29
+Jul 01
+MTP
+09:10
+UAM
+14:25
+5h 15m
+7
+S	 	 	 	 	F	 
+2S FC
+46 km
+9 km/hr
+06172
+06180
+Udagamandalam - Coonoor MG Special
+Toy
+SR
+Mar 29
+Jul 01
+UAM
+16:45
+ONR
+17:55
+1h 10m
+4
+S	M	 	 	 	F	S
+2S FC
+19 km
+16 km/hr
+06177
+06177
+Coonoor - Udagamandalam MG Special
+Toy
+SR
+Mar 29
+Jul 01
+ONR
+08:20
+UAM
+09:40
+1h 20m
+4
+S	M	 	 	 	F	S
+2S FC
+19 km
+14 km/hr
+06180
+06175
+Udagamadalam Round Trip MG Summer Special
+Toy
+SR
+Mar 29
+Jul 01
+UAM
+15:00
+UAMR
+16:30
+1h 30m
+2
+S	M	 	 	 	F	S
+2S FC
+17 km
+12 km/hr
+06174
+Udagamadalam Round Trip MG Summer Special
+Toy
+SR
+Mar 29
+Jul 01
+UAM
+11:30
+UAMR
+13:10
+1h 40m
+2
+S	M	 	 	 	F	S
+2S FC
+17 km
+10 km/hr
+07638
+Sainagar Shirdi - Tirupati Special Fare Special
+Exp
+SCR
+Jul 01
+SNSI
+19:35
+TPTY
+23:55
+28h 20m
+31
+ 	M	 	 	 	 	 
+SL 3A 2A
+1439 km
+51 km/hr
+07637
+07637
+Tirupati - Sainagar Shirdi Special Fare Special
+Exp
+SCR
+Jun 30
+TPTY
+05:30
+SNSI
+10:45
+29h 15m
+31
+S	 	 	 	 	 	 
+SL 3A 2A
+1439 km
+49 km/hr
+07638
+06172
+Udagamandalam - Mettupalayam MG Summer Special
+Toy
+SR
+Mar 29
+Jul 01
+UAM
+11:25
+MTP
+16:20
+4h 55m
+7
+ 	M	 	 	 	 	S
+2S FC
+46 km
+9 km/hr
+06171
+04152
+Mumbai LTT - Kanpur Central Special Fare SF Special
+SF
+NCR
+Oct 24
+Jun 29
+LTT
+17:15
+CNB
+15:45
+22h 30m
+9
+ 	 	 	 	 	 	S
+SL 3A 2A
+1536 km
+68 km/hr
+04151
+04151
+Kanpur Central - Mumbai LTT Special Fare SF Special
+SF
+NCR
+Oct 23
+Jun 28
+CNB
+15:25
+LTT
+14:55
+23h 30m
+9
+ 	 	 	 	 	F	 
+SL 3A 2A
+1536 km
+65 km/hr
+04152
+22312
+Mumbai LTT - Godda SF Express
+SF
+ER
+Jul 04
+LTT
+08:05
+GODA
+20:30
+36h 25m
+39
+ 	 	 	 	T	 	 
+SL 3A 2A
+2017 km
+55 km/hr
+22311
+15506
+Patliputra - Saharsa Janhit Express
+Exp
+ECR
+Jul 15
+PPTA
+09:20
+SHC
+15:00
+5h 40m
+9
+ 	M	 	 	 	F	 
+SL 3A 2A 3E
+215 km
+38 km/hr
+15505
+15505
+Saharsa - Patliputra Janhit Express
+Exp
+ECR
+Jul 15
+SHC
+23:20
+PPTA
+04:45
+5h 25m
+9
+ 	M	 	 	 	F	 
+SL 3A 2A 3E
+215 km
+40 km/hr
+15506
+05638
+Silchar - Naharlagun Special Fare Special
+Exp
+NFR
+Aug 26
+SCL
+13:50
+NHLN
+08:40
+18h 50m
+17
+ 	M	 	 	 	 	 
+SL 3A 2A
+754 km
+40 km/hr
+05637
+05637
+Naharlagun - Silchar Special Fare Special
+Exp
+NFR
+Aug 27
+NHLN
+10:00
+SCL
+05:20
+19h 20m
+17
+ 	 	T	 	 	 	 
+SL 3A 2A
+754 km
+39 km/hr
+05638
+05628
+Agartala - Guwahati Special Fare Special
+Exp
+NFR
+Aug 29
+AGTL
+19:00
+GHY
+08:45
+13h 45m
+10
+ 	 	 	 	T	 	 
+SL 3A
+571 km
+42 km/hr
+05627
+05627
+Guwahati - Agartala Special Fare Special
+Exp
+NFR
+Aug 30
+GHY
+13:15
+AGTL
+04:10
+14h 55m
+10
+ 	 	 	 	 	F	 
+SL 3A
+571 km
+38 km/hr
+05628
+06243
+KSR Bengaluru - Hosapete Intercity Express Special
+Exp
+SWR
+Sep 13
+SBC
+05:00
+HPT
+16:25
+11h 25m
+22
+S	M	T	W	T	F	S
+SL
+528 km
+46 km/hr
+06244
+06244
+Hosapete - KSR Bengaluru Intercity Express Special
+Exp
+SWR
+Sep 14
+HPT
+12:05
+SBC
+22:45
+10h 40m
+22
+S	M	T	W	T	F	S
+SL
+528 km
+49 km/hr
+06243
