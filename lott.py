@@ -2,7 +2,7 @@ import json
 import requests
 from streamlit_lottie import st_lottie
 def load_lottiefile(filepath:str):
-    with open (filepath, 'r') as f:
+    with open (filepath, 'r',encoding='utf-8') as f:
         return json.load(f)
 def load_lottieurl(url:str):
     r = requests.get(url)
@@ -22,3 +22,4 @@ lottie_over = load_lottiefile("lotti/overview.json")
 lottie_fare = load_lottiefile("lotti/faredetails.json")
 lottie_histo = load_lottiefile("lotti/trainhistor.json")
 lottie_impstt = load_lottiefile("lotti/impstt.json")
+lottie_searchstt = load_lottiefile("lotti/search.json")

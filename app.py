@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-import Home,Traint,Pnrst,Faredetai,Trainh,Trains,Importan,Alltrain,Seatavai,TTrain
+import Home,Traint,Pnrst,Faredetai,Trainh,Trains,Importan,Alltrain,Seatavai,TTrain,Tsearch
 
 st.set_page_config(
                 page_title="Irctc-Dashboard",
@@ -29,6 +29,7 @@ class MultiApp:
                                 'Train Running History',
                                 'IMPORTANT STATIONS & TRAINS',
                                 'Station Information',
+                                'Every station and Train'
                                 ],
                                 icons=['house-fill', 
                                        'train-front-fill',
@@ -39,7 +40,8 @@ class MultiApp:
                                        'clock',
                                        'hourglass',
                                        'star',
-                                       'card-text'],
+                                       'card-text',
+                                       'card'],
                                 menu_icon="cast"
                         ) 
         if app == "Home":
@@ -62,4 +64,6 @@ class MultiApp:
           Seatavai.seatav()
         if app == 'Train Between Station':
           TTrain.ttraint()
+        if app == 'Every station and Train':
+          Tsearch.get_stationt()
     run()   
