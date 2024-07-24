@@ -1,0 +1,55 @@
+Train Number,Train Name,Source Station Code,Source Station Name,Destination Station Code,Destination Station Name
+12001,Habibganj - New Delhi Shatabdi Express,HBJ,HabibGanj,NDLS,New Delhi
+12002,New Delhi - Habibganj Shatabdi Express,NDLS,New Delhi,HBJ,HabibGanj
+12003,Lucknow Jn - New Delhi Swarn Shatabdi Express,LJN,Lucknow NER,NDLS,New Delhi
+12004,New Delhi - Lucknow Jn Swarn Shatabdi Express,NDLS,New Delhi,LJN,Lucknow NER
+12005,New Delhi - Kalka Shatabdi Express,NDLS,New Delhi,KLK,Kalka
+12006,Kalka - New Delhi Shatabdi Express,KLK,Kalka,NDLS,New Delhi
+12007,MGR Chennai Central - Mysuru Shatabdi Express,MAS,Chennai Central,MYS,Mysuru
+12008,Mysuru - MGR Chennai Central Shatabdi Express,MYS,Mysuru,MAS,Chennai Central
+12009,Mumbai Central - Ahmedabad Shatabdi Express,MMCT,Mumbai Central,ADI,Ahmedabad
+12010,Ahmedabad - Mumbai Central Shatabdi Express,ADI,Ahmedabad,MMCT,Mumbai Central
+12011,New Delhi - Kalka Shatabdi Express,NDLS,New Delhi,KLK,Kalka
+12012,Kalka - New Delhi Shatabdi Express,KLK,Kalka,NDLS,New Delhi
+12013,New Delhi - Amritsar Shatabdi Express,NDLS,New Delhi,ASR,Amritsar
+12014,Amritsar - New Delhi Shatabdi Express,ASR,Amritsar,NDLS,New Delhi
+12015,New Delhi - Daurai,NDLS,New Delhi,DOZ,Daurai
+12016,Daurai,DOZ,Daurai,NDLS,New Delhi
+12017,New Delhi - Dehradun Shatabdi Express,NDLS,New Delhi,DDN,Dehradun
+12018,Dehradun - New Delhi Shatabdi Express,DDN,Dehradun,NDLS,New Delhi
+12019,Howrah - Ranchi Shatabdi Express,HWH,Howrah,RNC,Ranchi
+12020,Ranchi - Howrah Shatabdi Express,RNC,Ranchi,HWH,Howrah
+12025,Pune - Secunderabad Shatabdi Express,PUNE,Pune,SC,Secunderabad
+12026,Secunderabad - Pune Shatabdi Express,SC,Secunderabad,PUNE,Pune
+12027,MGR Chennai Central - KSR Bengaluru Shatabdi Express,MAS,Chennai Central,SBC,KSR Bengaluru City
+12028,KSR Bengaluru - MGR Chennai Central Shatabdi Express,SBC,KSR Bengaluru City,MAS,Chennai Central
+12029,New Delhi - Amritsar Swarna Jayanti Shatabdi Express,NDLS,New Delhi,ASR,Amritsar
+12030,Amritsar - New Delhi Swarna Jayanti Shatabdi Express,ASR,Amritsar,NDLS,New Delhi
+12031,New Delhi - Amritsar Shatabdi Express,NDLS,New Delhi,ASR,Amritsar
+12032,Amritsar - New Delhi Shatabdi Express,ASR,Amritsar,NDLS,New Delhi
+12033,Kanpur Central - New Delhi Shatabdi Express,CNB,Kanpur Central,NDLS,New Delhi
+12034,New Delhi - Kanpur Central Shatabdi Express,NDLS,New Delhi,CNB,Kanpur Central
+12035,Jaipur - Agra Fort Shatabdi Express,JP,JAIPUR,AF,AGRA FORT
+12036,Agra Fort - Jaipur Shatabdi Express,AF,AGRA FORT,JP,JAIPUR
+12037,New Delhi - Ludhiana Shatabdi Express,NDLS,New Delhi,LDH,Ludhiana
+12038,Ludhiana - New Delhi Shatabdi Express,LDH,Ludhiana,NDLS,New Delhi
+12039,Kathgodam - New Delhi Shatabdi Express,KGM,Kathgodam,NDLS,New Delhi
+12040,New Delhi - Kathgodam Shatabdi Express,NDLS,New Delhi,KGM,Kathgodam
+12041,Howrah - New Jalpaiguri Shatabdi Express,HWH,Howrah,NJP,New Jalpaiguri
+12042,New Jalpaiguri - Howrah Shatabdi Express,NJP,New Jalpaiguri,HWH,Howrah
+12043,New Delhi - Moga Shatabdi Express,NDLS,New Delhi,MOGA,Moga
+12044,Moga - New Delhi Shatabdi Express,MOGA,Moga,NDLS,New Delhi
+12045,New Delhi - Chandigarh Shatabdi Express,NDLS,New Delhi,CDG,Chandigarh
+12046,Chandigarh - New Delhi Shatabdi Express,CDG,Chandigarh,NDLS,New Delhi
+12047,New Delhi - Firozpur Cantt Shatabdi Express,NDLS,New Delhi,FZR,Firozpur Cantt.
+12048,Firozpur Cantt - New Delhi Shatabdi Express,FZR,Firozpur Cantt.,NDLS,New Delhi
+12049,Gatiman Express,JHS,Jhansi,NZM,Hazrat Nizamuddin
+12050,Gatiman Express,NZM,Hazrat Nizamuddin,JHS,Jhansi
+12085,Guwahati - Dibrugarh Shatabdi Express,GHY,Guwahati,DBRG,Dibrugarh
+12086,Dibrugarh - Guwahati Shatabdi Express,DBRG,Dibrugarh,GHY,Guwahati
+12243,MGR Chennai Central - Coimbatore Shatabdi Express,MAS,Chennai Central,CBE,Coimbatore Main
+12244,Coimbatore -MGR Chennai Central Shatabdi Express,CBE,Coimbatore Main,MAS,Chennai Central
+12277,Howrah - Puri Shatabdi Express,HWH,Howrah,PURI,Puri
+12278,Puri - Howrah Shatabdi Express,PURI,Puri,HWH,Howrah
+12848,Digha - Howrah SUPER AC Express,DGHA,Digha,HWH,Howrah
+22001,Ndls-Bhopal Shatabdi,BPL,Bhopal,NDLS,New Delhi

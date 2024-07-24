@@ -115,21 +115,6 @@ def train_running_history(trainh_no):
         return df
     finally:
         driver.quit()
-
-@st.cache_data(show_spinner=False)
-def importanst():
-    driver = init_driver()
-    url = "https://indianrailways.info/important_stations_and_trains/"
-    driver.get(url)
-    try:
-        train_numbers = driver.find_elements(By.CLASS_NAME, "imp-train-number.white-text")
-        train_names = driver.find_elements(By.CLASS_NAME, "imp-train-name.blue-text")
-        train_number_texts = [train_number.text for train_number in train_numbers]
-        train_name_texts = [train_name.text for train_name in train_names]
-        return train_number_texts, train_name_texts
-    finally:
-        driver.quit()
-
 @st.cache_data(show_spinner=False)
 def faredetails(fairdet_no, arr_st, dep_st):
     driver = init_driver()
@@ -285,15 +270,33 @@ def allTrains(train_code):
         driver.quit() 
 
 @st.cache_data(show_spinner=False)      
-def pnrsta(pnr_no):
-    url = "https://irctc1.p.rapidapi.com/api/v3/getPNRStatus"
-    querystring = {"pnrNumber":pnr_no}
-    headers = {
-	"x-rapidapi-key": "df3df38556mshaf705f750f27340p1e7b40jsncf340947eba6",
-	"x-rapidapi-host": "irctc1.p.rapidapi.com"
-}
-    response = requests.get(url, headers=headers, params=querystring)
-    return response.json()
+def get_pnr_status(pnr_no):
+    driver = init_driver()
+    url = f"https://www.confirmtkt.com/pnr-status/{pnr_no}"
+    driver.get(url)
+    data = {}
+    try:
+        data['PNR Number'] = driver.find_element(By.XPATH, './/div[@class="pnr-block container"]/div[1]/div[1]/span[1]').text
+        data['Chart Status'] = driver.find_element(By.XPATH, './/div[@class="pas-chart"]').text
+        data['Train Number'] = driver.find_element(By.XPATH, './/div[@class="train-info"]/span[1]').text
+        data['Train Name'] = driver.find_element(By.XPATH, './/div[@class="train-info"]/span[2]').text
+        data['From Station'] = driver.find_element(By.XPATH, './/div[@class="light-text-1"]/span[1]').text
+        data['Departure Time'] = driver.find_element(By.XPATH, './/div[@class="light-text-1"]/span[2]').text
+        data['To Station'] = driver.find_element(By.XPATH, './/div[@class="light-text-1"]/span[3]').text
+        data['Arrival Time'] = driver.find_element(By.XPATH, './/div[@class="light-text-1"]/span[4]').text
+        data['Travel Date'] = driver.find_element(By.XPATH, './/div[@class="light-text-1"][2]/span[1]').text
+        data['Reserved Class'] = driver.find_element(By.XPATH, './/div[@class="light-text-1"][2]/span[2]').text
+        data['Quota'] = driver.find_element(By.XPATH, './/div[@class="light-text-1"][2]/span[3]').text
+        data['Platform'] = driver.find_element(By.XPATH, './/div[@class="light-text-1"][2]/span[4]').text
+        data['Serial Number'] = driver.find_element(By.XPATH, './/span[@data-bind="text: Number"]').text
+        data['Current Status'] = driver.find_element(By.XPATH, './/span[@data-bind="text: CurrentStatus"]').text
+        data['Prediction'] = driver.find_element(By.XPATH, './/span[@data-bind="text: Prediction"]').text
+        data['Booking Status'] = driver.find_element(By.XPATH, './/span[@data-bind="text: BookingStatus"]').text
+        data['Coach Position'] = driver.find_element(By.CLASS_NAME, 'table-col.ellipsis').text
+    finally:
+        driver.quit()
+    return data
+
 @st.cache_data(show_spinner=False)
 def seat_avail(from_st, to_st, date):
     driver = init_driver()

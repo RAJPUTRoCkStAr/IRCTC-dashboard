@@ -1,0 +1,36 @@
+Train Number,Train Name,Source Station Code,Source Station Name,Destination Station Code,Destination Station Name
+01713,LTT HBJ Summer Special,LTT,Lokmanyatilak T,HBJ,Habibganj
+01714,HBJ CSTM SUP SPL,HBJ,Habibganj,CSTM,Mumbai Cst
+02509,BNC KYQ SUVIDHA,BNC,Bangalore Cant,KYQ,Kamakhya
+02510,KYQ BNC SUVIDHA,KYQ,Kamakhya,BNC,Bangalore Cant
+02837,HTE ERS SF SPL,SRC,Santragachi Jn,PURI,Puri
+02853,SUVIDHA SPECIAL,HWH,Howrah Jn,ERS,Ernakulam Jn
+02854,ERS HWH SUVIDHA,ERS,Ernakulam Jn,SRC,Santragachi Jn
+03059,HWH NJP SPECIAL,HWH,Howrah Jn,NJP,New Jalpaiguri
+03060,NJP HWH SPECIAL,NJP,New Jalpaiguri,HWH,Howrah Jn
+03129,KOAA APDJ SPL,KOAA,Kolkata,HW,Haridwar Jn
+04407,DURG NZM SPL,PUNE,Pune Jn,NZM,H Nizamuddin
+04408,NZM DURG SPL,NZM,H Nizamuddin,PUNE,Pune Jn
+05027,GKP ANVT SPL,GKP,Gorakhpur Jn,ANVT,Anand Vihar Trm
+05028,ANVT GKP SPL,ANVT,Anand Vihar Trm,GKP,Gorakhpur Jn
+05609,GHY GKP SPECIAL,GHY,Guwahati,GKP,Gorakhpur Jn
+05610,GHY DLK SPL,GKP,Gorakhpur Jn,GHY,Guwahati
+05817,APDJ DBB SPECIAL,APDJ,Alipur Duar Jn,DBB,Dhubri
+05818,DBB APDJ SPECIAL,DBB,Dhubri,APDJ,Alipur Duar Jn
+06336,GUWAHATI EXP,KCVL,Kochuveli,GHY,Guwahati
+07323,HUBBALLI EXP,MAS,Chennai Central,UBL,Hubli Jn
+07324,UBL MAS EXP,UBL,Hubli Jn,MAS,Chennai Central
+07621,PUNE NANDED SPL,PUNE,Pune Jn,NED,H Sahib Nanded
+07622,NED PUNE SPL,NED,H Sahib Nanded,PUNE,Pune Jn
+08243,BSP BGKTSPECIAL,BSP,Bilaspur Jn,BGKT,Bhagat Ki Kothi
+08244,BGKT BSP SPL,BGKT,Bhagat Ki Kothi,BSP,Bilaspur Jn
+08245,BSP BKN SPECIAL,BSP,Bilaspur Jn,BKN,Bikaner Jn
+08246,BKN BSP SPL,BKN,Bikaner Jn,BSP,Bilaspur Jn
+08401,PURI SRC SPL,PURI,Puri,SRC,Santragachi Jn
+08402,SRC PURI SPL,SRC,Santragachi Jn,PURI,Puri
+09309,INDORE SUVIDHA,INDB,Indore Jn Bg,SDAH,Sealdah
+09310,KCVL SUVIDHA SPL,SDAH,Sealdah,INDB,Indore Jn Bg
+09607,NDT UDZ SPL,NDT,Nathdwara,UDZ,Udaipur City
+09608,UDZ NDT SPL,UDZ,Udaipur City,NDT,Nathdwara
+09807,KOTA NZM SUP SPL,KOTA,Kota Jn,NZM,H Nizamuddin
+09808,NZM KOTA Superfast Special,NZM,H Nizamuddin,KOTA,Kota Jn

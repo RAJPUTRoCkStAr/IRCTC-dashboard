@@ -1,0 +1,45 @@
+Train Number,Train Name,Source Station Code,Source Station Name,Destination Station Code,Destination Station Name
+04971,Udaipur City - Jammu Tawi Garib Rath Special,UDZ,Udaipur City,JAT,Jammu Tawi
+04972,Jammu Tawi - Udaipur City Garib Rath Special,JAT,Jammu Tawi,UDZ,Udaipur City
+06511,YPR JP EXP,YPR,Yesvantpur Jn,JP,Jaipur
+12113,Pune - Nagpur Garib Rath Express,PUNE,Pune,NGP,Nagpur
+12114,Nagpur - Pune Garib Rath Express,NGP,Nagpur,PUNE,Pune
+12187,Jabalpur - Mumbai CSMT Garib Rath Express,JBP,Jabalpur,CSMT,Chhatrapati Shivaji Maharaj Terminus
+12188,Mumbai CSMT - Jabalpur Garib Rath Express,CSMT,Chhatrapati Shivaji Maharaj Terminus,JBP,Jabalpur
+12201,Mumbai LTT - Kochuveli Garib Rath Express,LTT,Lokmanya Tilak Terminus,KCVL,Kochuveli
+12202,Kochuveli - Mumbai LTT Garib Rath Express,KCVL,Kochuveli,LTT,Lokmanya Tilak Terminus
+12203,Saharsa - Amritsar Garib Rath Express,SHC,Saharsa,ASR,Amritsar
+12204,Amritsar - Saharsa Garib Rath Express,ASR,Amritsar,SHC,Saharsa
+12207,Kathgodam - Jammu Tawi Garib Rath Express,KGM,Kathgodam,JAT,Jammu Tawi
+12208,Jammu Tawi - Kathgodam Garib Rath Express,JAT,Jammu Tawi,KGM,Kathgodam
+12209,Kanpur Central - Kathgodam Garib Rath Express,CNB,Kanpur Central,KGM,Kathgodam
+12210,Kathgodam - Kanpur Central Garib Rath Express,KGM,Kathgodam,CNB,Kanpur Central
+12211,Muzaffarpur - Anand Vihar Terminal Garib Rath Express,MFP,Muzaffarpur,ANVT,Anand Vihar Terminal
+12212,Anand Vihar Terminal - Muzaffarpur Garib Rath Express,ANVT,Anand Vihar Terminal,MFP,Muzaffarpur
+12215,Delhi Sarai Rohilla - Bandra Terminus Garib Rath Express,DEE,Delhi Sarai Rohilla,BDTS,Bandra Terminus
+12216,Mumbai Bandra,BDTS,Bandra Terminus,DEE,Delhi Sarai Rohilla
+12233,Kathgodam - Jammu Tawi Garib Rath Express,KGM,Kathgodam,JAT,Jammu Tawi
+12234,Jammu Tawi - Kathgodam Garib Rath Express,JAT,Jammu Tawi,KGM,Kathgodam
+12255,Kanpur Central - Kathgodam Garib Rath Express,CNB,Kanpur Central,KGM,Kathgodam
+12256,Kathgodam - Kanpur Central Garib Rath Express,KGM,Kathgodam,CNB,Kanpur Central
+12257,Yesvantpur - Kochuveli Garib Rath Express,YPR,Yesvantpur,KCVL,Kochuveli
+12258,Kochuveli - Yesvantpur Garib Rath Express,KCVL,Kochuveli,YPR,Yesvantpur
+12359,Kolkata - Patna Garib Rath Express,KOAA,Kolkata,PNBE,Patna
+12360,Patna - Kolkata Garib Rath Express,PNBE,Patna,KOAA,Kolkata
+12517,Kolkata - Guwahati Garib Rath Express,KOAA,Kolkata,GHY,Guwahati
+12535,Lucknow Jn - Raipur Garib Rath Express,LJN,Lucknow NER,R,Raipur
+12536,Raipur - Lucknow Jn Garib Rath Express,R,Raipur,LJN,Lucknow NER
+12569,Jaynagar - Anand Vihar Terminal Garib Rath Express,JYG,Jaynagar,ANVT,Anand Vihar Terminal
+12570,Anand Vihar Terminal - Jaynagar Garib Rath Express,ANVT,Anand Vihar Terminal,JYG,Jaynagar
+12593,Lucknow Jn - Bhopal Garib Rath Express,LJN,Lucknow NER,BPL,Bhopal
+12594,Bhopal - Lucknow Jn Garib Rath Express,BPL,Bhopal,LJN,Lucknow NER
+12611,MGR Chennai Central - Hazrat Nizamuddin Garib Rath Express,MAS,Chennai Central,NZM,Hazrat Nizamuddin
+12612,Hazrat Nizamuddin - MGR Chennai Central Garib Rath Express,NZM,Hazrat Nizamuddin,MAS,Chennai Central
+12735,Secunderabad - Yesvantpur Garib Rath Express,SC,Secunderabad,YPR,Yesvantpur
+12736,Yesvantpur - Secunderabad Garib Rath Express,YPR,Yesvantpur,SC,Secunderabad
+12739,Visakhapatnam - Secunderabad Garib Rath Express,VSKP,Visakhapatnam,SC,Secunderabad
+12740,Secunderabad - Visakhapatnam Garib Rath Express,SC,Secunderabad,VSKP,Visakhapatnam
+12881,Shalimar - Puri Garib Rath Express,SHM,Kolkata Shalimar,PURI,Puri
+12983,Ajmer - Chandigarh Garib Rath Express,AII,Ajmer,CDG,Chandigarh
+22405,Bhagalpur - Anand Vihar Terminal Garib Rath Express,BGP,Bhagalpur,ANVT,Anand Vihar Terminal
+22410,Anand Vihar Terminal - Gaya Garib Rath Express,ANVT,Anand Vihar Terminal,GAYA,Gaya

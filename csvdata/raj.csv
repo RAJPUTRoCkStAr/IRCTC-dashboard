@@ -1,0 +1,27 @@
+Train Number,Train Name,Source Station Code,Source Station Name,Destination Station Code,Destination Station Name
+09003,Bandra Terminus - Hazrat Nizamuddin Rajdhani Special,BDTS,Bandra Terminus,NZM,Hazrat Nizamuddin
+09004,Hazrat Nizamuddin - Bandra Terminus Rajdhani Special,NZM,Hazrat Nizamuddin,BDTS,Bandra Terminus
+12301,Howrah - New Delhi Rajdhani Express,HWH,Howrah,NDLS,New Delhi
+12302,New Delhi - Howrah Rajdhani Express,NDLS,New Delhi,HWH,Howrah
+12305,Howrah - New Delhi Rajdhani Express,HWH,Howrah,NDLS,New Delhi
+12306,New Delhi - Howrah Rajdhani Express,NDLS,New Delhi,HWH,Howrah
+12309,Rajendra Nagar Terminal - New Delhi Rajdhani Express,RJPB,Rajendra Nagar Terminal,NDLS,New Delhi
+12310,New Delhi - Rajendra Nagar Terminal Rajdhani Express,NDLS,New Delhi,RJPB,Rajendra Nagar Terminal
+12313,Sealdah - New Delhi Rajdhani Express,SDAH,Sealdah,NDLS,New Delhi
+12314,New Delhi - Sealdah Rajdhani Express,NDLS,New Delhi,SDAH,Sealdah
+12425,New Delhi - Jammu Tawi Rajdhani Express,NDLS,New Delhi,JAT,Jammu Tawi
+12426,Jammu Tawi - New Delhi Rajdhani Express,JAT,Jammu Tawi,NDLS,New Delhi
+12431,Thiruvananthapuram Central - Hazrat Nizamuddin Rajdhani Express,TVC,Thiruvananthapuram Central,NZM,Hazrat Nizamuddin
+20505,Dibrugarh - New Delhi Rajdhani Express,DBRG,Dibrugarh,NDLS,New Delhi
+20817,Bhubaneswar - New Delhi Rajdhani Express,BBS,Bhubaneswar,NDLS,New Delhi
+20818,New Delhi - Bhubaneswar Rajdhani Express,NDLS,New Delhi,BBS,Bhubaneswar
+20839,Ranchi - New Delhi Rajdhani Express,RNC,Ranchi,NDLS,New Delhi
+20840,New Delhi - Ranchi Rajdhani Express,NDLS,New Delhi,RNC,Ranchi
+22221,Mumbai CSMT - Hazrat Nizamuddin Rajdhani Express,CSMT,Chhatrapati Shivaji Maharaj Terminus,NZM,Hazrat Nizamuddin
+22413,Madgaon - Hazrat Nizamuddin Rajdhani Express,MAO,Madgaon,NZM,Hazrat Nizamuddin
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,SBC,KSR Bengaluru City Junction,NZM,Hazrat Nizamuddin
+22692,Hazrat Nizamuddin - KSR Bengaluru Rajdhani Express,NZM,Hazrat Nizamuddin,SBC,KSR Bengaluru City Junction
+22693,RAJDHANI EXP,SBC,Bangalore Cy Jn,NZM,H Nizamuddin
+22694,BANGLORE RAJDHNI,NZM,H Nizamuddin,SBC,Bangalore Cy Jn
+22811,Bhubaneswar - New Delhi Rajdhani Express,BBS,Bhubaneswar,NDLS,New Delhi
+22824,New Delhi - Bhubaneswar Rajdhani Express,NDLS,New Delhi,BBS,Bhubaneswar

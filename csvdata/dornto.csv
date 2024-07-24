@@ -1,0 +1,49 @@
+Train Number,Train Name,Source Station Code,Source Station Name,Destination Station Code,Destination Station Name
+12213,Yesvantpur - Delhi Sarai Rohilla AC Duronto Express,YPR,Yesvantpur,DEE,Delhi Sarai Rohilla
+12214,Delhi Sarai Rohilla - Yesvantpur AC Duronto Express,DEE,Delhi Sarai Rohilla,YPR,Yesvantpur
+12219,Mumbai LTT - Secunderabad AC Duronto Express,LTT,Lokmanya Tilak Terminus,SC,Secunderabad
+12220,Secunderabad - Mumbai LTT AC Duronto Express,SC,Secunderabad,LTT,Lokmanya Tilak Terminus
+12221,Pune - Howrah AC Duronto Express,PUNE,Pune,HWH,Howrah
+12222,Howrah - Pune AC Duronto Express,HWH,Howrah,PUNE,Pune
+12223,Mumbai LTT - Ernakulam AC Duronto Express,LTT,Lokmanya Tilak Terminus,ERS,Ernakulam
+12224,Ernakulam - Mumbai LTT AC Duronto Express,ERS,Ernakulam,LTT,Lokmanya Tilak Terminus
+12227,Mumbai Central - Indore AC Duronto Express,MMCT,Mumbai Central,INDB,Indore
+12228,Indore - Mumbai Central AC Duronto Express,INDB,Indore,MMCT,Mumbai Central
+12239,Mumbai Central - Jaipur AC Duronto Express,MMCT,Mumbai Central,JP,Jaipur
+12240,Jaipur - Mumbai Central AC Duronto Express,JP,Jaipur,MMCT,Mumbai Central
+12245,Howrah - Yesvantpur Duronto Express,HWH,Howrah,YPR,Yesvantpur
+12246,Yesvantpur - Howrah Duronto Express,YPR,Yesvantpur,HWH,Howrah
+12259,Sealdah - Bikaner AC Duronto Express,SDAH,Sealdah,BKN,Bikaner
+12260,Bikaner - Sealdah AC Duronto Express,BKN,Bikaner,SDAH,Sealdah
+12261,Mumbai CSMT - Howrah AC Duronto Express,CSMT,Chhatrapati Shivaji Maharaj Terminus,HWH,Howrah
+12262,Howrah - Mumbai CSMT AC Duronto Express,HWH,Howrah,CSMT,Chhatrapati Shivaji Maharaj Terminus
+12263,Pune - Hazrat Nizamuddin AC Duronto Express,PUNE,Pune,NZM,Hazrat Nizamuddin
+12264,Hazrat Nizamuddin - Pune AC Duronto Express,NZM,Hazrat Nizamuddin,PUNE,Pune
+12265,Delhi Sarai Rohilla - Jammu Tawi Duronto Express,DEE,Delhi Sarai Rohilla,JAT,Jammu Tawi
+12266,Jammu Tawi - Delhi Sarai Rohilla Duronto Express,JAT,Jammu Tawi,DEE,Delhi Sarai Rohilla
+12267,Mumbai Central - Rajkot AC Duronto Express,MMCT,Mumbai Central,RJT,Rajkot
+12268,Rajkot - Mumbai Central AC Duronto Express,RJT,Rajkot,MMCT,Mumbai Central
+12269,M.G.R Chennai Central - Hazrat Nizamuddin Duronto Express,MAS,Chennai Central,NZM,Hazrat Nizamuddin
+12270,Hazrat Nizamuddin - MGR Chennai Central Duronto Express,NZM,Hazrat Nizamuddin,MAS,Chennai Central
+12271,NDLS DURONTO EXP,LKO,Lucknow Nr,NDLS,New Delhi
+12272,LKO DURONTO EXP,NDLS,New Delhi,LKO,Lucknow Nr
+12273,Howrah - New Delhi Duronto Express,HWH,Howrah,NDLS,New Delhi
+12274,New Delhi - Howrah Duronto Express,NDLS,New Delhi,HWH,Howrah
+12281,Bhubaneswar - New Delhi Duronto Express,BBS,Bhubaneswar,NDLS,New Delhi
+12282,New Delhi - Bhubaneswar Duronto Express,NDLS,New Delhi,BBS,Bhubaneswar
+12283,Ernakulam - Hazrat Nizamuddin Duronto Express,ERS,Ernakulam,NZM,Hazrat Nizamuddin
+12284,Hazrat Nizamuddin - Ernakulam Duronto Express,NZM,Hazrat Nizamuddin,ERS,Ernakulam
+12285,Secunderabad - Hazrat Nizamuddin Duronto Express,SC,Secunderabad,NZM,Hazrat Nizamuddin
+12286,Hazrat Nizamuddin - Secunderabad Duronto Express,NZM,Hazrat Nizamuddin,SC,Secunderabad
+12289,Mumbai CSMT - Nagpur Duronto Express,CSMT,Chhatrapati Shivaji Maharaj Terminus,NGP,Nagpur
+12290,Nagpur - Mumbai CSMT Duronto Express,NGP,Nagpur,CSMT,Chhatrapati Shivaji Maharaj Terminus
+12293,Mumbai LTT - Prayagraj AC Duronto Express,LTT,Lokmanya Tilak Terminus,PRYJ,Prayagraj Jn
+12294,Prayagraj - Mumbai LTT AC Duronto Express,PRYJ,Prayagraj Jn,LTT,Lokmanya Tilak Terminus
+12297,Ahmedabad - Pune AC Duronto Express,ADI,Ahmedabad,PUNE,Pune
+12298,Pune - Ahmedabad AC Duronto Express,PUNE,Pune,ADI,Ahmedabad
+22201,Sealdah - Puri Duronto Express,SDAH,Sealdah,PURI,Puri
+22202,Puri - Sealdah Duronto Express,PURI,Puri,SDAH,Sealdah
+22205,MGR Chennai Central - Madurai AC Duronto Express,MAS,Chennai Central,MDU,Madurai
+22206,Madurai - MGR Chennai Central AC Duronto Express,MDU,Madurai,MAS,Chennai Central
+22210,New Delhi - Mumbai Central AC Duronto Express,NDLS,New Delhi,MMCT,Mumbai Central
+22214,Patna - Shalimar Duronto Express,PNBE,Patna,SHM,Kolkata Shalimar
