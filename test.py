@@ -1,87 +1,115 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
-from Datacollect import faredetails, trainbtst
+from Datacollect import faredetails  
 from streamlit_lottie import st_lottie
-from lott import lottie_fare, lottie_Trainbwstation
+from lott import lottie_fare
 
-# Function to fetch train timetable
-def fetch_timetable(fromsta, tosta):
-    with st.spinner(f"Fetching timetable from {fromsta} to {tosta} :tram:"):
-        timetable_df = trainbtst(fromsta, tosta)
-        st.write("Timetable Data:")
-        st.write(timetable_df.head())  # Display the first few rows for debugging
-    return timetable_df
+def clean_dataframe(df):
+    """
+    Ensure that the dataframe has unique column names.
+    """
+    cols = pd.Series(df.columns)
+    for dup in cols[cols.duplicated()].unique(): 
+        cols[cols[cols == dup].index.values.tolist()] = [dup + '_' + str(i) if i != 0 else dup for i in range(sum(cols == dup))]
+    df.columns = cols
+    return df
 
-# Function to fetch fare details for multiple trains
-def fetch_all_fares(train_no_list, arr_st, dep_st):
-    fare_details_list = []
-    for train_no in train_no_list:
-        with st.spinner(f"Fetching fare details for train number {train_no} from {arr_st} to {dep_st} :red_train:"):
-            fare_df1, fare_df2 = faredetails(train_no, arr_st, dep_st)
-            if not fare_df2.empty:
-                fare_df2['Train No'] = train_no  # Add train number to fare details
-                fare_details_list.append(fare_df2)
-                st.write(f"Fare Data for Train {train_no}:")
-                st.write(fare_df2.head())  # Display the first few rows for debugging
-    return pd.concat(fare_details_list) if fare_details_list else pd.DataFrame()
+def filter_seat_types(df, seat_types):
+    """
+    Filter dataframe to include only specific seat types.
+    """
+    if 'Seat Type' in df.columns:
+        return df[df['Seat Type'].isin(seat_types)]
+    return pd.DataFrame()
 
-# Function to plot fare comparison using Plotly
-def plot_fare_comparison(fare_df):
-    if 'Travel Class' in fare_df.columns and 'Fare' in fare_df.columns:
-        fig = px.bar(fare_df, x='Travel Class', y='Fare', color='Train No',
-                     title='Fare Comparison by Travel Class for Different Trains',
-                     labels={'Fare': 'Fare', 'Travel Class': 'Class'})
-        fig.update_layout(xaxis_title='Class', yaxis_title='Fare')
-        st.plotly_chart(fig, use_container_width=True)
-    else:
-        st.error("Expected columns not found in fare details DataFrame.")
-
-# Main function to run the Streamlit app
-def main():
-    st.header("Train Journey Information", divider='rainbow')
-
-    # Train Time Table Section
-    st.subheader("Train Time Table with station :train2: ", divider='rainbow')
-    col3, col4 = st.columns([3, 3])
-    
-    with col3:
-        st.write('Our project includes a "Train Between Stations" feature, allowing users to find trains operating between two specified stations. By entering the departure and destination station names, users can access a list of available trains, including departure and arrival times, travel duration, and train types. The system provides comprehensive details for each train, such as class options and days of operation. The user-friendly interface ensures quick and easy searches, helping travelers plan their journeys efficiently. This tool is designed to offer reliable and up-to-date information, making it simpler to find and choose the best travel options between any two stations.')
-    
-    with col4:
-        st_lottie(lottie_Trainbwstation, speed=1, reverse=True, loop=True, quality='medium', height=380, width=580, key=None)
-
-    fromsta = st.text_input('From Station Name')
-    tosta = st.text_input('To Station Name')
-    
-    if st.button('Get Train Time Table'):
-        if fromsta and tosta:
-            timetable_df = fetch_timetable(fromsta, tosta)
-            
-            if timetable_df is not None and not timetable_df.empty:
-                st.subheader("Available Trains")
-                st.dataframe(timetable_df, hide_index=True, use_container_width=True)
-
-                # Allow user to select a train for fare comparison
-                if st.checkbox("Compare Fares for All Trains"):
-                    train_no_list = timetable_df['Train No'].unique()
-                    st.session_state.train_no_list = train_no_list
-                    st.session_state.arr_st = fromsta
-                    st.session_state.dep_st = tosta
-            else:
-                st.error("No timetable data found.")
-        else:
-            st.error("Please provide both station names.")
-
-    if 'train_no_list' in st.session_state:
-        st.subheader("Fare Comparison for Selected Trains")
-        fare_df = fetch_all_fares(st.session_state.train_no_list, st.session_state.arr_st, st.session_state.dep_st)
+def calculate_differences(df1, df2):
+    """
+    Calculate differences between two dataframes and return a dataframe with differences.
+    Assumes df1 and df2 have the same structure.
+    """
+    try:
+        # Clean the dataframes
+        df1 = clean_dataframe(df1)
+        df2 = clean_dataframe(df2)
         
-        if fare_df is not None and not fare_df.empty:
-            st.dataframe(fare_df, hide_index=True, use_container_width=True)
-            plot_fare_comparison(fare_df)
-        else:
-            st.error("No fare details found.")
+        # Align the dataframes by columns
+        df1 = df1.set_index('Seat Type')
+        df2 = df2.set_index('Seat Type')
+        
+        # Calculate differences
+        diff_df = df1 - df2
+        diff_df.reset_index(inplace=True)
+        
+        return diff_df
+    except Exception as e:
+        return pd.DataFrame({"Error": [str(e)]})
 
-if __name__ == "__main__":
-    main()
+def faredetail():
+    st.header("Check Fare Details :money_with_wings:", divider='rainbow')
+    col1, col2 = st.columns([3, 3])
+    with col1:
+        st.write('Our project includes a comprehensive ticket fare details feature. By entering multiple train numbers and route information, users can access specific fare details, including base fare, taxes, and additional charges for various classes of travel. The system provides a breakdown of costs for different seat types, such as sleeper, AC, and premium classes, and displays any available discounts or special offers. The user-friendly interface ensures that fare information is easy to understand and navigate, allowing travelers to plan their budgets effectively. This feature is designed to give clear, detailed fare information, helping users make informed decisions about their travel arrangements.')
+    with col2:
+        st_lottie(lottie_fare, speed=1, reverse=True, loop=True, quality='medium', height=380, width=580, key=None)
+
+    train_numbers = st.text_area("Enter Train Numbers (comma separated):")
+    arr_st = st.text_input("Enter From Station Code:")
+    dep_st = st.text_input("Enter To Station Code:")
+
+    seat_types = ['3A', '2A', '1A', 'SL']
+
+    if st.button("Get Fare Details"):
+        if train_numbers and arr_st and dep_st:
+            train_numbers_list = [train.strip() for train in train_numbers.split(',')]
+            results = {}
+            differences = {}
+
+            with st.spinner("Fetching data..."):
+                for train_number in train_numbers_list:
+                    df1, df2 = faredetails(train_number, arr_st, dep_st)
+                    if not df1.empty and not df2.empty:
+                        df1.columns = df1.iloc[0]
+                        df1 = df1[1:].reset_index(drop=True)
+                        df2.columns = df2.iloc[0]
+                        df2 = df2[1:].reset_index(drop=True)
+                        
+                        # Filter dataframes to include only relevant seat types
+                        df1 = filter_seat_types(df1, seat_types)
+                        df2 = filter_seat_types(df2, seat_types)
+
+                        results[train_number] = (df1, df2)
+                        
+                        # Calculate differences between the fare details
+                        if len(results) > 1:
+                            previous_train_number = train_numbers_list[train_numbers_list.index(train_number) - 1]
+                            prev_df1, prev_df2 = results[previous_train_number]
+                            diff = calculate_differences(prev_df2, df2)
+                            differences[train_number] = diff
+                    else:
+                        results[train_number] = ("No data found or issue fetching data.", "No data found or issue fetching data.")
+                
+                st.subheader("Comparison of Fare Details :moneybag:", divider='rainbow')
+                for train_number, (df1, df2) in results.items():
+                    st.subheader(f"Train {train_number} Details :train:", divider='rainbow')
+                    if isinstance(df1, str):
+                        st.error(df1)
+                    else:
+                        st.dataframe(df1, hide_index=True, use_container_width=True)
+                    
+                    st.subheader(f"Train {train_number} Fare Details :moneybag:", divider='rainbow')
+                    if isinstance(df2, str):
+                        st.error(df2)
+                    else:
+                        st.dataframe(df2, hide_index=True, use_container_width=True)
+                
+                if len(differences) > 0:
+                    st.subheader("Fare Differences Between Trains :chart_with_upwards_trend:", divider='rainbow')
+                    for train_number, diff_df in differences.items():
+                        st.subheader(f"Difference with Previous Train {train_number} :bar_chart:", divider='rainbow')
+                        if diff_df.empty:
+                            st.error("Error calculating differences.")
+                        else:
+                            st.dataframe(diff_df, hide_index=True, use_container_width=True)
+        else:
+            st.error("Please fill in all input fields.")
+faredetail()
