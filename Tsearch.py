@@ -13,9 +13,9 @@ def get_stationt():
     tabs = option_menu(None, ["Train", "Station"], orientation="horizontal")
     
     if tabs == "Train":
-        st.subheader("All Type of train")
+        st.subheader("All Type of train Detail",divider='rainbow')
         st.dataframe(pd.read_csv('./csvdata/traindata.csv', dtype={'Train Number': str}),hide_index=True,use_container_width=True,height=900)
     if tabs == "Station":
-        st.subheader("All Type of station")
+        st.subheader("All Type of station Detail",divider='rainbow')
         st.dataframe(pd.read_csv('./csvdata/trainavailability.csv'),hide_index=True,use_container_width=True,height=900)
         

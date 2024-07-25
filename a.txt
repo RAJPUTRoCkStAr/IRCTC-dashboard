@@ -1,9 +1,9 @@
-.//div[@class="pas-chart"] -> chart prepaid or not 
-.//th[@class="table-header"] -> header 
-.//span[@data-bind="text: Number"] -> S no 
-.//span[@data-bind="text: CurrentStatus"] -> CurrentStatus
-.//span[@data-bind="text: Prediction"] -> Prediction
-.//span[@data-bind="text: BookingStatus"] -> BookingStatus
-.//th[@class="table-col ellipsis"] -> coach position
-.//span[@data-bind="text: pnr"] -> pnr
-# header_texts = [header.text for header in headers]
+def plot_fare_details(fare_df):
+    if 'Travel Class' in fare_df.columns and 'Adult' in fare_df.columns:
+        fig = px.bar(fare_df, x='Travel Class', y='Adult', 
+                     title='Fare Comparison by Travel Class', 
+                     labels={'Adult': 'Fare', 'Travel Class': 'Class'})
+        fig.update_layout(xaxis_title='Class', yaxis_title='Fare')
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.error("Expected columns not found in fare details DataFrame.")
