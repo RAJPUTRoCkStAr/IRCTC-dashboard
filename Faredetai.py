@@ -6,9 +6,15 @@ def faredetail():
     st.header("Check Fare Details :money_with_wings:",divider='rainbow')
     col1,col2 = st.columns([3,3])
     with col1:
-        st.write('Our project includes a comprehensive ticket fare details feature. By entering a train number or route information, users can access specific fare details, including base fare, taxes, and additional charges for various classes of travel. The system provides a breakdown of costs for different seat types, such as sleeper, AC, and premium classes, and displays any available discounts or special offers. The user-friendly interface ensures that fare information is easy to understand and navigate, allowing travelers to plan their budgets effectively. This feature is designed to give clear, detailed fare information, helping users make informed decisions about their travel arrangements.')
+        st.write("""
+    This feature provides comprehensive ticket fare details. By entering a train number or route information, you can access specific fare details, 
+    including the base fare, taxes, and additional charges for various classes of travel. The system offers a breakdown of costs for different seat 
+    types, such as sleeper, AC, and premium classes, and displays any available discounts or special offers. With a user-friendly interface, fare 
+    information is easy to understand and navigate, helping you plan your budget effectively. This tool is designed to provide clear and detailed 
+    fare information, enabling you to make informed decisions about your travel arrangements.
+""")
     with col2:
-        st_lottie(lottie_fare, speed=1, reverse=True, loop=True, quality='medium', height=380, width=580, key=None)
+        st_lottie(lottie_fare, speed=1, reverse=True, loop=True, quality='medium', height=380, width=680, key=None)
     fairdet_no = st.text_input("Enter Train Number:")
     arr_st = st.text_input("Enter From Station Code:")
     dep_st = st.text_input("Enter To Station Code:")

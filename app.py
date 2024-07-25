@@ -32,16 +32,16 @@ class MultiApp:
                                 'Every station and Train'
                                 ],
                                 icons=['house-fill', 
-                                       'train-front-fill',
-                                       'train-front-fill',
-                                       'ticket-detailed',
-                                       'currency-rupee',
-                                       'person-vcard',
-                                       'clock',
-                                       'hourglass',
-                                       'star',
-                                       'card-text',
-                                       'journal'],
+                                'train-front-fill',
+                                'train-freight-front',
+                                'ticket-detailed',
+                                'currency-rupee',
+                                'person-vcard',
+                                'clock',
+                                'hourglass',
+                                'star',
+                                'card-text',
+                                'journal'],
                                 menu_icon="cast"
                         ) 
         if app == "Home":

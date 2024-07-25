@@ -1,9 +1,0 @@
-def plot_fare_details(fare_df):
-    if 'Travel Class' in fare_df.columns and 'Adult' in fare_df.columns:
-        fig = px.bar(fare_df, x='Travel Class', y='Adult', 
-                     title='Fare Comparison by Travel Class', 
-                     labels={'Adult': 'Fare', 'Travel Class': 'Class'})
-        fig.update_layout(xaxis_title='Class', yaxis_title='Fare')
-        st.plotly_chart(fig, use_container_width=True)
-    else:
-        st.error("Expected columns not found in fare details DataFrame.")

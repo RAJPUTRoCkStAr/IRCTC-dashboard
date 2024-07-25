@@ -6,9 +6,16 @@ def trainhist():
     st.subheader('Train Running History :oncoming_bus:',divider='rainbow')
     col1,col2 = st.columns([3,3])
     with col1:
-        st.write('Our project features a train running history tracker that provides detailed records of a trains past performance. By entering the train number, users can access historical data, including previous departure and arrival times, delays, and on-time performance statistics. This system offers a comprehensive view of a trains reliability and punctuality over time. The intuitive interface ensures easy navigation and access to valuable insights, helping travelers make informed decisions based on a trains track record. This tool is ideal for analyzing trends and planning journeys with confidence, ensuring a smooth and well-informed travel experience.')
+        st.write("""
+    This feature provides a train running history tracker that offers detailed records of a train's past performance. By entering the train number, 
+    users can access historical data, including previous departure and arrival times, delays, and on-time performance statistics. This system 
+    delivers a comprehensive view of a train's reliability and punctuality over time. With an intuitive interface, users can easily navigate and 
+    access valuable insights, helping them make informed decisions based on the train's track record. Ideal for analyzing trends and planning journeys, 
+    this tool ensures a smooth and well-informed travel experience.
+    """)
+
     with col2:
-        st_lottie(lottie_histo, speed=1, reverse=True, loop=True, quality='medium', height=380, width=580, key=None)
+        st_lottie(lottie_histo, speed=1, reverse=True, loop=True, quality='medium', height=380, width=680, key=None)
     trainh_no = st.number_input('Train Number',value=None,format='%d')
     if st.button('Train Running History'):
         if trainh_no:

@@ -10,17 +10,14 @@ def station_inf():
     col1, col2 = st.columns([3, 3])
     with col1:
         st.write("""
-            Our project includes an "All Trains" feature that displays detailed station information 
-            and upcoming train data for the next 24 hours. By selecting a station, users can view 
-            a comprehensive list of all trains scheduled to arrive and depart within the next day. 
-            The system provides crucial details, such as train numbers, departure and arrival times, 
-            platform numbers, and any expected delays. The user-friendly interface ensures easy access 
-            to this information, helping travelers plan their visits and connections efficiently. 
-            This tool is designed to provide clear, up-to-date details, ensuring that users are well-informed 
-            about train schedules and station activities.
-        """)
+    This feature provides comprehensive information about all trains scheduled at a selected station for the next 24 hours. By choosing a station, 
+    you can view a complete list of trains arriving and departing within the next day. The system offers essential details such as train numbers, 
+    departure and arrival times, platform assignments, and any expected delays. With a user-friendly interface, accessing this information is easy 
+    and efficient, helping you plan your visits and connections effectively. This tool ensures you stay well-informed about train schedules and station 
+    activities with clear and up-to-date details.
+    """)
     with col2:
-        st_lottie(lottie_impstt, speed=1, reverse=True, loop=True, quality='medium', height=380, width=580)
+        st_lottie(lottie_impstt, speed=1, reverse=True, loop=True, quality='medium', height=380, width=680)
 
     train_code = st.text_input('Enter Train Code')
 
