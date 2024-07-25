@@ -14,6 +14,6 @@ def traint():
         if traint_num:
             with st.spinner(f"Fetching Time Table of train number :red-background[{int(traint_num)}] :tram:"):
                 df = traintimetable(traint_num)
-                st.dataframe(df,hide_index=True,use_container_width=True)
+                st.dataframe(df,hide_index=True,use_container_width=True,height=900)
         else:
             st.warning('Please provide train number')

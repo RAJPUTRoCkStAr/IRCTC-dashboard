@@ -1,4 +1,3 @@
-import time
 import streamlit as st
 import pandas as pd
 from selenium import webdriver
@@ -6,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import requests
+import datetime
 ################################################################
 def init_driver():
     options = webdriver.ChromeOptions()
@@ -38,6 +37,14 @@ def make_column_headers_unique(headers):
             seen[header] += 1
             unique_headers.append(f"{header}_{seen[header]}")
     return unique_headers
+def add_months(source_date, months):
+        month = source_date.month - 1 + months
+        year = source_date.year + month // 12
+        month = month % 12 + 1
+        day = min(source_date.day, [31,
+            29 if year % 4 == 0 and not year % 100 == 0 or year % 400 == 0 else 28,
+            31, 30, 31, 30, 31, 31, 30, 31, 30, 31][month - 1])
+        return datetime.date(year, month, day)
 ################################################################
 ## making all the functions 
 @st.cache_data(show_spinner=False)
@@ -50,14 +57,16 @@ def train_running_status(trains_no, trains_date):
     train_date = driver.find_element(By.ID, "run_day")
     train_date.send_keys(trains_date.strftime("%Y-%m-%d"))
     trains_num.send_keys(Keys.ENTER)
+
     try:
-        table = WebDriverWait(driver, 2).until(
+        table = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, ".table.table-striped.table-bordered"))
         )
         headers = table.find_elements(By.TAG_NAME, 'th')
         header_data = [header.text for header in headers]
         table_data = [header_data]
         rows = table.find_elements(By.TAG_NAME, 'tr')
+        
         for row in rows[1:]:
             cells = row.find_elements(By.TAG_NAME, 'td')
             if cells:
@@ -69,10 +78,14 @@ def train_running_status(trains_no, trains_date):
                     row_data.append(text)
                 row_data = fill_missing_data(row_data)
                 table_data.append(row_data)
-        
-        if len(table_data) == 1:
-            table_data.append(['1'])
-        df = pd.DataFrame(table_data[1:], columns=table_data[0])
+
+        max_columns = max(len(row) for row in table_data)
+        normalized_table_data = [row + [''] * (max_columns - len(row)) for row in table_data]
+
+        header = normalized_table_data[0]
+        data_rows = normalized_table_data[1:]
+
+        df = pd.DataFrame(data_rows, columns=header)
         return df
     finally:
         driver.quit()

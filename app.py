@@ -41,7 +41,7 @@ class MultiApp:
                                        'hourglass',
                                        'star',
                                        'card-text',
-                                       'card'],
+                                       'journal'],
                                 menu_icon="cast"
                         ) 
         if app == "Home":

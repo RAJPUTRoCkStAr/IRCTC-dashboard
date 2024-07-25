@@ -1,7 +1,7 @@
 import streamlit as st
-from datetime import datetime
+import datetime
 from streamlit_lottie import st_lottie
-from Datacollect import seat_avail  
+from Datacollect import seat_avail,add_months 
 from lott import lottie_seatavail
 
 def seatav():
@@ -13,7 +13,9 @@ def seatav():
         st_lottie(lottie_seatavail, speed=1, reverse=True, loop=True, quality='medium', height=280, width=580, key=None)
     from_station = st.text_input("From Station")
     to_station = st.text_input("To Station")
-    date = st.date_input("Date")
+    today = datetime.date.today()
+    five_months = add_months(today, 5)
+    date = st.date_input("Date",max_value=five_months,min_value=today)
     if st.button("Check Availability"):
         if from_station and to_station and date:
             with st.spinner(f"Checking Seat Availability from :red-background[{from_station}] to :red-background[{to_station}] on :red-background[{date.strftime('%d %b %Y')}] :train2:"):

@@ -1,5 +1,5 @@
 import streamlit as st
-from Datacollect import train_running_history
+from Datacollect import train_running_history,add_months
 from streamlit_lottie import st_lottie
 from lott import lottie_histo
 def trainhist():
@@ -14,6 +14,6 @@ def trainhist():
         if trainh_no:
             with st.spinner(f"Fetching data for train number :red-background[{int(trainh_no)}] :tram:"):
                 df = train_running_history(trainh_no)
-                st.dataframe(df,hide_index=True,use_container_width=True)
+                st.dataframe(df,hide_index=True,use_container_width=True,height=900)
         else:
             st.warning('Please provide a train number')

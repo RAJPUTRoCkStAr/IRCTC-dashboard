@@ -11,9 +11,11 @@ def get_stationt():
     with col2:
         st_lottie(lottie_searchstt, speed=1, reverse=True, loop=True, quality='medium', height=280, width=580, key=None)
     tabs = option_menu(None, ["Train", "Station"], orientation="horizontal")
+    
     if tabs == "Train":
         st.subheader("All Type of train")
         st.dataframe(pd.read_csv('./csvdata/traindata.csv', dtype={'Train Number': str}),hide_index=True,use_container_width=True,height=900)
     if tabs == "Station":
         st.subheader("All Type of station")
-        st.dataframe(pd.read_csv('./csvdata/trainavailability.csv', dtype={'Train Number': str}),hide_index=True,use_container_width=True,height=900)
+        st.dataframe(pd.read_csv('./csvdata/trainavailability.csv'),hide_index=True,use_container_width=True,height=900)
+        
